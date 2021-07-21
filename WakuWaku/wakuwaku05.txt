@@ -1,0 +1,93 @@
+the five senses;ごかん;五感;wakuwaku 5
+sense of sight / vision;しかく;視覚;wakuwaku 5
+taste / palate / sense of taste;みかく;味覚;wakuwaku 5
+the sense of smell;しゅうかく;臭覚;wakuwaku 5
+the sense of hearing;ちょうかく;聴覚;wakuwaku 5
+sense of touch;しょっかく;触覚;wakuwaku 5
+to taste;あじわう;味わう;wakuwaku 5
+soybean;だいず;大豆;wakuwaku 5
+chestnut;くり;栗;wakuwaku 5
+ingredient / material;そざい;素材;wakuwaku 5
+soft / tender;やわらかい;柔らかい;wakuwaku 5
+unique;ユニーク;;wakuwaku 5
+rotation;まわり;;wakuwaku 5
+portion / section / part;せいぶん;部分;wakuwaku 5
+healthy;けんこうてきな;健康的な;wakuwaku 5
+vitamin;ビタミン;;wakuwaku 5
+mineral;ミネラル;;wakuwaku 5
+oil;あぶら;油;wakuwaku 5
+to look like / to resemble;にる;似る;wakuwaku 5
+rule;ルール;;wakuwaku 5
+certain to / sure to;きまっている;;wakuwaku 5
+meeting;であい;出会い;wakuwaku 5
+guest / visitor;おきゃくさん;お客さん;wakuwaku 5
+tea party;おちゃかい;お茶会;wakuwaku 5
+to start a party;ひらく;パーティーを開く;wakuwaku 5
+to turn back (e.g. half-way);もどる;戻る;wakuwaku 5
+everything / all / the whole;すべて;全て;wakuwaku 5
+the whole time;ずっと;;wakuwaku 5
+surely / undoubtedly;きっと;;wakuwaku 5
+expectation / anticipation / hope;きたい;期待;wakuwaku 5
+returning home;きたく;帰宅;wakuwaku 5
+precious / valuable;きちょう;貴重;wakuwaku 5
+entry (in a form / data);きにゅう;記入;wakuwaku 5
+celebration / honoring the memory of something;きねん;記念;wakuwaku 5
+function / feature;きのう;機能;wakuwaku 5
+to feel sorry / to regret;きのどく;気の毒;wakuwaku 5
+contribution / donation;きふ;寄付;wakuwaku 5
+hope / wish;きぼう;希望;wakuwaku 5
+basic / fundamentals;きほん;基本;wakuwaku 5
+strange / odd;きみょう;奇妙;wakuwaku 5
+duty / obligation / responsibilty;ぎむ;義務;wakuwaku 5
+doubt / suspicion;ぎもん;疑問;wakuwaku 5
+reverse / opposite;ぎゃく;逆;wakuwaku 5
+holiday / day off;きゅうか;休暇;wakuwaku 5
+rest / break;きゅうけい;休憩;wakuwaku 5
+sudden / rapid ;きゅうげき;急激;wakuwaku 5
+absorption;きゅうしゅう;吸収;wakuwaku 5
+aid / rescue;きゅうじょ;救助;wakuwaku 5
+rapid (e.g. progress);きゅうそく;急速;wakuwaku 5
+event;イベント;;wakuwaku 5
+visit to a grave;おはかまいり;お墓参り;wakuwaku 5
+cucumber (Cucumis sativus);きゅうり;;wakuwaku 5
+eggplant;なす;;wakuwaku 5
+to die;なくなる;亡くなる;wakuwaku 5
+ancestor;せんぞ;先祖;wakuwaku 5
+soul / spirit;れい;霊;wakuwaku 5
+to decorate;かざる;飾る;wakuwaku 5
+to go out to meet;むかえる;迎える;wakuwaku 5
+world of the dead / the other world;あのよ;あの世;wakuwaku 5
+the rest / the others;ほか;その他;wakuwaku 5
+district / region;ちほう;地方;wakuwaku 5
+depressed / to feel down;気がおもい;;wakuwaku 5
+to be careful / to pay attention / to take care;気をつける;;wakuwaku 5
+to notice / to become aware;気がつく;;wakuwaku 5
+to care about details;気がきく;;wakuwaku 5
+to mind / to care about;気にする;;wakuwaku 5
+to get along (with someone);気が合う;;wakuwaku 5
+to like / to be pleased with;気にいる;;wakuwaku 5
+to be interested (in) / to be curious (about);気になる;;wakuwaku 5
+according to;によって違う;;wakuwaku 5
+concerning / regarding;について;;wakuwaku 5
+known for;で有名だ;;wakuwaku 5
+made of;でできた;;wakuwaku 5
+skillful;きよう;器用;wakuwaku 5
+game / match / contest;きょうぎ;競技;wakuwaku 5
+manners / behavior / behaviour;ぎょうじ;行儀;wakuwaku 5
+supply / provision;きょうきゅう;供給;wakuwaku 5
+professor;きょうじゅ;教授;wakuwaku 5
+emphasis (on sth);きょうちょう;強調;wakuwaku 5
+common / shared / mutual;きょうつう;共通;wakuwaku 5
+doing together / sharing / common;きょうどう;共同;wakuwaku 5
+fear / terror;きょうふ;恐怖;wakuwaku 5
+cooperation / collaboration;きょうりょく;協力;wakuwaku 5
+powerful / strong;きょうりょく;強力;wakuwaku 5
+permission / approval;きょか;許可;wakuwaku 5
+office / department;きょく;局;wakuwaku 5
+huge / gigantic / enormous;きょだい;巨大;wakuwaku 5
+fog / mist;きり;霧;wakuwaku 5
+record / document;きろく;記録;wakuwaku 5
+debate / discussion;ぎろん;議論;wakuwaku 5
+no smoking area;きんえん;禁煙;wakuwaku 5
+amount of money;きんがく;金額;wakuwaku 5
+safe / vault;きんこ;金庫;wakuwaku 5

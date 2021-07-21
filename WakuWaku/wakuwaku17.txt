@@ -1,0 +1,87 @@
+﻿dialect;ほうげん;方言;wakuwaku 17
+difference;さ;差;wakuwaku 17
+to observe;かんさつする;観察する;wakuwaku 17
+oneself / myself;じぶんじしん;自分自身;wakuwaku 17
+Well;さて;;wakuwaku 17
+to grow hair;けがのびる;毛が伸びる ;wakuwaku 17
+hair falling out;けがぬける;毛が抜ける ;wakuwaku 17
+to add;たす;足す ;wakuwaku 17
+to compare;ひかくする;比較する;wakuwaku 17
+killing time / waste of time;はまつぶし;暇つぶし ;wakuwaku 17
+to connect;つなぐ;繋ぐ ;wakuwaku 17
+always;つねに;常に ;wakuwaku 17
+wings;つばさ;翼;wakuwaku 17
+in other words;つまり;;wakuwaku 17
+crime;つみ;罪;wakuwaku 17
+to stuff into / to fill;つめる;詰める ;wakuwaku 17
+to accumulate;つもる;積もる;wakuwaku 17
+tough / difficult;つらい;辛い;wakuwaku 17
+fishing;つり;釣り ;wakuwaku 17
+companion;つれ;連れ;wakuwaku 17
+proposition / suggestion;ていあん;提案 ;wakuwaku 17
+regular;ていきてきな;定期的な;wakuwaku 17
+resistance;ていこう;抵抗;wakuwaku 17
+to hand in / to submit;ていしゅつする;提出する;wakuwaku 17
+around one hour;いちじかんていど;1時間程度;wakuwaku 17
+bus stop;ていりゅうじょ;停留所;wakuwaku 17
+opponent / rival;てき;敵;wakuwaku 17
+incident / affair;できごと;出来事;wakuwaku 17
+to fit / to suit;てきする;適する;wakuwaku 17
+appropriate;てきせつな;適切な;wakuwaku 17
+typical;てんけいてきな;典型的な;wakuwaku 17
+bowl;おじぎ;お辞儀;wakuwaku 17
+extremely;もっとも;最も;wakuwaku 17
+to welcome (someone);むかえる;迎える;wakuwaku 17
+to escort (someone);みおくる;見送る;wakuwaku 17
+to thank;かんしゃする;感謝する;wakuwaku 17
+polity;ていねいな;丁寧な ;wakuwaku 17
+to lead to;おこす;起こす;wakuwaku 17
+to support;ささえる;支える ;wakuwaku 17
+identity;アイデンティティ;;wakuwaku 17
+to commit a crime;つみをおかす;罪を犯す;wakuwaku 17
+to cool down;さめる;冷める;wakuwaku 17
+to criticise;ひはんする;批判する;wakuwaku 17
+shame;はじ;恥;wakuwaku 17
+to permit;ゆるす;許す;wakuwaku 17
+judgement;さいばん;裁判 ;wakuwaku 17
+to develop;はってんする;発展する;wakuwaku 17
+to settle on sth ;かいけつ;解決する;wakuwaku 17
+formally;せいしきに;正式に;wakuwaku 17
+to wash out;すすぐ;;wakuwaku 17
+physical;ぶつりてきな;物理的な;wakuwaku 17
+to clean off dirt;よごれをおとす;;wakuwaku 17
+to gather water;みずをすくう;水をすくう;wakuwaku 17
+to sprinkle water on (sth);みずをかける;水をかける;wakuwaku 17
+to transfer something from one hand to the other;もちかえす;持ち替える;wakuwaku 17
+bowl;おわん;おわん;wakuwaku 17
+pattern;え;柄;wakuwaku 17
+original position;もとのいち;元の位置;wakuwaku 17
+to return;もどす;戻す;wakuwaku 17
+to shake the bell;すずをふる;鈴を振る;wakuwaku 17
+to clap;はくしゅする;拍手する;wakuwaku 17
+to match hands;てをあわせる;手を合わせる;wakuwaku 17
+apology;しゃざい;謝罪 ;wakuwaku 17
+request;いらい;依頼;wakuwaku 17
+to call out to ;よびかけ;呼びかけ;wakuwaku 17
+regrettable;いかん;遺憾;wakuwaku 17
+pity;あわれみ;憐み;wakuwaku 17
+to listen again;ききかえし;聞き返し;wakuwaku 17
+moderate;てきどな;適度な;wakuwaku 17
+being applied;てきようされる;適用される;wakuwaku 17
+magic trick;てじな;手品;wakuwaku 17
+therefore;ですから;;wakuwaku 17
+iron;てつ;鉄;wakuwaku 17
+philosophy;てつがく;哲学;wakuwaku 17
+thoroughness;てってい;徹底;wakuwaku 17
+railway;てつだう;鉄道;wakuwaku 17
+sleepless night;てつやする;徹夜する;wakuwaku 17
+Well then ;では;;wakuwaku 17
+time of work;てま;手間;wakuwaku 17
+weather;てんこう;天候;wakuwaku 17
+electronic;でんし;電子;wakuwaku 17
+tradition;でんとう;伝統;wakuwaku 17
+natural;てんねん;天然 ;wakuwaku 17
+question;とい;問い;wakuwaku 17
+(political) party;とう;党;wakuwaku 17
+tower;とう;塔;wakuwaku 17
+examination paper;とうあん;答案 ;wakuwaku 17

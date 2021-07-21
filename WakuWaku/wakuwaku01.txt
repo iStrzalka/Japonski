@@ -1,0 +1,77 @@
+Shinto / Shintoism;しんとう;神道;wakuwaku 1
+Judaism;ユダヤ教;;wakuwaku 1
+Islam;イスラム教;;wakuwaku 1
+Buddhism;ぶっきょう;仏教;wakuwaku 1
+Christianity;キリスト教;;wakuwaku 1
+believer / adherent;きょうと;教徒;wakuwaku 1
+irreligion / lack of religion;むしゅうきょう;無宗教;wakuwaku 1
+variety / kind / type / category;しゅるい;種類;wakuwaku 1
+to be mixed with;まざる;混ざる;wakuwaku 1
+national holiday / festival day;さいじつ;祭日;wakuwaku 1
+relation / connection;かんけい;関係;wakuwaku 1
+deep;ふかい;深い;wakuwaku 1
+connection ;つながり;;wakuwaku 1
+by the way;ちなみに;;wakuwaku 1
+in other words;つまり;;wakuwaku 1
+clearly / obvious;あきらか;明らか;wakuwaku 1
+to give up / to abandon (plans);あきらめる;諦める;wakuwaku 1
+to get tired of / to be fed up with;あきる;飽きる;wakuwaku 1
+to leave (in someone's keeping) / to put (in someone's care);あずける;預ける;wakuwaku 1
+to admit / to confer;あたえる;与える;wakuwaku 1
+to deal with / to handle / to manage / to take care of;あつかう;扱う;wakuwaku 1
+hole;あな;穴;wakuwaku 1
+error / mistake / slip / bug;あやまり;誤り;wakuwaku 1
+to appear / to become visible;あらわれる;現れる;wakuwaku 1
+all / every;あらゆる;;wakuwaku 1
+or / either ... or;あるいは;;wakuwaku 1
+bubble;あわ;泡;wakuwaku 1
+memorization / learning by heart;あんき;暗記;wakuwaku 1
+stability;あんてい;安定する;wakuwaku 1
+unexpected / surprising;いがい;意外;wakuwaku 1
+breath / breathing;いき;息;wakuwaku 1
+vigour / energy / life;いきおい;勢い;wakuwaku 1
+will / intent / intention;いし;意志;wakuwaku 1
+maintenance;いじ;維持;wakuwaku 1
+consciousness;いしき;意識;wakuwaku 1
+catholic priest;しんぷ;神父;wakuwaku 1
+monastery;しゅうどういん;修道院;wakuwaku 1
+publication / issue (of journal / newspapaer etc);はっこう;発行する;wakuwaku 1
+philosophy;てつがく;哲学;wakuwaku 1
+being deeply moved emotionally;かんどう;感動;wakuwaku 1
+(Catholic) Mass;ミサ;;wakuwaku 1
+seminary;しんがっこう;神学校;wakuwaku 1
+come to think of it / that reminds me / speaking of which;そういえば;;wakuwaku 1
+how long / how far / how much;どれぐらい;;wakuwaku 1
+very;すごく;;wakuwaku 1
+and the like / and so on;とか;;wakuwaku 1
+strangeness / abnormality / disorder;いじょう;異常;wakuwaku 1
+fountain;いずみ;泉;wakuwaku 1
+great / grand / magnificent;いだい;偉大;wakuwaku 1
+mischief / prank;いたずら;;wakuwaku 1
+to arrive at (a destination) / to reach / to lead to (a place);いたる;至る;wakuwaku 1
+location / position;いち;位置;wakuwaku 1
+instant / in a moment;いっしゅん;一瞬;wakuwaku 1
+much more / more than ever;いっそう;一層;wakuwaku 1
+union / match / agreement;いっち;一致;wakuwaku 1
+to move / to migrate;いどう;移動する;wakuwaku 1
+rice plant;いね;稲;wakuwaku 1
+violation / breaking (a contract / promise);いはん;違反;wakuwaku 1
+living room;いま;居間;wakuwaku 1
+request;いらい;依頼;wakuwaku 1
+medical care / medical treatment;いりょう;医療;wakuwaku 1
+the so-called;いわゆる;;wakuwaku 1
+printing;いんさつ;印刷;wakuwaku 1
+retirement;いんたい;引退;wakuwaku 1
+quotation / reference;いんよう;引用;wakuwaku 1
+gargling / rinsing one's mouth;うがいする;;wakuwaku 1
+Middle East;中東（ちゅうとう）;;wakuwaku 1
+prayer / supplication;お祈り（おいのり）;;wakuwaku 1
+event / function;行事（ぎょうじ）;;wakuwaku 1
+national holiday / festival day;さいじつ;祭日;wakuwaku 1
+snow shoveling;雪かき;;wakuwaku 1
+Bible;聖書（せいしょ）;;wakuwaku 1
+New Testament;新約聖書（しんやくせいしょ）;;wakuwaku 1
+Old Testament;旧約聖書（きゅうやくせいしょ）;;wakuwaku 1
+mosque;モスク;;wakuwaku 1
+synagogue;シナゴーグ;;wakuwaku 1
+Christian Church;教会（きょうかい）;;wakuwaku 1

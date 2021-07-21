@@ -1,0 +1,83 @@
+metropolis / big city;だいとかい;大都会;wakuwaku 8
+escape / break-out;だっしゅつ;脱出;wakuwaku 8
+rent;やちん;家賃;wakuwaku 8
+depression / melancholy;ゆううつ;憂鬱;wakuwaku 8
+to take care of;せわ;世話する;wakuwaku 8
+countryside / rural area;いなか;田舎;wakuwaku 8
+agriculture;のうぎょう;農業;wakuwaku 8
+moreover / furthermore;さらに;;wakuwaku 8
+to want / to wish for;もとめる;求める;wakuwaku 8
+to move (house);ひっこす;引っ越す;wakuwaku 8
+to summon courage / to be brave;ゆうきをだす;勇気を出す;wakuwaku 8
+home area / home town;じもと;地元;wakuwaku 8
+farmer;のうか;農家;wakuwaku 8
+area / region;ちいき;地域;wakuwaku 8
+persuasion;せっとくする;説得する;wakuwaku 8
+killing two birds with one stone;いっせきにちょう;一石二鳥;wakuwaku 8
+to be in the same team;ににんさんきゃく;二人三脚;wakuwaku 8
+everybody's friend / person who is affable to everybody;はっぽうびじん;八方美人;wakuwaku 8
+everyone is different;じゅうにんといろ;十人十色;wakuwaku 8
+not giving up;ななころびやおき;七転八起;wakuwaku 8
+in all directions;しほうはっぽう;四方八方;wakuwaku 8
+ideal / ideals;りそう;理想;wakuwaku 8
+birth / birthplace;うまれそだった;生まれ育った;wakuwaku 8
+each other / one another;おたがい;お互い;wakuwaku 8
+to be grateful / to be indebted;おせわになる;お世話になる;wakuwaku 8
+individual / unique;こせいてきなひと;個性的な人;wakuwaku 8
+shaved ice (usually served with flavored simple syrup);こおり;氷;wakuwaku 8
+to freeze;こおる;凍る;wakuwaku 8
+misunderstanding;ごかい;誤解;wakuwaku 8
+breathing;こきゅう;呼吸;wakuwaku 8
+home town / birthplace;こきょう;故郷;wakuwaku 8
+blackboard;こくばん;黒板;wakuwaku 8
+overcoming / conquest (of a difficulty / illness etc.);こくふく;克服;wakuwaku 8
+citizens;こくみん;国民;wakuwaku 8
+failure / fault;こしょう;故障;wakuwaku 8
+individual / pindividual / personal;こじん;個人;wakuwaku 8
+state / country / nation;こっか;国家;wakuwaku 8
+parlament;こっかい;国会;wakuwaku 8
+national border;こっきょう;国境;wakuwaku 8
+bone fracture;こっせつ;骨折;wakuwaku 8
+package;こづつみ;小包;wakuwaku 8
+to differ;ことなる;異なる;wakuwaku 8
+saying / proverb;ことわざ;諺;wakuwaku 8
+wheat;こむぎ;小麦;wakuwaku 8
+to be jammed;こんざつ;混雑;wakuwaku 8
+difficulty / hardship;こんなん;困難;wakuwaku 8
+to make a short visit / to stop by;よる;寄る;wakuwaku 8
+eldery person;おとしより;お年寄り;wakuwaku 8
+retirement;いんたい;引退;wakuwaku 8
+sumo wrestler;りきし;力士;wakuwaku 8
+old age;ろうご;老後;wakuwaku 8
+lively / active;かっぱつてき;活発的な;wakuwaku 8
+postwar period;せんご;戦後;wakuwaku 8
+sense of values / values / value system;かちかん;価値観;wakuwaku 8
+secret / key (ex. to success);ひけつ;秘訣;wakuwaku 8
+retirement age;ていねん;定年;wakuwaku 8
+activity (of a person);かつどう;活動;wakuwaku 8
+gymnastics;たいそう;体操;wakuwaku 8
+friendship;ゆうじょう;友情;wakuwaku 8
+sense of accomplishment;たっせいかん;達成感;wakuwaku 8
+to rescue from / to help out of / to save;すくう;救う;wakuwaku 8
+about / roughly / approximately;およそ;;wakuwaku 8
+destruction / disruption;はかい;破壊;wakuwaku 8
+engagement;こんやく;婚約;wakuwaku 8
+chaos / confusion;こんらん;混乱;wakuwaku 8
+difference;さ;差;wakuwaku 8
+on the occasion of;さい;際;wakuwaku 8
+(in) the middle of ;さいちゅう;最中;wakuwaku 8
+talent / ability;さいのう;才能;wakuwaku 8
+judgement;さいばん;裁判;wakuwaku 8
+border / boundary;さかい;境;wakuwaku 8
+to go against / to oppose / to disobey / to defy;さからう;逆らう;wakuwaku 8
+work (to be done);さぎょう;作業;wakuwaku 8
+crops;さくもつ;作物;wakuwaku 8
+to avoid (situation);さける;避ける;wakuwaku 8
+to support;ささえる;支える;wakuwaku 8
+seat;ざせき;座席;wakuwaku 8
+bill / note;さつ;札;wakuwaku 8
+author / writer / novelist / artist;さっか;作家;wakuwaku 8
+to compose;さっきょくする;作曲する;wakuwaku 8
+roughly / approximately;ざっと;;wakuwaku 8
+having no idea of sth;さっぱりわからない;;wakuwaku 8
+well / now / then;さて;;wakuwaku 8

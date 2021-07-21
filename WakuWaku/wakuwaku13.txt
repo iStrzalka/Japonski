@@ -1,0 +1,98 @@
+scholarship / knowledge;がくりょく;学力;wakuwaku 13
+school;こう;校;wakuwaku 13
+reading comprehension;どっかい;読解;wakuwaku 13
+place (ex. 1st place);い;位;wakuwaku 13
+mathematics;すうがく;数学;wakuwaku 13
+science;かがく;科学;wakuwaku 13
+to require;もとめる;求める;wakuwaku 13
+humanities;ぶんけい;文系;wakuwaku 13
+science (opposing to humanities);りけい;理系;wakuwaku 13
+characteristic;とくちょう;特徴;wakuwaku 13
+science (inc. mathematics, medicine, etc.) / natural science;りか;理科;wakuwaku 13
+physical education / PE / gym (class);たいいく;体育;wakuwaku 13
+home economics;かていか;家庭科;wakuwaku 13
+technique / skill;ぎじゅつ;技術;wakuwaku 13
+to be helpful / to be useful;やくにたつ;役に立つ;wakuwaku 13
+competition;しゅもく;種目;wakuwaku 13
+assistance / aid / help;おうえん;応援;wakuwaku 13
+chorus;がっしょう;合唱;wakuwaku 13
+drama / play;げき;劇;wakuwaku 13
+haunted mansion / haunted house;ばけやしき;化け屋敷;wakuwaku 13
+gathering ideas;アイディアを出し合う;;wakuwaku 13
+music club;けいおんぶ;軽音部;wakuwaku 13
+break (school);きゅうか;休暇;wakuwaku 13
+school trip / training camp;がっしゅく;合宿;wakuwaku 13
+youth / springtime of life / adolescent;せいしゅん;青春;wakuwaku 13
+important / essential;じゅうよう;重要;wakuwaku 13
+uniform;せいふく;制服;wakuwaku 13
+providing a meal (in school / work);きゅうしょく;給食;wakuwaku 13
+independence;じしゅせい;自主性;wakuwaku 13
+cooperativeness;きょうちょうせい;協調性;wakuwaku 13
+sense of responsibility;せきにんかん;責任感;wakuwaku 13
+feeling of solidarity;れんたいかん;連帯感;wakuwaku 13
+to be raised (e.g. child) / to be brought up / to grow (up);そだつ;育つ;wakuwaku 13
+cooperation / collaboration;きょうりょく;協力;wakuwaku 13
+whole / entirety;ぜんたい;全体;wakuwaku 13
+average mark / mean point;へいきんてん;平均点;wakuwaku 13
+restriction;せいげん;制限;wakuwaku 13
+production / manufacture;せいさん;生産;wakuwaku 13
+due form / official / formality;せいしき;正式;wakuwaku 13
+soul / spirit / emotions;せいしん;精神;wakuwaku 13
+adult / coming of age;せいじん;成人;wakuwaku 13
+at most / at best;せいぜい;;wakuwaku 13
+manufacture / production;せいぞう;製造;wakuwaku 13
+luxury;ぜいたく;贅沢;wakuwaku 13
+growth / development;せいちょう;成長;wakuwaku 13
+system / institution / organization / organisation;せいど;制度;wakuwaku 13
+youth / young man;せいねん;青年;wakuwaku 13
+manufactured goods / finished goods / product;せいひん;製品;wakuwaku 13
+government;せいふ;政府;wakuwaku 13
+biology;せいぶつ;生物;wakuwaku 13
+life / existence;せいめい;生命;wakuwaku 13
+arrangement / organization ;せいり;整理;wakuwaku 13
+cough;せき;咳;wakuwaku 13
+coal;せきたん;石炭;wakuwaku 13
+duty / responsibility (incl. supervision of staff);せきにん;責任;wakuwaku 13
+oil / petroleum;せきゆ;石油;wakuwaku 13
+memories / recollections;おもいで;思い出;wakuwaku 13
+badminton;バドミントン;;wakuwaku 13
+athletics;りくじょう;陸上;wakuwaku 13
+wind instruments;すいそうがく;吹奏楽;wakuwaku 13
+national convention / national competition / national athletic meet;ぜんこくたいかい;全国大会;wakuwaku 13
+to aim at;めざす;目指す;wakuwaku 13
+doing well in both school and sports;ぶんぶりょうどう;文武両道;wakuwaku 13
+rather / better / instead;むしろ;;wakuwaku 13
+on the contrary;ぎゃくに;逆に;wakuwaku 13
+to overlook;おおめにみる;大目に見る;wakuwaku 13
+to be pretentious / to put on airs / to show off;みえをはる;見栄を張る;wakuwaku 13
+to butter up / to try to get on the good side of;ごまをする;;wakuwaku 13
+to be stubborn;いじをはる;意地を張る;wakuwaku 13
+to loaf;あぶらをうる;油を売る;wakuwaku 13
+to play the hypocrite;ねこをかぶる;;wakuwaku 13
+to forgive and forget;みずにながす;水に流す;wakuwaku 13
+round trip (airplane) ticket;おうふくこうくうけん;往復航空券;wakuwaku 13
+arrangement / preparations;てはい;手配;wakuwaku 13
+privilege;とくてん;特典;wakuwaku 13
+paying one's own expenses;じこふたん;自己負担;wakuwaku 13
+organier;しゅさい;主催;wakuwaku 13
+public's opinion;せけん;世間;wakuwaku 13
+theory;せつ;説;wakuwaku 13
+plan / blueprint;せっけい;設計;wakuwaku 13
+equipment;せつび;設備;wakuwaku 13
+extinction / extermination;ぜつめつ;絶滅;wakuwaku 13
+economising / saving;せつやく;節約;wakuwaku 13
+to criticize;せめる;責める;wakuwaku 13
+good / goodness / right / virtue;ぜん;善;wakuwaku 13
+the other day / a few days ago;せんじつ;先日;wakuwaku 13
+the former;ぜんしゃ;前者;wakuwaku 13
+player (sports) / athlete / team member;せんしゅ;選手;wakuwaku 13
+whole (body) / full-length (e.g. portrait);ぜんしん;全身;wakuwaku 13
+selection / choice / option;せんたく;選択;wakuwaku 13
+elephant (Elephantidae spp.);ぞう;象;wakuwaku 13
+figure / statue;ぞう;像;wakuwaku 13
+noise;そうおん;騒音;wakuwaku 13
+operation / management / handling;そうさ;操作;wakuwaku 13
+imagination / guess;そうぞう;想像;wakuwaku 13
+succession / inheritance;そうぞく;相続;wakuwaku 13
+equipment / device;そうち;装置;wakuwaku 13
+appropriate / suitable;そうとう;相当;wakuwaku 13

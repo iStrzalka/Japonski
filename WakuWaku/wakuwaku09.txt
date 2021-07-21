@@ -1,0 +1,90 @@
+to review;ふくしゅう;復習;wakuwaku 9
+as much as possible;できるだけ;;wakuwaku 9
+phrase;フレーズ;;wakuwaku 9
+ranking;ランキング;;wakuwaku 9
+taking an exam;うける;テストを受ける;wakuwaku 9
+to help each other / to cooperate;たすけあう;助け合う;wakuwaku 9
+place (ex. 1st);い;位;wakuwaku 9
+to imagine (sth);そうぞうする;想像する;wakuwaku 9
+to give (sth);あげる;;wakuwaku 9
+to raise / to surface / to end / to continue (learning);あげる;上げる;wakuwaku 9
+to point at / to put hand up;あげる;挙げる;wakuwaku 9
+to deep-fry;あげる;揚げる;wakuwaku 9
+desert;さばく;砂漠;wakuwaku 9
+discrimination (against people);さべつ;差別;wakuwaku 9
+way of doing (sth);さほう;作法;wakuwaku 9
+various;さまざま;様々;wakuwaku 9
+furthermore / even more;さらに;;wakuwaku 9
+uproad / noise;さわぎ;騒ぎ;wakuwaku 9
+participation;さんか;参加;wakuwaku 9
+reference;さんこう;参考;wakuwaku 9
+apporval / agreement;さんせい;賛成;wakuwaku 9
+walk / stroll;さんぽ;散歩;wakuwaku 9
+poem / verse of poetry;し;詩;wakuwaku 9
+directly;じかに;直に;wakuwaku 9
+period;じき;時期;wakuwaku 9
+moreover / furthermore;しかも;;wakuwaku 9
+to scold;しかる;叱る;wakuwaku 9
+supply;しきゅう;支給;wakuwaku 9
+constantly;しきりに;;wakuwaku 9
+impuls / stimulus / motivation;しげき;刺激;wakuwaku 9
+resources;しげん;資源;wakuwaku 9
+incident / affair;じけん;事件;wakuwaku 9
+war;せんそう;戦争;wakuwaku 9
+battle / fight;たたかい;戦い;wakuwaku 9
+competition / contest / rivalry;きょうそう;競争;wakuwaku 9
+to score points;てんをとる;点を取る;wakuwaku 9
+(school) subject;かもく;科目;wakuwaku 9
+companion / partner;あいて;相手;wakuwaku 9
+kindergarten;ようちえん;幼稚園;wakuwaku 9
+cram school;じゅく;塾;wakuwaku 9
+success;せいこう;成功;wakuwaku 9
+failure / mistake / blunder;しっぱい;失敗;wakuwaku 9
+common / shared / mutual;きょうつう;共通;wakuwaku 9
+entrance examination;にゅうし;入試;wakuwaku 9
+to study / to learn;がくしゅうする;学習する;wakuwaku 9
+new student / freshman / first-year student;しんにゅうせい;新入生;wakuwaku 9
+transfer student;てんこうせい;転校生;wakuwaku 9
+semester;がっき;学期;wakuwaku 9
+supplementary exam;ついし;追試;wakuwaku 9
+preparation for a lesson;よしゅう;予習;wakuwaku 9
+taking an examination (esp. school and university entrance);じゅけんする;受験する;wakuwaku 9
+test-taker;じゅけんせい;受験生;wakuwaku 9
+second semester;こうき;後期;wakuwaku 9
+first semester;ぜんき;前期;wakuwaku 9
+mock exam / practice exam / practice test;もぎしけん;模擬試験;wakuwaku 9
+graduate;そつぎょうせい;卒業生;wakuwaku 9
+master / expert;たつじん;達人;wakuwaku 9
+ordinary people;ふつうの;普通の;wakuwaku 9
+to change completely facial expression;かおいろがかわる;顔色が変わる;wakuwaku 9
+high score;こうとくてん;高得点;wakuwaku 9
+content analysis;ないよう;内容;wakuwaku 9
+surprisingly;おどろいたことに;驚いたことに;wakuwaku 9
+to be helpful;さんこうになる;参考になる;wakuwaku 9
+effort;どりょく;努力;wakuwaku 9
+motivation / determination;やるきがだす;やる気が出す;wakuwaku 9
+to nod (in agreement);うなずく;;wakuwaku 9
+to escape / to run away;にげる;逃げる;wakuwaku 9
+to regain consciousness / to be conscious;いしきする;意識する;wakuwaku 9
+entering a higher-level school, esp. going on to university;しんがく;進学;wakuwaku 9
+in practice / actually;じっさいに;実際に;wakuwaku 9
+writer / author;ひっしゃ;筆者;wakuwaku 9
+time / (the) hour;じこく;時刻;wakuwaku 9
+suicide;じさつ;自殺;wakuwaku 9
+fact / truth / reality;じじつ;事実;wakuwaku 9
+poet;しじん;詩人;wakuwaku 9
+(one's) self / oneself;じしん;自身;wakuwaku 9
+to sink / to go under / to submerge;しずむ;沈む;wakuwaku 9
+idea / ideology;しそう;思想;wakuwaku 9
+tongue;した;舌;wakuwaku 9
+depending on;しだい;次第;wakuwaku 9
+situation / (present) state of affairs / circumstances;じたい;事態;wakuwaku 9
+to obey (an order / law);したがう;従う;wakuwaku 9
+therefore / consequently;したがって;;wakuwaku 9
+preparation / arrangements;したく;支度;wakuwaku 9
+unemployment;しつぎょう;失業;wakuwaku 9
+realization / implementation / materialization;じつげん;実現;wakuwaku 9
+execution (ex. of a plan);じっこう;実行;wakuwaku 9
+implementation / putting into practice;じっし;実施;wakuwaku 9
+motionlessly (e.g. stand, wait) / (be) still;じっと;;wakuwaku 9
+really / absolutely / truly;じつに;実に;wakuwaku 9

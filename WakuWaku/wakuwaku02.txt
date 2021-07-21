@@ -1,0 +1,77 @@
+forest / woods;しんりん;森林;wakuwaku 2
+plant;しょくぶつ;植物;wakuwaku 2
+monkey / ape;さる;猿;wakuwaku 2
+Earth / the globe;ちきゅう;地球;wakuwaku 2
+street performing;だいどうげい;大道芸;wakuwaku 2
+company / fellow;なかま;仲間;wakuwaku 2
+grass;くさ;草;wakuwaku 2
+fruit of a tree;きのみ;木の実;wakuwaku 2
+ogre / demon / oni;おに;鬼;wakuwaku 2
+servant;けらい;家来;wakuwaku 2
+butt;しり;尻;wakuwaku 2
+to make sound (animal) / to cry;なく;鳴く;wakuwaku 2
+to keep (a pet or other animal);かう;飼う;wakuwaku 2
+unique / original;どくじ;独自;wakuwaku 2
+extinction / extermination;ぜつめつ;絶滅;wakuwaku 2
+to beat / to finish off (an enemy);やっつける;;wakuwaku 2
+to doubt / to suspect;うたがう;疑う;wakuwaku 2
+to appeal to (reason) / to bring to (someone's attention);うったえる;訴える;wakuwaku 2
+to steal;うばう;奪う;wakuwaku 2
+to roar / to howl / to growl;うなる;;wakuwaku 2
+to betray;うらぎる;裏切る;wakuwaku 2
+eternity / immortality;えいえん;永遠;wakuwaku 2
+influence / effect;えいきょう;影響;wakuwaku 2
+business;えいぎょう;営業;wakuwaku 2
+(natural) stellite;えいせい;衛星;wakuwaku 2
+nutrition / nourishment;えいよう;栄養;wakuwaku 2
+smiling face / smile;えがお;笑顔;wakuwaku 2
+to draw;かく;描く;wakuwaku 2
+pet food;えさ;餌;wakuwaku 2
+to postpone;えんき;延期;wakuwaku 2
+acting / performance;えんぎ;演技する;wakuwaku 2
+assistance / aid / support;えんじょ;援助;wakuwaku 2
+speech / public speaking;えんぜつ;演説;wakuwaku 2
+musical performance;えんそう;演奏;wakuwaku 2
+constraint / restraint;えんりょ;遠慮;wakuwaku 2
+uniqueness / characteristic;どくとく;独特;wakuwaku 2
+island country;しまぐに;島国;wakuwaku 2
+climate;きこう;気候;wakuwaku 2
+the four seasons;しき;四季;wakuwaku 2
+rainy season (in Japan usu. from early June to mid-July);つゆ;梅雨;wakuwaku 2
+area / region;ちいき;地域;wakuwaku 2
+representative;だいひょうてき;代表的;wakuwaku 2
+to bloom / to blossom;さく;咲く;wakuwaku 2
+growth;せいちょう;成長;wakuwaku 2
+life span;じゅみょう;寿命;wakuwaku 2
+usually / normally;ふだん;普段;wakuwaku 2
+cosmetics;けしょうひん;化粧品;wakuwaku 2
+time / season;じき;時期;wakuwaku 2
+aroma / fragrance / scent / smell;かおり;香り;wakuwaku 2
+hedge;いけがき;生垣;wakuwaku 2
+wall;かべ;壁;wakuwaku 2
+(flower) petal;はなびら;花びら;wakuwaku 2
+clockwise;みぎまき;右巻き;wakuwaku 2
+sunlight / sunshine;にっこう;日光;wakuwaku 2
+weak (taste etc);うすい;薄い;wakuwaku 2
+shade of tree;こかげ;木陰;wakuwaku 2
+to raise / to educate;そだてる;育てる;wakuwaku 2
+to catch up (with);おいつく;追いつく;wakuwaku 2
+prince;おうじ;王子;wakuwaku 2
+to respond / to satisfy;おうじる;応じる;wakuwaku 2
+crossing;おうだん;横断;wakuwaku 2
+to cover / to hide;おおう;覆う;wakuwaku 2
+hill;おか;丘;wakuwaku 2
+open sea;おき;沖;wakuwaku 2
+depths;おく;奥;wakuwaku 2
+to occur / to happen;おこる;起こる;wakuwaku 2
+very young / little;おさない;幼い;wakuwaku 2
+chattering / idle talk;おしゃべり;;wakuwaku 2
+pollution;おせん;汚染;wakuwaku 2
+likely / probably;おそらく;恐らく;wakuwaku 2
+to fear / to be afraid of;おそれる;恐れる;wakuwaku 2
+terrifying / terrible;おそろしい;恐ろしい;wakuwaku 2
+each other / one another;おたがい;お互い;wakuwaku 2
+calm / quiet / peaceful;おだやか;穏やか;wakuwaku 2
+to be inferior to;おとる;劣る;wakuwaku 2
+obi / kimono sash;おび;帯;wakuwaku 2
+to drown / to sink / to struggle in the water;おぼれる;溺れる;wakuwaku 2

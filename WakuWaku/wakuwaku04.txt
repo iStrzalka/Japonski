@@ -1,0 +1,85 @@
+thing that reminds one of a particular season;ふうぶつし;風物詩;wakuwaku 4
+example;れい;例;wakuwaku 4
+general / common;いっぱんてきな;一般的な;wakuwaku 4
+dragonfly / damselfly;とんぼ;;wakuwaku 4
+salmon (Salmonidae spp.);さけ・しゃけ;鮭;wakuwaku 4
+bamboo shoot;竹の子;;wakuwaku 4
+male (animal, plant);オス;;wakuwaku 4
+female (animal, plant);メス;;wakuwaku 4
+refreshing;すがすがしい;;wakuwaku 4
+to appear;出てくる;;wakuwaku 4
+each / respectively;それぞれ;;wakuwaku 4
+in this manner / in this way / like this;このように;;wakuwaku 4
+how / in what way;どのように;;wakuwaku 4
+living creature / life;いきもの;生き物;wakuwaku 4
+and / thereupon / because of that;それで;;wakuwaku 4
+at last / finally;やっと;;wakuwaku 4
+to be delivered / to reach;とどく;届く;wakuwaku 4
+to request / to beg / to ask;たのむ;頼む;wakuwaku 4
+after all / in the end;けっきょく;結局;wakuwaku 4
+quality / value;しつ;質;wakuwaku 4
+value / worth;かち;価値;wakuwaku 4
+to be disappointed;がっかり;;wakuwaku 4
+energy / liveliness;かっき;活気;wakuwaku 4
+shape / form / figure / posture / pose;かっこう;格好;wakuwaku 4
+practical use / application;かつよう;活用;wakuwaku 4
+considerably / fairly / quite;かなり;;wakuwaku 4
+possible / potential;かのう;可能;wakuwaku 4
+stock / share;かぶ;株;wakuwaku 4
+to care about;かまう;構う;wakuwaku 4
+patience / endurance;がまん;我慢;wakuwaku 4
+lightning / thunder;かみなり;雷;wakuwaku 4
+(school) subject;かもく;科目;wakuwaku 4
+pattern / design;がら;柄;wakuwaku 4
+to cut (grass, hair, etc.) / to mow;かる;刈る;wakuwaku 4
+intuition;かん;勘;wakuwaku 4
+sense;かんかく;感覚;wakuwaku 4
+audience / spectator / spectators;かんきゃく;観客;wakuwaku 4
+environment;かんきょう;環境;wakuwaku 4
+welcome party;かんげい;歓迎;wakuwaku 4
+observation / survey;かんさつ;観察;wakuwaku 4
+mostly / nearly;ほとんど;;wakuwaku 4
+humid / wet;じめじめする;;wakuwaku 4
+(raining) heavily / (water rushing) plentily;ざーざーとふる;;wakuwaku 4
+gently (raining) / drizzling;しとしとふる;;wakuwaku 4
+pleasantly warm / nice and warm;ぽかぽかとあたたまる;;wakuwaku 4
+hot and humid;むしむしする;;wakuwaku 4
+glittering / sparkling;きらきらする;;wakuwaku 4
+soft / fluffy / spongy;ふわふわの;;wakuwaku 4
+etc.;など;;wakuwaku 4
+mold;かび;;wakuwaku 4
+storm / tempest;あらし;嵐;wakuwaku 4
+material of cloth;ぬの;布;wakuwaku 4
+doll / puppet / figure;にんぎょう;人形;wakuwaku 4
+to decorate;かざる;;wakuwaku 4
+ingredient;せいぶん;成分;wakuwaku 4
+buddhist priest;ぼうず;坊主;wakuwaku 4
+bigleaf hydrangea (Hydrangea macrophylla) / French hydrangea;アジサイ;;wakuwaku 4
+first (of all) / to begin with;まず;;wakuwaku 4
+once again / once more / another time;また;;wakuwaku 4
+or / or else;それとも;;wakuwaku 4
+practical / useful;じつようてきな;実用的な;wakuwaku 4
+specific / definite;ぐたいてきな;具体的な;wakuwaku 4
+optimistic / hopeful;らっかんてきな;楽観的な;wakuwaku 4
+positive / assertive / active / proactive / aggressive;せっきょくてきな;積極的な;wakuwaku 4
+charming / fascinating / attractive;みりょくてきな;魅力的な;wakuwaku 4
+patient;かんじゃ;患者;wakuwaku 4
+emotion / feelings;かんじょう;感情;wakuwaku 4
+concern / interest;かんしん;関心;wakuwaku 4
+complete / completion;かんせい;完成;wakuwaku 4
+supervision / manager;かんとく;監督;wakuwaku 4
+control / management (e.g. of a business);かんり;管理;wakuwaku 4
+in relation (with);かんれん;関連;wakuwaku 4
+member of parliament;ぎいん;議員;wakuwaku 4
+memory / recollection / remembrance;きおく;記憶;wakuwaku 4
+parliament;ぎかい;議会;wakuwaku 4
+institution / organisation;きかん;機関;wakuwaku 4
+enterprise / business / company / corporation;きぎょう;企業;wakuwaku 4
+humour;きげん;機嫌;wakuwaku 4
+climate;きこう;気候;wakuwaku 4
+coast / shore;きし;岸;wakuwaku 4
+cloth / fabric / material;きじ;生地;wakuwaku 4
+article;きじ;記事;wakuwaku 4
+engineer / technician;ぎし;技師;wakuwaku 4
+reporter / journalist;きしゃ;記者;wakuwaku 4
+wound / injury;きず;傷;wakuwaku 4

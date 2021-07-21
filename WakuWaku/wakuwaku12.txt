@@ -1,0 +1,67 @@
+subject;しゅご;主語;wakuwaku 12
+predicate;じゅつご;述語;wakuwaku 12
+expression / presentation;ひょうげん;表現;wakuwaku 12
+pronunciation;はつおん;発音;wakuwaku 12
+shiritori;しりとり;;wakuwaku 12
+dad joke;おやじぎゃぐ;;wakuwaku 12
+comic story / traditional Japanese comic storytelling;らくご;落語;wakuwaku 12
+various;さまざま;;wakuwaku 12
+numeral;すうじ;数字;wakuwaku 12
+to apologize / to apologise;あやまる;謝る;wakuwaku 12
+understanding / comprehension of (sth);りかい;理解;wakuwaku 12
+(hold on sth) tightly / firmly;しっかり;;wakuwaku 12
+escalation;エスカレート;;wakuwaku 12
+signature;しょめい;署名;wakuwaku 12
+processing (of information) / dealing with / treatment;しょり;処理;wakuwaku 12
+ass / arse / buttocks;しり;尻;wakuwaku 12
+mark / sign;しるし;印;wakuwaku 12
+castle;しろ;城;wakuwaku 12
+entering a higher-level school, esp. going on to university;しんがく;進学;wakuwaku 12
+nerve;しんけい;神経;wakuwaku 12
+serious / earnest;しんけん;真剣;wakuwaku 12
+(religious) faith / belief / creed;しんこう;信仰;wakuwaku 12
+traffic light / traffic signal;しんごう;信号;wakuwaku 12
+population;じんこう;人口;wakuwaku 12
+serious / severe (damage);しんこく;深刻;wakuwaku 12
+medical examination;しんさつ;診察;wakuwaku 12
+race (of people);じんしゅ;人種;wakuwaku 12
+heart;しんぞう;心臓;wakuwaku 12
+body;しんたい;身体;wakuwaku 12
+height (of body) / stature;しんちょう;身長;wakuwaku 12
+careful / cautious;しんちょう;慎重;wakuwaku 12
+referee / umpire;しんぱん;審判;wakuwaku 12
+progress / advance / improvement / development;しんぽ;進歩;wakuwaku 12
+to be nervous;どきどきする;;wakuwaku 12
+to visit / to call on / to pay a visit to;たずねる;訪ねる;wakuwaku 12
+by no means / certainly (not);まさか;;wakuwaku 12
+taking the trouble (to do sth);わざわざ;;wakuwaku 12
+thanks to your assistance;おかげさまで;;wakuwaku 12
+to prepare;よういする;用意する;wakuwaku 12
+don't bother;おかまいなく;;wakuwaku 12
+nostalgic;なつかしい;;wakuwaku 12
+come to think of it / now that you mention it;そういえば;;wakuwaku 12
+at leisure / in a carefree manner;のんびりする;;wakuwaku 12
+to fit ideally / precisely;ぴったり合う;;wakuwaku 12
+to eat plenty;たっぷり食べる;;wakuwaku 12
+soundly (sleeping) / fast (asleep);ぐっすりねる;;wakuwaku 12
+neat / tidy / clean;さっぱりする;;wakuwaku 12
+tightly (holding on) / firmly / securely;しっかりする;;wakuwaku 12
+confidence / trust / faith / reputation;しんよう;信用;wakuwaku 12
+psychology;しんり;心理;wakuwaku 12
+nest;す;巣;wakuwaku 12
+level / standard;すいじゅん;水準;wakuwaku 12
+reliance / trust / faith / confidence;しんらい;信頼;wakuwaku 12
+recommendation;すいせん;推薦;wakuwaku 12
+very / extremely;ずいぶん;随分;wakuwaku 12
+sleep;すいみん;睡眠;wakuwaku 12
+figure / form / shape;すがた;姿;wakuwaku 12
+headache;ずつう;頭痛;wakuwaku 12
+already / too late;すでに;既に;wakuwaku 12
+that is / namely / i.e.;すなわち;;wakuwaku 12
+to finish;すませる;済ませる;wakuwaku 12
+thereupon / hereupon;すると;;wakuwaku 12
+sharp (blade) / pointed;するどい;鋭い;wakuwaku 12
+accuracy;せいかく;正確;wakuwaku 12
+century;せいき;世紀;wakuwaku 12
+billing / charge / demand / job invoice;せいきゅう;請求;wakuwaku 12
+clean / hygienic / sanitary;せいけつ;清潔;wakuwaku 12

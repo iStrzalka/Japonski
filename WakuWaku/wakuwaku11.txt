@@ -1,0 +1,97 @@
+tower;とう;塔;wakuwaku 11
+square measure / size (e.g. of land) / area / surface;めんせき;面積;wakuwaku 11
+snow cover / fallen snow;せきせつ;積雪;wakuwaku 11
+record / document;きろく;記録;wakuwaku 11
+independence (e.g. of a nation) / freedom;どくりつ;独立;wakuwaku 11
+economic slump / hard times / depression / recession;ふけいき;不景気;wakuwaku 11
+refugee / displaced person;なんみん;難民;wakuwaku 11
+retirement age;ていねん;定年;wakuwaku 11
+(being in) the red / deficit;あかじ;赤字;wakuwaku 11
+market (financial, stock, domestic, etc.) / marketplace / exchange;しじょう;市場;wakuwaku 11
+(town) market / (street) market / marketplace;いちば;市場;wakuwaku 11
+divorce;りこん;離婚;wakuwaku 11
+war;せんそう;戦争;wakuwaku 11
+election;せんきょ;選挙;wakuwaku 11
+declining birth rates;しょうしか;少子化;wakuwaku 11
+government / administration;せいふ;政府;wakuwaku 11
+tax / duty;ぜいきん;税金;wakuwaku 11
+household / home / family / housekeeping;せたい;世帯;wakuwaku 11
+stock / stock market;かぶ;株;wakuwaku 11
+public opinion;せろん;世論;wakuwaku 11
+old person / elderly;ろうじん;老人;wakuwaku 11
+competition / contest / rivalry / race;きょうそう;競争;wakuwaku 11
+home / family / household;かてい;家庭;wakuwaku 11
+(being in) the black / surplus;くろじ;黒字;wakuwaku 11
+publication;しゅっぱん;出版;wakuwaku 11
+capital city;しゅと;首都;wakuwaku 11
+main / major / principal;しゅよう;主要;wakuwaku 11
+supply and demand;じゅよう;需要;wakuwaku 11
+in order / in turn / one by one;じゅんに;順に;wakuwaku 11
+moment / instant;しゅんかん;瞬間;wakuwaku 11
+in a good condition;じゅんちょう;順調;wakuwaku 11
+turn (in line) / order of things / sequential order;じゅんばん;順番;wakuwaku 11
+preparation / getting ready / setup;じゅんび;準備;wakuwaku 11
+use / utilization;しよう;使用;wakuwaku 11
+prize / award;しょう;賞;wakuwaku 11
+obstacle;しょうがい;障害;wakuwaku 11
+passenger;じょうきゃく;乗客;wakuwaku 11
+situation / state of affairs;じょうきょう;状況;wakuwaku 11
+condition / term / requirement;じょうけん;条件;wakuwaku 11
+noon / midday;しょうご;正午;wakuwaku 11
+common sense;じょうしき;常識;wakuwaku 11
+symptoms / condition (of a patient);しょうじょう;症状;wakuwaku 11
+to cause;しょうじる;生じる;wakuwaku 11
+state / condition of (sth);じょうたい;状態;wakuwaku 11
+invention;はつめい;発明;wakuwaku 11
+as one would expect / just as you'd expect (from) / just like (someone);さすが;;wakuwaku 11
+routine / everyday;にちじょうてきな;日常的な;wakuwaku 11
+detailed / full / accurate;くわしい;詳しい;wakuwaku 11
+by the way;ちなみに;;wakuwaku 11
+reception (e.g. in a hotel) / front desk;フロント;;wakuwaku 11
+mechanical pencil / automatic pencil;シャーペン;;wakuwaku 11
+cutter / cutting tool;カッター;;wakuwaku 11
+part-time (work);パート;;wakuwaku 11
+(young) person subsisting on part-time work;フリーター;;wakuwaku 11
+(general) complaint / objection;クレーム;;wakuwaku 11
+electrical outlet;コンセント;;wakuwaku 11
+made-to-order / custom-made;オーダーメイド;;wakuwaku 11
+keychain / key chain;キーホルダー;;wakuwaku 11
+stapler / paper fastener;ホッチキス;;wakuwaku 11
+cheating (on an exam);カンニング;;wakuwaku 11
+talent / skill;タレント;;wakuwaku 11
+motorcycle;オートバイ;;wakuwaku 11
+buffet;バイキング;;wakuwaku 11
+patrol car;パトカー;;wakuwaku 11
+veteran;ベテラン;;wakuwaku 11
+pushchair (for children);ベビーカー;;wakuwaku 11
+mass communication / mass media;マスコミ;;wakuwaku 11
+man-to-man / one-to-one;マンツーマン;;wakuwaku 11
+(hair) rinse / (hair) conditioner;リンス;;wakuwaku 11
+microwave oven;レンジ;;wakuwaku 11
+shampoo;シャンプー;;wakuwaku 11
+hair dryer / blow dryer;ヘアドライヤー;;wakuwaku 11
+towel;タオル;;wakuwaku 11
+truck / lorry;トラック;;wakuwaku 11
+mansion / apartment;マンション;;wakuwaku 11
+kitchen;キッチン;;wakuwaku 11
+computer / laptop;パソコン;;wakuwaku 11
+improvement (e.g. in skill, ability) / advance / progress;じょうたつ;上達;wakuwaku 11
+awareness / acknowledgment (of an information);しょうち;承知;wakuwaku 11
+first-class / top quality;じょうとう;上等;wakuwaku 11
+collision / crash / running into;しょうとつ;衝突;wakuwaku 11
+approval / agreement;しょうにん;承認;wakuwaku 11
+merchant / trader;しょうにん;商人;wakuwaku 11
+(young) boy;しょうねん;少年;wakuwaku 11
+trade;しょうばい;商売;wakuwaku 11
+consumption;しょうひ;消費;wakuwaku 11
+product / goods / merchandise;しょうひん;商品;wakuwaku 11
+fire fighters;しょうぼう;消防;wakuwaku 11
+proof / verification / certification;しょうめい;証明;wakuwaku 11
+occupation / profession / job;しょくぎょう;職業;wakuwaku 11
+dining table;しょくたく;食卓;wakuwaku 11
+food products / food;しょくひん;食品;wakuwaku 11
+appetite (for food);しょくやく;食欲;wakuwaku 11
+food;しょくりょう;食料;wakuwaku 11
+library / home office;しょさい;書斎;wakuwaku 11
+assistant / helper;じょしゅ;助手;wakuwaku 11
+gradually / little by little / step by step;じょじょに;徐々に;wakuwaku 11
