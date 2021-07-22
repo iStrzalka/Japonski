@@ -1,0 +1,35 @@
+hold a party;えんかいをひらく;宴会を開く;3_5 KOTOBA
+a farewell party;そうべつかい;送別会;3_5 KOTOBA
+all you can drink;のみほうだい;飲み放題;3_5 KOTOBA
+pour sake into a glass;おさけをつぐ;お酒を注ぐ;3_5 KOTOBA
+toast;かんぱいする;乾杯する;3_5 KOTOBA
+come to life;もりあがる;盛り上がる;3_5 KOTOBA
+the head of the beer;ビールのあわ;ビールを泡;3_5 KOTOBA
+overflow;あふれる;;3_5 KOTOBA
+spill;こぼす;;3_5 KOTOBA
+down a mug of beer in one gulp;ビールをいっきにのむ;ビールを一気に飲む;3_5 KOTOBA
+whisky and water;ウィスキーのみずわり;ウィスキーの水割り;3_5 KOTOBA
+cheese for snacking;つまりのチーズ;;3_5 KOTOBA
+get drunk;さけによう;お酒に酔う;3_5 KOTOBA
+get drunk;よっぱらう;;3_5 KOTOBA
+get out-of-control;あぶれる;;3_5 KOTOBA
+lively;にぎやかな;;3_5 KOTOBA
+noisy;やかましい;;3_5 KOTOBA
+be making noise;さわがしい;;3_5 KOTOBA
+noisy;そうぞうしい;;3_5 KOTOBA
+drinking party;のみかい;飲み会;3_5 KOTOBA
+welcome party;かんがいかい;歓迎会;3_5 KOTOBA
+all you can eat (buffet);たべほうだい;食べ放題;3_5 KOTOBA
+pour hot water;（お）ゆをそそぐ;お湯を注ぐ;3_5 KOTOBA
+a mound of dirt;つちがもりあがる;土が盛り上がる;3_5 KOTOBA
+overflow;こぼれる;;3_5 KOTOBA
+a drunk (noun);よっぱらい;;3_5 KOTOBA
+make noise;さわぐ;;3_5 KOTOBA
+cigarette smoke;たばこのけむり;たばこの煙;3_5 KOTOBA
+break the glass;グラスをわる;グラスを割る;3_5 KOTOBA
+knock the bottle of beer over;ビールびんをたおす;ビールびんを倒す;3_5 KOTOBA
+cause other customers trouble;ほかのきゃくにめいわくをかける;他の客に迷惑をかける;3_5 KOTOBA
+smoky;けむい・けむたい;煙い・煙たい;3_5 KOTOBA
+a glass breaks;グラスがわれる;グラスを割れる;3_5 KOTOBA
+a beer bottle falls ovr;ビールびんがたおれる;ビールびんが倒れる;3_5 KOTOBA
+cause someone trouble;めいわくがかかる;迷惑がかかる;3_5 KOTOBA

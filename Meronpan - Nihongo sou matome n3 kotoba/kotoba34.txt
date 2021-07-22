@@ -1,0 +1,29 @@
+to be all present / to make a full set;そろう;;3_4 KOTOBA
+take a child with you;こどもをつれる;子供を連れる;3_4 KOTOBA
+be hungry;はら・おなかがへる;腹・おなかがへる;3_4 KOTOBA
+eat out;がいしょくをする;外食をする;3_4 KOTOBA
+have lunch;おひるをたべる・ちゅうしょくをする;お昼を食べる・昼食をとる;3_4 KOTOBA
+a restaurant with nice atmosphere;ふんいきのいいみせ;雰囲気のいい店;3_4 KOTOBA
+no seats;まんせき;満席;3_4 KOTOBA
+stand in line;れつにならぶ;列に並ぶ;3_4 KOTOBA
+non-smokin seat;きんえんせき;禁煙席;3_4 KOTOBA
+recommendation;おすすめ;;3_4 KOTOBA
+a big portion;りょうがおおい;量が多い;3_4 KOTOBA
+decide on what to order;ちゅうもんがきめる;注文が決まる;3_4 KOTOBA
+place an order;ちゅうもんする;注文する;3_4 KOTOBA
+place an additional order of desserts;デザートをついかする;デザートを追加する;3_4 KOTOBA
+another serving of coffee;コーヒーのおかわり;;3_4 KOTOBA
+take the plates away;しょっきをさげる;食器を下げる;3_4 KOTOBA
+leave food on one's plate;りょうりをのこす;料理を残す;3_4 KOTOBA
+(customer) with kids;こどもづれ;子供連れ;3_4 KOTOBA
+lunch;ランチ;;3_4 KOTOBA
+available seats;すいている;;3_4 KOTOBA
+people lining up;ぎょうれつができる;行列ができる;3_4 KOTOBA
+seat for smokers;きつえんせき;喫煙席;3_4 KOTOBA
+a small portion;りょうがすくない;量が少ない;3_4 KOTOBA
+take an order;ちゅうもんをとる;注文をとる;3_4 KOTOBA
+take an order;ちゅうもんをうける;注文をうける;3_4 KOTOBA
+free of charge;むりょう・ただ;無料・ただ;3_4 KOTOBA
+(What) a waste!;もったいない;;3_4 KOTOBA
+I'm sorry for the wait;おまたせいたしました;お待たせいたしました;3_4 KOTOBA
+Thanks for waiting;おまちどおさま;お待ちどおさま;3_4 KOTOBA

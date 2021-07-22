@@ -1,0 +1,35 @@
+go out;こうさいする;交際する;3_1 KOTOBA
+go out;つきあう;付き合う;3_1 KOTOBA
+have a fight;けんかする;;3_1 KOTOBA
+reconcile / make up;なかなおりする;仲直りする;3_1 KOTOBA
+be good friends;なかがいい;仲がいい;3_1 KOTOBA
+good friends;なかよしだ;仲良し;3_1 KOTOBA
+want to know;きになる;気になる;3_1 KOTOBA
+come to like;すきになる;好きになる;3_1 KOTOBA
+come to dislike;きらいになる;;3_1 KOTOBA
+lose interest;いやになる;;3_1 KOTOBA
+be envious;うらやましい;;3_1 KOTOBA
+invite (someone);さそう;;3_1 KOTOBA
+dislike;いやがる;;3_1 KOTOBA
+turn (someone) down;ふる;;3_1 KOTOBA
+be liked;すかれる;好かれる;3_1 KOTOBA
+be disliked;きらわれる;;3_1 KOTOBA
+be regarded annoying;いやがられる;;3_1 KOTOBA
+be turned down;ふられる;;3_1 KOTOBA
+be interested;きがある;気がある;3_1 KOTOBA
+longs to be (someone) / is attracted to (someone);あこがれる;;3_1 KOTOBA
+be absorbed;むちゅうになる;夢中になる;3_1 KOTOBA
+fall in love;こいをする;恋をする;3_1 KOTOBA
+be popular with women;じょせいにもてる;女性にもてる;3_1 KOTOBA
+like each other;おたがいにきにいる;お互いに気に入り;3_1 KOTOBA
+inquire about someone's plans;あいてのよていをきく;相手の予定を聞く;3_1 KOTOBA
+try to make oneself available;つごうをつける;都合をつける;3_1 KOTOBA
+make oneself available;つごうがつく;都合がつく;3_1 KOTOBA
+relations;つきあい;付き合い;3_1 KOTOBA
+go shopping with someone just to be nice;かいものにつきあう;買い物に付き合い;3_1 KOTOBA
+boy/girlfriend;こいびと;恋人;3_1 KOTOBA
+boyfriend;かれし;彼氏;3_1 KOTOBA
+girlfriend;かのじょ;彼女;3_1 KOTOBA
+propose;もうしこむ;申し込む;3_1 KOTOBA
+turn down;ことわる;断る;3_1 KOTOBA
+give a vague answer;あいまいなへんじをする;あいまいな返事をする;3_1 KOTOBA

@@ -1,0 +1,31 @@
+forehead;ひたい;額;3_2 KOTOBA
+eyelash;まつげ;;3_2 KOTOBA
+cheek;ほお　・　ほほ;;3_2 KOTOBA
+necklace;ネックレス;;3_2 KOTOBA
+eyebrow;まゆ・まゆげ;;3_2 KOTOBA
+eyelid;まぶた;;3_2 KOTOBA
+earrings;イヤリング;;3_2 KOTOBA
+lips;くちびる;唇;3_2 KOTOBA
+belt;ベルト;;3_2 KOTOBA
+undershots/panties;パンツ;;3_2 KOTOBA
+get ready to go to work/school;あさのしたくをする;朝のしたくをする;3_2 KOTOBA
+take a shower;シャワーをあびる;シャワーを浴びる;3_2 KOTOBA
+underwear;したぎ;下着;3_2 KOTOBA
+jacket;うわぎ;上着;3_2 KOTOBA
+brush one's teeth;はをみがく;歯を磨く;3_2 KOTOBA
+tooth brushing;はみがき;歯磨き;3_2 KOTOBA
+put toothepaste on one's brush;はみがきこをつける;歯磨き粉をつける;3_2 KOTOBA
+shave;ひげをそる;;3_2 KOTOBA
+dry one's hair with a dryer;ドライヤーでかみをかわかす;ドライヤーで髪乾かす;3_2 KOTOBA
+brush/comb one's hair;かみをとく・とかす;髪をとく・とかす;3_2 KOTOBA
+put a make-up on;けしょうをする;お化粧をする;3_2 KOTOBA
+put on lipstick;くちべにをぬる・つける;口紅を塗る・つける;3_2 KOTOBA
+change one's clothes;ふくをきがえる;服を着替える;3_2 KOTOBA
+get dressed up;おしゃれをする;;3_2 KOTOBA
+tie a string;ひもをむすぶ;ひもを結ぶ;3_2 KOTOBA
+wrap a muffler around the nexk;マフラーをまく・する;マフラーを巻く・する;3_2 KOTOBA
+put on gloves;てぶくろをはめる・する;手袋をはめる・する;3_2 KOTOBA
+wear a ring;ゆびわをはめる・する;指輪をはめる・する;3_2 KOTOBA
+spare clothes;きがえ;着替え;3_2 KOTOBA
+fashionable person;おしゃれな人;おしゃれな人;3_2 KOTOBA
+untie;ほどく;;3_2 KOTOBA

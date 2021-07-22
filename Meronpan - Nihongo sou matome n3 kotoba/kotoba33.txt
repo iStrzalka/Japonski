@@ -1,0 +1,35 @@
+sleeveless;そでなし;;3_3 KOTOBA
+plain;むじ;無地;3_3 KOTOBA
+pattern;がら・もよう;柄・模様;3_3 KOTOBA
+short sleeve;はんそで;半そで;3_3 KOTOBA
+long sleeve;ながそで;長そで;3_3 KOTOBA
+striped;しま;;3_3 KOTOBA
+polka dots;みずたま;水玉;3_3 KOTOBA
+flower patterns;はながら;花柄;3_3 KOTOBA
+look good on someone;にあう;似合う;3_3 KOTOBA
+to take a liking to;きにいる;気に入る;3_3 KOTOBA
+like;このむ;好む;3_3 KOTOBA
+a color that stands out;めだついろ;目立つ色;3_3 KOTOBA
+flashy;はでな;;3_3 KOTOBA
+a popular design;にんきのあるデザイン;人気のあるデザイン;3_3 KOTOBA
+in fashion;はやっている;;3_3 KOTOBA
+check the size;サイズをたしかめる;サイズを確かめる;3_3 KOTOBA
+check the size;サイズをかくにんする;サイズを確認する;3_3 KOTOBA
+loose;ゆるい;;3_3 KOTOBA
+put in in the shopping car;しなものをかごにいれる;品物をかごに入れる;3_3 KOTOBA
+one's favorite;おきにいり;お気に入り;3_3 KOTOBA
+one's taste;このみ;好み;3_3 KOTOBA
+plain / simple;じみな;地味な;3_3 KOTOBA
+trend / fashion;はやり・りゅうこう;はやり・流行;3_3 KOTOBA
+size that fits;サイズがあう;サイズが合う;3_3 KOTOBA
+tight;きつい;;3_3 KOTOBA
+buy it on sale;セール・バーゲンでかう;セール・バーゲンで買う;3_3 KOTOBA
+a departement store bargain;デパートのとくばいひん;デパートの特売品;3_3 KOTOBA
+30% off the regular price;30パーセントオフ;;3_3 KOTOBA
+30% off the regular price;3わりびき;3割引き;3_3 KOTOBA
+be sold out;うりきれる;売り切れる;3_3 KOTOBA
+a real diamond;ほんもののダイヤモンド;本物のダイヤモンド;3_3 KOTOBA
+come out ahead;とくをする;得をする;3_3 KOTOBA
+sold out;うりきれ;うりきれ;3_3 KOTOBA
+fake;にせもの;にせ物;3_3 KOTOBA
+suffer a loss;そんをする;損をする;3_3 KOTOBA

@@ -1,0 +1,27 @@
+cash register;レジ;;3_6 KOTOBA
+pay the bill/check;かんじょうをすませる;感情を済ませる;3_6 KOTOBA
+pay individually;べつべつにはらう;別々に払う;3_6 KOTOBA
+split the bill;わりかんにする;割り勘にする;3_6 KOTOBA
+treat someone to (something);おごる;;3_6 KOTOBA
+pay cash;げんきんではらう;現金で払う;3_6 KOTOBA
+pay by credit card;（クレジット）カードではらう;（クレジット）カードで払う;3_6 KOTOBA
+break the bill;さつをくずす;お札をくずす;3_6 KOTOBA
+receive the change;つりをもらう;おつりをもらう;3_6 KOTOBA
+ask for a receipt;レシートをもらう;;3_6 KOTOBA
+ask for a receipt;りょうしゅうしょをもらう;領収書をもらう;3_6 KOTOBA
+live a life of luxury;ぜいたくをする;贅沢をする;3_6 KOTOBA
+waste money;むだづかいをする;;3_6 KOTOBA
+receive a bill;せいきゅうしょがとどく;請求書が届く;3_6 KOTOBA
+cost a great deal;ひようがかかる;費用がかかる;3_6 KOTOBA
+treat;けむり;;3_6 KOTOBA
+be short on living expenses for this month;こんげつのせいかつひがふそくする;今月の生活費が不足する;3_6 KOTOBA
+have enough money;おかねがたりる;お金が足りる;3_6 KOTOBA
+economize on food expenses;しょくひをせつやくする;食費を節約する;3_6 KOTOBA
+eliminate waste;むだをはぶく;無駄を省く;3_6 KOTOBA
+become poor;びんぼうになる;貧乏になる;3_6 KOTOBA
+poor life;まずしいせいかつ;貧しい生活;3_6 KOTOBA
+borrow money;しゃっきんをする;借金をする;3_6 KOTOBA
+transportation expenses;こうつうひ;交通費;3_6 KOTOBA
+run out of money;たりない;足りない;3_6 KOTOBA
+prevent waist;むだをなくす;;3_6 KOTOBA
+become wealthy;おかねもちになる;お金持ちになる;3_6 KOTOBA
