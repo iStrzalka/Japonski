@@ -1,0 +1,1355 @@
+Shinto / Shintoism;しんとう;神道;wakuwaku 1
+Judaism;ユダヤ教;;wakuwaku 1
+Islam;イスラム教;;wakuwaku 1
+Buddhism;ぶっきょう;仏教;wakuwaku 1
+Christianity;キリスト教;;wakuwaku 1
+believer / adherent;きょうと;教徒;wakuwaku 1
+irreligion / lack of religion;むしゅうきょう;無宗教;wakuwaku 1
+variety / kind / type / category;しゅるい;種類;wakuwaku 1
+to be mixed with;まざる;混ざる;wakuwaku 1
+national holiday / festival day;さいじつ;祭日;wakuwaku 1
+relation / connection;かんけい;関係;wakuwaku 1
+deep;ふかい;深い;wakuwaku 1
+connection ;つながり;;wakuwaku 1
+by the way;ちなみに;;wakuwaku 1
+in other words;つまり;;wakuwaku 1
+clearly / obvious;あきらか;明らか;wakuwaku 1
+to give up / to abandon (plans);あきらめる;諦める;wakuwaku 1
+to get tired of / to be fed up with;あきる;飽きる;wakuwaku 1
+to leave (in someone's keeping) / to put (in someone's care);あずける;預ける;wakuwaku 1
+to admit / to confer;あたえる;与える;wakuwaku 1
+to deal with / to handle / to manage / to take care of;あつかう;扱う;wakuwaku 1
+hole;あな;穴;wakuwaku 1
+error / mistake / slip / bug;あやまり;誤り;wakuwaku 1
+to appear / to become visible;あらわれる;現れる;wakuwaku 1
+all / every;あらゆる;;wakuwaku 1
+or / either ... or;あるいは;;wakuwaku 1
+bubble;あわ;泡;wakuwaku 1
+memorization / learning by heart;あんき;暗記;wakuwaku 1
+stability;あんてい;安定する;wakuwaku 1
+unexpected / surprising;いがい;意外;wakuwaku 1
+breath / breathing;いき;息;wakuwaku 1
+vigour / energy / life;いきおい;勢い;wakuwaku 1
+will / intent / intention;いし;意志;wakuwaku 1
+maintenance;いじ;維持;wakuwaku 1
+consciousness;いしき;意識;wakuwaku 1
+catholic priest;しんぷ;神父;wakuwaku 1
+monastery;しゅうどういん;修道院;wakuwaku 1
+publication / issue (of journal / newspapaer etc);はっこう;発行する;wakuwaku 1
+philosophy;てつがく;哲学;wakuwaku 1
+being deeply moved emotionally;かんどう;感動;wakuwaku 1
+(Catholic) Mass;ミサ;;wakuwaku 1
+seminary;しんがっこう;神学校;wakuwaku 1
+come to think of it / that reminds me / speaking of which;そういえば;;wakuwaku 1
+how long / how far / how much;どれぐらい;;wakuwaku 1
+very;すごく;;wakuwaku 1
+and the like / and so on;とか;;wakuwaku 1
+strangeness / abnormality / disorder;いじょう;異常;wakuwaku 1
+fountain;いずみ;泉;wakuwaku 1
+great / grand / magnificent;いだい;偉大;wakuwaku 1
+mischief / prank;いたずら;;wakuwaku 1
+to arrive at (a destination) / to reach / to lead to (a place);いたる;至る;wakuwaku 1
+location / position;いち;位置;wakuwaku 1
+instant / in a moment;いっしゅん;一瞬;wakuwaku 1
+much more / more than ever;いっそう;一層;wakuwaku 1
+union / match / agreement;いっち;一致;wakuwaku 1
+to move / to migrate;いどう;移動する;wakuwaku 1
+rice plant;いね;稲;wakuwaku 1
+violation / breaking (a contract / promise);いはん;違反;wakuwaku 1
+living room;いま;居間;wakuwaku 1
+request;いらい;依頼;wakuwaku 1
+medical care / medical treatment;いりょう;医療;wakuwaku 1
+the so-called;いわゆる;;wakuwaku 1
+printing;いんさつ;印刷;wakuwaku 1
+retirement;いんたい;引退;wakuwaku 1
+quotation / reference;いんよう;引用;wakuwaku 1
+gargling / rinsing one's mouth;うがいする;;wakuwaku 1
+Middle East;中東（ちゅうとう）;;wakuwaku 1
+prayer / supplication;お祈り（おいのり）;;wakuwaku 1
+event / function;行事（ぎょうじ）;;wakuwaku 1
+national holiday / festival day;さいじつ;祭日;wakuwaku 1
+snow shoveling;雪かき;;wakuwaku 1
+Bible;聖書（せいしょ）;;wakuwaku 1
+New Testament;新約聖書（しんやくせいしょ）;;wakuwaku 1
+Old Testament;旧約聖書（きゅうやくせいしょ）;;wakuwaku 1
+mosque;モスク;;wakuwaku 1
+synagogue;シナゴーグ;;wakuwaku 1
+Christian Church;教会（きょうかい）;;wakuwaku 1
+forest / woods;しんりん;森林;wakuwaku 2
+plant;しょくぶつ;植物;wakuwaku 2
+monkey / ape;さる;猿;wakuwaku 2
+Earth / the globe;ちきゅう;地球;wakuwaku 2
+street performing;だいどうげい;大道芸;wakuwaku 2
+company / fellow;なかま;仲間;wakuwaku 2
+grass;くさ;草;wakuwaku 2
+fruit of a tree;きのみ;木の実;wakuwaku 2
+ogre / demon / oni;おに;鬼;wakuwaku 2
+servant;けらい;家来;wakuwaku 2
+butt;しり;尻;wakuwaku 2
+to make sound (animal) / to cry;なく;鳴く;wakuwaku 2
+to keep (a pet or other animal);かう;飼う;wakuwaku 2
+unique / original;どくじ;独自;wakuwaku 2
+extinction / extermination;ぜつめつ;絶滅;wakuwaku 2
+to beat / to finish off (an enemy);やっつける;;wakuwaku 2
+to doubt / to suspect;うたがう;疑う;wakuwaku 2
+to appeal to (reason) / to bring to (someone's attention);うったえる;訴える;wakuwaku 2
+to steal;うばう;奪う;wakuwaku 2
+to roar / to howl / to growl;うなる;;wakuwaku 2
+to betray;うらぎる;裏切る;wakuwaku 2
+eternity / immortality;えいえん;永遠;wakuwaku 2
+influence / effect;えいきょう;影響;wakuwaku 2
+business;えいぎょう;営業;wakuwaku 2
+(natural) stellite;えいせい;衛星;wakuwaku 2
+nutrition / nourishment;えいよう;栄養;wakuwaku 2
+smiling face / smile;えがお;笑顔;wakuwaku 2
+to draw;かく;描く;wakuwaku 2
+pet food;えさ;餌;wakuwaku 2
+to postpone;えんき;延期;wakuwaku 2
+acting / performance;えんぎ;演技する;wakuwaku 2
+assistance / aid / support;えんじょ;援助;wakuwaku 2
+speech / public speaking;えんぜつ;演説;wakuwaku 2
+musical performance;えんそう;演奏;wakuwaku 2
+constraint / restraint;えんりょ;遠慮;wakuwaku 2
+uniqueness / characteristic;どくとく;独特;wakuwaku 2
+island country;しまぐに;島国;wakuwaku 2
+climate;きこう;気候;wakuwaku 2
+the four seasons;しき;四季;wakuwaku 2
+rainy season (in Japan usu. from early June to mid-July);つゆ;梅雨;wakuwaku 2
+area / region;ちいき;地域;wakuwaku 2
+representative;だいひょうてき;代表的;wakuwaku 2
+to bloom / to blossom;さく;咲く;wakuwaku 2
+growth;せいちょう;成長;wakuwaku 2
+life span;じゅみょう;寿命;wakuwaku 2
+usually / normally;ふだん;普段;wakuwaku 2
+cosmetics;けしょうひん;化粧品;wakuwaku 2
+time / season;じき;時期;wakuwaku 2
+aroma / fragrance / scent / smell;かおり;香り;wakuwaku 2
+hedge;いけがき;生垣;wakuwaku 2
+wall;かべ;壁;wakuwaku 2
+(flower) petal;はなびら;花びら;wakuwaku 2
+clockwise;みぎまき;右巻き;wakuwaku 2
+sunlight / sunshine;にっこう;日光;wakuwaku 2
+weak (taste etc);うすい;薄い;wakuwaku 2
+shade of tree;こかげ;木陰;wakuwaku 2
+to raise / to educate;そだてる;育てる;wakuwaku 2
+to catch up (with);おいつく;追いつく;wakuwaku 2
+prince;おうじ;王子;wakuwaku 2
+to respond / to satisfy;おうじる;応じる;wakuwaku 2
+crossing;おうだん;横断;wakuwaku 2
+to cover / to hide;おおう;覆う;wakuwaku 2
+hill;おか;丘;wakuwaku 2
+open sea;おき;沖;wakuwaku 2
+depths;おく;奥;wakuwaku 2
+to occur / to happen;おこる;起こる;wakuwaku 2
+very young / little;おさない;幼い;wakuwaku 2
+chattering / idle talk;おしゃべり;;wakuwaku 2
+pollution;おせん;汚染;wakuwaku 2
+likely / probably;おそらく;恐らく;wakuwaku 2
+to fear / to be afraid of;おそれる;恐れる;wakuwaku 2
+terrifying / terrible;おそろしい;恐ろしい;wakuwaku 2
+each other / one another;おたがい;お互い;wakuwaku 2
+calm / quiet / peaceful;おだやか;穏やか;wakuwaku 2
+to be inferior to;おとる;劣る;wakuwaku 2
+obi / kimono sash;おび;帯;wakuwaku 2
+to drown / to sink / to struggle in the water;おぼれる;溺れる;wakuwaku 2
+the oldest;さいこ;最古;wakuwaku 3
+fragment / one portion / one part;いちぶ;一部;wakuwaku 3
+modern era / nowadays;げんだい;現代;wakuwaku 3
+goddess;めがみ;女神;wakuwaku 3
+total darkness / pitch dark;まっくら;真っ暗;wakuwaku 3
+sun;たいよう;太陽;wakuwaku 3
+completely;かんぜんに;完全に;wakuwaku 3
+the world / the earth;げかい;下界;wakuwaku 3
+to throw;なげる;投げる;wakuwaku 3
+to pray / to worship;まつる;祀る;wakuwaku 3
+now / current / present;げんざい;現在;wakuwaku 3
+society / the world;よのなか;世の中;wakuwaku 3
+without thinking / uncounsciously;おもわず;思わず;wakuwaku 3
+about / roughly / approximately;およそ;;wakuwaku 3
+to influence / to cause;およぼす;及ぼす;wakuwaku 3
+favour / obligation;おん;恩;wakuwaku 3
+warm / mild;おんだん;温暖;wakuwaku 3
+injury / harm / damage;がい;害;wakuwaku 3
+finance / accounting;かいけい;会計;wakuwaku 3
+solution / resolution;かいけつ;解決;wakuwaku 3
+meeting / assembly;かいごう;会合;wakuwaku 3
+diplomacy;がいこう;外交;wakuwaku 3
+explanation / interpretation;かいしゃく;解釈;wakuwaku 3
+improvement;かいぜん;改善;wakuwaku 3
+pleasant / comfortable;かいてき;快適;wakuwaku 3
+restoration / recovery;かいふく;回復;wakuwaku 3
+fragrance / scent / smell;かおり;香り;wakuwaku 3
+to hold or carry under or in the arms;かかえる;抱える;wakuwaku 3
+price / value / cost;かかく;価格;wakuwaku 3
+chemistry;かがく;化学;wakuwaku 3
+to shine / to sparkle;かがやく;輝く;wakuwaku 3
+person in charge / duty;かかり;係;wakuwaku 3
+cause / origin / source;げんいん;原因;wakuwaku 3
+princess;ひめ;姫;wakuwaku 3
+tail (animal);しっぽ;;wakuwaku 3
+to grow;はえる;生える;wakuwaku 3
+extermination / elimination;たいじ;退治する;wakuwaku 3
+to accept;うけいれる;受け入れる;wakuwaku 3
+comb;くし;櫛;wakuwaku 3
+after a short time;しばらくする;;wakuwaku 3
+to get drunk;よっぱらう;酔っぱらう;wakuwaku 3
+to jump out / to rush out;とびだす;飛び出す;wakuwaku 3
+sword / blade;つるぎ;剣;wakuwaku 3
+mirror;かがみ;鏡;wakuwaku 3
+ball;たま;玉;wakuwaku 3
+to restrict / to limit;かぎる;限る;wakuwaku 3
+to draw / to paint;かく;描く;wakuwaku 3
+furniture;かぐ;家具;wakuwaku 3
+(picture) frame;がく;額;wakuwaku 3
+to prepare oneself (for the worst);かくご;覚悟;wakuwaku 3
+certain / sure;かくじつ;確実;wakuwaku 3
+to hide / to conceal;かくす;隠す;wakuwaku 3
+enlargement / expansion;かくだい;拡大;wakuwaku 3
+confirmation / verification;かくにん;確認;wakuwaku 3
+study / branch of learning;がくもん;学問;wakuwaku 3
+shadow;かげ;影;wakuwaku 3
+degree / amount;かげん;加減;wakuwaku 3
+the past / the previous;かこ;過去;wakuwaku 3
+basket;かご;籠;wakuwaku 3
+to surround / to encircle;かこむ;囲む;wakuwaku 3
+wise / clever / smart;かしこい;賢い;wakuwaku 3
+to earn (income) / to make (money);かせぐ;稼ぐ;wakuwaku 3
+type / style / model / pattern;かた;型;wakuwaku 3
+shoulder;かた;肩;wakuwaku 3
+hard / solid / tough;かたい;硬い;wakuwaku 3
+thing that reminds one of a particular season;ふうぶつし;風物詩;wakuwaku 4
+example;れい;例;wakuwaku 4
+general / common;いっぱんてきな;一般的な;wakuwaku 4
+dragonfly / damselfly;とんぼ;;wakuwaku 4
+salmon (Salmonidae spp.);さけ・しゃけ;鮭;wakuwaku 4
+bamboo shoot;竹の子;;wakuwaku 4
+male (animal, plant);オス;;wakuwaku 4
+female (animal, plant);メス;;wakuwaku 4
+refreshing;すがすがしい;;wakuwaku 4
+to appear;出てくる;;wakuwaku 4
+each / respectively;それぞれ;;wakuwaku 4
+in this manner / in this way / like this;このように;;wakuwaku 4
+how / in what way;どのように;;wakuwaku 4
+living creature / life;いきもの;生き物;wakuwaku 4
+and / thereupon / because of that;それで;;wakuwaku 4
+at last / finally;やっと;;wakuwaku 4
+to be delivered / to reach;とどく;届く;wakuwaku 4
+to request / to beg / to ask;たのむ;頼む;wakuwaku 4
+after all / in the end;けっきょく;結局;wakuwaku 4
+quality / value;しつ;質;wakuwaku 4
+value / worth;かち;価値;wakuwaku 4
+to be disappointed;がっかり;;wakuwaku 4
+energy / liveliness;かっき;活気;wakuwaku 4
+shape / form / figure / posture / pose;かっこう;格好;wakuwaku 4
+practical use / application;かつよう;活用;wakuwaku 4
+considerably / fairly / quite;かなり;;wakuwaku 4
+possible / potential;かのう;可能;wakuwaku 4
+stock / share;かぶ;株;wakuwaku 4
+to care about;かまう;構う;wakuwaku 4
+patience / endurance;がまん;我慢;wakuwaku 4
+lightning / thunder;かみなり;雷;wakuwaku 4
+(school) subject;かもく;科目;wakuwaku 4
+pattern / design;がら;柄;wakuwaku 4
+to cut (grass, hair, etc.) / to mow;かる;刈る;wakuwaku 4
+intuition;かん;勘;wakuwaku 4
+sense;かんかく;感覚;wakuwaku 4
+audience / spectator / spectators;かんきゃく;観客;wakuwaku 4
+environment;かんきょう;環境;wakuwaku 4
+welcome party;かんげい;歓迎;wakuwaku 4
+observation / survey;かんさつ;観察;wakuwaku 4
+mostly / nearly;ほとんど;;wakuwaku 4
+humid / wet;じめじめする;;wakuwaku 4
+(raining) heavily / (water rushing) plentily;ざーざーとふる;;wakuwaku 4
+gently (raining) / drizzling;しとしとふる;;wakuwaku 4
+pleasantly warm / nice and warm;ぽかぽかとあたたまる;;wakuwaku 4
+hot and humid;むしむしする;;wakuwaku 4
+glittering / sparkling;きらきらする;;wakuwaku 4
+soft / fluffy / spongy;ふわふわの;;wakuwaku 4
+etc.;など;;wakuwaku 4
+mold;かび;;wakuwaku 4
+storm / tempest;あらし;嵐;wakuwaku 4
+material of cloth;ぬの;布;wakuwaku 4
+doll / puppet / figure;にんぎょう;人形;wakuwaku 4
+to decorate;かざる;;wakuwaku 4
+ingredient;せいぶん;成分;wakuwaku 4
+buddhist priest;ぼうず;坊主;wakuwaku 4
+bigleaf hydrangea (Hydrangea macrophylla) / French hydrangea;アジサイ;;wakuwaku 4
+first (of all) / to begin with;まず;;wakuwaku 4
+once again / once more / another time;また;;wakuwaku 4
+or / or else;それとも;;wakuwaku 4
+practical / useful;じつようてきな;実用的な;wakuwaku 4
+specific / definite;ぐたいてきな;具体的な;wakuwaku 4
+optimistic / hopeful;らっかんてきな;楽観的な;wakuwaku 4
+positive / assertive / active / proactive / aggressive;せっきょくてきな;積極的な;wakuwaku 4
+charming / fascinating / attractive;みりょくてきな;魅力的な;wakuwaku 4
+patient;かんじゃ;患者;wakuwaku 4
+emotion / feelings;かんじょう;感情;wakuwaku 4
+concern / interest;かんしん;関心;wakuwaku 4
+complete / completion;かんせい;完成;wakuwaku 4
+supervision / manager;かんとく;監督;wakuwaku 4
+control / management (e.g. of a business);かんり;管理;wakuwaku 4
+in relation (with);かんれん;関連;wakuwaku 4
+member of parliament;ぎいん;議員;wakuwaku 4
+memory / recollection / remembrance;きおく;記憶;wakuwaku 4
+parliament;ぎかい;議会;wakuwaku 4
+institution / organisation;きかん;機関;wakuwaku 4
+enterprise / business / company / corporation;きぎょう;企業;wakuwaku 4
+humour;きげん;機嫌;wakuwaku 4
+climate;きこう;気候;wakuwaku 4
+coast / shore;きし;岸;wakuwaku 4
+cloth / fabric / material;きじ;生地;wakuwaku 4
+article;きじ;記事;wakuwaku 4
+engineer / technician;ぎし;技師;wakuwaku 4
+reporter / journalist;きしゃ;記者;wakuwaku 4
+wound / injury;きず;傷;wakuwaku 4
+the five senses;ごかん;五感;wakuwaku 5
+sense of sight / vision;しかく;視覚;wakuwaku 5
+taste / palate / sense of taste;みかく;味覚;wakuwaku 5
+the sense of smell;しゅうかく;臭覚;wakuwaku 5
+the sense of hearing;ちょうかく;聴覚;wakuwaku 5
+sense of touch;しょっかく;触覚;wakuwaku 5
+to taste;あじわう;味わう;wakuwaku 5
+soybean;だいず;大豆;wakuwaku 5
+chestnut;くり;栗;wakuwaku 5
+ingredient / material;そざい;素材;wakuwaku 5
+soft / tender;やわらかい;柔らかい;wakuwaku 5
+unique;ユニーク;;wakuwaku 5
+rotation;まわり;;wakuwaku 5
+portion / section / part;せいぶん;部分;wakuwaku 5
+healthy;けんこうてきな;健康的な;wakuwaku 5
+vitamin;ビタミン;;wakuwaku 5
+mineral;ミネラル;;wakuwaku 5
+oil;あぶら;油;wakuwaku 5
+to look like / to resemble;にる;似る;wakuwaku 5
+rule;ルール;;wakuwaku 5
+certain to / sure to;きまっている;;wakuwaku 5
+meeting;であい;出会い;wakuwaku 5
+guest / visitor;おきゃくさん;お客さん;wakuwaku 5
+tea party;おちゃかい;お茶会;wakuwaku 5
+to start a party;ひらく;パーティーを開く;wakuwaku 5
+to turn back (e.g. half-way);もどる;戻る;wakuwaku 5
+everything / all / the whole;すべて;全て;wakuwaku 5
+the whole time;ずっと;;wakuwaku 5
+surely / undoubtedly;きっと;;wakuwaku 5
+expectation / anticipation / hope;きたい;期待;wakuwaku 5
+returning home;きたく;帰宅;wakuwaku 5
+precious / valuable;きちょう;貴重;wakuwaku 5
+entry (in a form / data);きにゅう;記入;wakuwaku 5
+celebration / honoring the memory of something;きねん;記念;wakuwaku 5
+function / feature;きのう;機能;wakuwaku 5
+to feel sorry / to regret;きのどく;気の毒;wakuwaku 5
+contribution / donation;きふ;寄付;wakuwaku 5
+hope / wish;きぼう;希望;wakuwaku 5
+basic / fundamentals;きほん;基本;wakuwaku 5
+strange / odd;きみょう;奇妙;wakuwaku 5
+duty / obligation / responsibilty;ぎむ;義務;wakuwaku 5
+doubt / suspicion;ぎもん;疑問;wakuwaku 5
+reverse / opposite;ぎゃく;逆;wakuwaku 5
+holiday / day off;きゅうか;休暇;wakuwaku 5
+rest / break;きゅうけい;休憩;wakuwaku 5
+sudden / rapid ;きゅうげき;急激;wakuwaku 5
+absorption;きゅうしゅう;吸収;wakuwaku 5
+aid / rescue;きゅうじょ;救助;wakuwaku 5
+rapid (e.g. progress);きゅうそく;急速;wakuwaku 5
+event;イベント;;wakuwaku 5
+visit to a grave;おはかまいり;お墓参り;wakuwaku 5
+cucumber (Cucumis sativus);きゅうり;;wakuwaku 5
+eggplant;なす;;wakuwaku 5
+to die;なくなる;亡くなる;wakuwaku 5
+ancestor;せんぞ;先祖;wakuwaku 5
+soul / spirit;れい;霊;wakuwaku 5
+to decorate;かざる;飾る;wakuwaku 5
+to go out to meet;むかえる;迎える;wakuwaku 5
+world of the dead / the other world;あのよ;あの世;wakuwaku 5
+the rest / the others;ほか;その他;wakuwaku 5
+district / region;ちほう;地方;wakuwaku 5
+depressed / to feel down;気がおもい;;wakuwaku 5
+to be careful / to pay attention / to take care;気をつける;;wakuwaku 5
+to notice / to become aware;気がつく;;wakuwaku 5
+to care about details;気がきく;;wakuwaku 5
+to mind / to care about;気にする;;wakuwaku 5
+to get along (with someone);気が合う;;wakuwaku 5
+to like / to be pleased with;気にいる;;wakuwaku 5
+to be interested (in) / to be curious (about);気になる;;wakuwaku 5
+according to;によって違う;;wakuwaku 5
+concerning / regarding;について;;wakuwaku 5
+known for;で有名だ;;wakuwaku 5
+made of;でできた;;wakuwaku 5
+skillful;きよう;器用;wakuwaku 5
+game / match / contest;きょうぎ;競技;wakuwaku 5
+manners / behavior / behaviour;ぎょうじ;行儀;wakuwaku 5
+supply / provision;きょうきゅう;供給;wakuwaku 5
+professor;きょうじゅ;教授;wakuwaku 5
+emphasis (on sth);きょうちょう;強調;wakuwaku 5
+common / shared / mutual;きょうつう;共通;wakuwaku 5
+doing together / sharing / common;きょうどう;共同;wakuwaku 5
+fear / terror;きょうふ;恐怖;wakuwaku 5
+cooperation / collaboration;きょうりょく;協力;wakuwaku 5
+powerful / strong;きょうりょく;強力;wakuwaku 5
+permission / approval;きょか;許可;wakuwaku 5
+office / department;きょく;局;wakuwaku 5
+huge / gigantic / enormous;きょだい;巨大;wakuwaku 5
+fog / mist;きり;霧;wakuwaku 5
+record / document;きろく;記録;wakuwaku 5
+debate / discussion;ぎろん;議論;wakuwaku 5
+no smoking area;きんえん;禁煙;wakuwaku 5
+amount of money;きんがく;金額;wakuwaku 5
+safe / vault;きんこ;金庫;wakuwaku 5
+to visualize / to picture;をイメージする;;wakuwaku 6
+sightseeing / tourism;かんこう;観光;wakuwaku 6
+perhaps / may;かもしれない;;wakuwaku 6
+expectation / prediction;よそう;予想;wakuwaku 6
+ferry;フェリー;;wakuwaku 6
+to make plans;けいかくをたてる;計画を立てる;wakuwaku 6
+single bed;シングル;;wakuwaku 6
+double bed;ダブル;;wakuwaku 6
+twin;ツイン;;wakuwaku 6
+check-in;チェックイン;;wakuwaku 6
+room for three;さんにんへや;三人部屋;wakuwaku 6
+(stopping) for one night;いっぱく;一泊;wakuwaku 6
+check-out;チェックアウト;;wakuwaku 6
+accommodation / lodging;しゅくはく;宿泊;wakuwaku 6
+deadline;しめきり;締め切り;wakuwaku 6
+dormitory / dorm;ドーミトリー;;wakuwaku 6
+prohibition / ban;きんし;禁止;wakuwaku 6
+money / cash;きんせん;金銭;wakuwaku 6
+metal;きんぞく;金属;wakuwaku 6
+modern day / present day;きんだい;近代;wakuwaku 6
+muscle;きんにく;筋肉;wakuwaku 6
+finance;きんゆう;金融;wakuwaku 6
+by chance / coincidence;ぐうぜん;偶然;wakuwaku 6
+chain;くさり;鎖;wakuwaku 6
+to rot / to go bad;くさる;腐る;wakuwaku 6
+habit;くせ;癖;wakuwaku 6
+pain / agony;くつう;苦痛;wakuwaku 6
+soundly (sleeping) / fast (asleep);ぐっすり;;wakuwaku 6
+differentiation ;くべつ;区別;wakuwaku 6
+to lose one's mind / to go insane;くるう;狂う;wakuwaku 6
+trouble / hardship;くろう;苦労;wakuwaku 6
+sunset / sundown;くれ;暮れ;wakuwaku 6
+armed forces / military;ぐんたい;軍隊;wakuwaku 6
+training / practice;くんれん;訓練;wakuwaku 6
+respect / honour / honor;けいい;敬意;wakuwaku 6
+management / administration;けいえい;経営;wakuwaku 6
+direct (nonstop) flight;ちょっこうびん;直行便;wakuwaku 6
+raincoat;カッパ;;wakuwaku 6
+swimsuit;みずぎ;水着;wakuwaku 6
+mountain climbing;とざん;登山;wakuwaku 6
+necessary / essential;ひつよう;必要;wakuwaku 6
+economic activity / business conditions;けいき;景気;wakuwaku 6
+tendency;けいこう;傾向;wakuwaku 6
+warning / advice;けいこく;警告;wakuwaku 6
+calculation;けいさん;計算;wakuwaku 6
+notice / posting;けいじ;掲示;wakuwaku 6
+(police) detective;けいじ;刑事;wakuwaku 6
+art / the arts;げいじゅつ;芸術;wakuwaku 6
+contract / agreement;けいやく;契約;wakuwaku 6
+going through / going via;けいゆ;経由;wakuwaku 6
+injury / hurt;けが;怪我;wakuwaku 6
+theatre;げきじょう;劇場;wakuwaku 6
+defect / fault;けっかん;欠陥;wakuwaku 6
+determination / resolution;けっしん;決心;wakuwaku 6
+absence;けっせき;欠席;wakuwaku 6
+decision;けってい;決定;wakuwaku 6
+defect / fault;けってん;欠点;wakuwaku 6
+conclusion;けつろん;結論;wakuwaku 6
+chimney;けむり;煙り;wakuwaku 6
+opinion / point of view;けんかい;見解;wakuwaku 6
+limit / bound;げんかい;限界;wakuwaku 6
+evironmental issue;かんきょうもんだい;環境問題;wakuwaku 7
+decrease / reduction / decline;げんしょう;減少;wakuwaku 7
+to decrease;へる;減る;wakuwaku 7
+to increase / to multiply;ふえる;増える;wakuwaku 7
+air pollution;たいきおせん;大気汚染;wakuwaku 7
+acid rain;さんせいう;酸性雨;wakuwaku 7
+destruction / disruption;はかい;破壊;wakuwaku 7
+accident / trouble;じこがおきる;事故が起きる;wakuwaku 7
+nuclear power plant;げんしりょくはつでんしょ;原子力発電所;wakuwaku 7
+nuclear power plant;げんぱつ;原発;wakuwaku 7
+to rescue from / to save;すくう;救う;wakuwaku 7
+plants and animals / flora and fauna;どうしょくぶつ;動植物;wakuwaku 7
+extinction / extermination;ぜつめつ;絶滅;wakuwaku 7
+wolf;おおかみ;;wakuwaku 7
+increase / growth;ぞうか;増加;wakuwaku 7
+to be sufficient / to be enough;たりる;足りる;wakuwaku 7
+global warming;ちきゅうおんだんか;地球温暖化;wakuwaku 7
+sun;たいよう;太陽;wakuwaku 7
+ozone layer;そう;オゾン層;wakuwaku 7
+North Pole;ほっきょく;北極;wakuwaku 7
+ice;こおり;氷;wakuwaku 7
+to melt / to be solved;とける;解ける;wakuwaku 7
+in addition / moreover;それに;;wakuwaku 7
+in addition / furthermore;そのうえ;;wakuwaku 7
+even so / however;ところが;;wakuwaku 7
+by the way / incidentally;ところで;;wakuwaku 7
+century;せいき;世紀;wakuwaku 7
+cash / currency;げんきん;現金;wakuwaku 7
+inspection / examination;けんさ;検査;wakuwaku 7
+now / present / current;げんざい;現在;wakuwaku 7
+reality;げんじつ;現実;wakuwaku 7
+phenomenon;げんしょう;現象;wakuwaku 7
+present condition;げんじょう;現状;wakuwaku 7
+modern day / nowadays;げんだい;現代;wakuwaku 7
+construction / architecture (of buildings);けんちく;建築;wakuwaku 7
+to have a (rough) idea (of what the situation is);けんとう;見当がつく;wakuwaku 7
+consideration / investigation;けんとう;検討;wakuwaku 7
+scene of the crime / location;げんば;現場;wakuwaku 7
+constitution;けんぽう;憲法;wakuwaku 7
+right / privilege;けんり;権利;wakuwaku 7
+(romantic) love;こい;恋;wakuwaku 7
+strong (flavour, smell, etc.);こい;濃い;wakuwaku 7
+good luck / fortune;こううん;幸運;wakuwaku 7
+lecture / speech;こうえん;講演;wakuwaku 7
+effect / result;こうか;効果;wakuwaku 7
+coin;こうか;硬貨;wakuwaku 7
+highly prices / expensive;こうか;高価;wakuwaku 7
+to tell you the truth / as a matter of fact;じつは;実は;wakuwaku 7
+city;とかい;都会;wakuwaku 7
+short-term;たんき;短期;wakuwaku 7
+long-term;ちょうき;長期;wakuwaku 7
+agriculture;のうぎょう;農業;wakuwaku 7
+(practical) experience / personal experience;たいけん;体験;wakuwaku 7
+home area / home town;じもと;地元;wakuwaku 7
+one place / one location;いっかしょ;一か所;wakuwaku 7
+two places / two locations;にかしょ;二か所;wakuwaku 7
+cultural exchange;こうりゅう;交流;wakuwaku 7
+rice planting;たうえ;田植え;wakuwaku 7
+mushroom;きのこ;茸;wakuwaku 7
+pounding mochi;もちつき;餅つき;wakuwaku 7
+pesticide-free;むのうやく;無農薬;wakuwaku 7
+dispensable chopsticks;わりばし;;wakuwaku 7
+counter for pairs of chopsticks;ぜん;膳;wakuwaku 7
+wasteful / a waste;もったいない;;wakuwaku 7
+(disposable) shopping bag;ぶくろ;レジ袋;wakuwaku 7
+to spread out;しく;敷く;wakuwaku 7
+to come from / to derive from;にゆらいする;に由来する;wakuwaku 7
+to wrap up / to pack;つつむ;包む;wakuwaku 7
+ring / circle / loop;わ;輪;wakuwaku 7
+edge / tip / end;はじ;端;wakuwaku 7
+to tie / to bind / to link;むすぶ;結ぶ;wakuwaku 7
+deluxe edition;ごうか;豪華;wakuwaku 7
+passing (the exam);ごうかく;合格;wakuwaku 7
+exchange / replacement;こうかん;交換;wakuwaku 7
+aircraft;こうくう;航空;wakuwaku 7
+sight / view;こうけい;光景;wakuwaku 7
+sum total / total amount;ごうけい;合計;wakuwaku 7
+attack / assault;こうげき;攻撃;wakuwaku 7
+contribution;こうけん;貢献;wakuwaku 7
+advertisement / advertising;こうこく;広告;wakuwaku 7
+relationship / association;こうさい;交際;wakuwaku 7
+the latter;こうしゃ;後者;wakuwaku 7
+construction / organization;こうせい;構成;wakuwaku 7
+high-speed / highway / express;こうそく;高速;wakuwaku 7
+action / behaviour;こうどう;行動;wakuwaku 7
+robbery;ごうとう;強盗;wakuwaku 7
+happiness / well-being;こうふく;幸福;wakuwaku 7
+fairness / justice;こうへい;公平;wakuwaku 7
+candidate;こうほ;候補;wakuwaku 7
+consideration / taking into account;こうりょ;考慮;wakuwaku 7
+to cross over / to go beyond / to surpass;こえる;超える;wakuwaku 7
+metropolis / big city;だいとかい;大都会;wakuwaku 8
+escape / break-out;だっしゅつ;脱出;wakuwaku 8
+rent;やちん;家賃;wakuwaku 8
+depression / melancholy;ゆううつ;憂鬱;wakuwaku 8
+to take care of;せわ;世話する;wakuwaku 8
+countryside / rural area;いなか;田舎;wakuwaku 8
+agriculture;のうぎょう;農業;wakuwaku 8
+moreover / furthermore;さらに;;wakuwaku 8
+to want / to wish for;もとめる;求める;wakuwaku 8
+to move (house);ひっこす;引っ越す;wakuwaku 8
+to summon courage / to be brave;ゆうきをだす;勇気を出す;wakuwaku 8
+home area / home town;じもと;地元;wakuwaku 8
+farmer;のうか;農家;wakuwaku 8
+area / region;ちいき;地域;wakuwaku 8
+persuasion;せっとくする;説得する;wakuwaku 8
+killing two birds with one stone;いっせきにちょう;一石二鳥;wakuwaku 8
+to be in the same team;ににんさんきゃく;二人三脚;wakuwaku 8
+everybody's friend / person who is affable to everybody;はっぽうびじん;八方美人;wakuwaku 8
+everyone is different;じゅうにんといろ;十人十色;wakuwaku 8
+not giving up;ななころびやおき;七転八起;wakuwaku 8
+in all directions;しほうはっぽう;四方八方;wakuwaku 8
+ideal / ideals;りそう;理想;wakuwaku 8
+birth / birthplace;うまれそだった;生まれ育った;wakuwaku 8
+each other / one another;おたがい;お互い;wakuwaku 8
+to be grateful / to be indebted;おせわになる;お世話になる;wakuwaku 8
+individual / unique;こせいてきなひと;個性的な人;wakuwaku 8
+shaved ice (usually served with flavored simple syrup);こおり;氷;wakuwaku 8
+to freeze;こおる;凍る;wakuwaku 8
+misunderstanding;ごかい;誤解;wakuwaku 8
+breathing;こきゅう;呼吸;wakuwaku 8
+home town / birthplace;こきょう;故郷;wakuwaku 8
+blackboard;こくばん;黒板;wakuwaku 8
+overcoming / conquest (of a difficulty / illness etc.);こくふく;克服;wakuwaku 8
+citizens;こくみん;国民;wakuwaku 8
+failure / fault;こしょう;故障;wakuwaku 8
+individual / pindividual / personal;こじん;個人;wakuwaku 8
+state / country / nation;こっか;国家;wakuwaku 8
+parlament;こっかい;国会;wakuwaku 8
+national border;こっきょう;国境;wakuwaku 8
+bone fracture;こっせつ;骨折;wakuwaku 8
+package;こづつみ;小包;wakuwaku 8
+to differ;ことなる;異なる;wakuwaku 8
+saying / proverb;ことわざ;諺;wakuwaku 8
+wheat;こむぎ;小麦;wakuwaku 8
+to be jammed;こんざつ;混雑;wakuwaku 8
+difficulty / hardship;こんなん;困難;wakuwaku 8
+to make a short visit / to stop by;よる;寄る;wakuwaku 8
+eldery person;おとしより;お年寄り;wakuwaku 8
+retirement;いんたい;引退;wakuwaku 8
+sumo wrestler;りきし;力士;wakuwaku 8
+old age;ろうご;老後;wakuwaku 8
+lively / active;かっぱつてき;活発的な;wakuwaku 8
+postwar period;せんご;戦後;wakuwaku 8
+sense of values / values / value system;かちかん;価値観;wakuwaku 8
+secret / key (ex. to success);ひけつ;秘訣;wakuwaku 8
+retirement age;ていねん;定年;wakuwaku 8
+activity (of a person);かつどう;活動;wakuwaku 8
+gymnastics;たいそう;体操;wakuwaku 8
+friendship;ゆうじょう;友情;wakuwaku 8
+sense of accomplishment;たっせいかん;達成感;wakuwaku 8
+to rescue from / to help out of / to save;すくう;救う;wakuwaku 8
+about / roughly / approximately;およそ;;wakuwaku 8
+destruction / disruption;はかい;破壊;wakuwaku 8
+engagement;こんやく;婚約;wakuwaku 8
+chaos / confusion;こんらん;混乱;wakuwaku 8
+difference;さ;差;wakuwaku 8
+on the occasion of;さい;際;wakuwaku 8
+(in) the middle of ;さいちゅう;最中;wakuwaku 8
+talent / ability;さいのう;才能;wakuwaku 8
+judgement;さいばん;裁判;wakuwaku 8
+border / boundary;さかい;境;wakuwaku 8
+to go against / to oppose / to disobey / to defy;さからう;逆らう;wakuwaku 8
+work (to be done);さぎょう;作業;wakuwaku 8
+crops;さくもつ;作物;wakuwaku 8
+to avoid (situation);さける;避ける;wakuwaku 8
+to support;ささえる;支える;wakuwaku 8
+seat;ざせき;座席;wakuwaku 8
+bill / note;さつ;札;wakuwaku 8
+author / writer / novelist / artist;さっか;作家;wakuwaku 8
+to compose;さっきょくする;作曲する;wakuwaku 8
+roughly / approximately;ざっと;;wakuwaku 8
+having no idea of sth;さっぱりわからない;;wakuwaku 8
+well / now / then;さて;;wakuwaku 8
+to review;ふくしゅう;復習;wakuwaku 9
+as much as possible;できるだけ;;wakuwaku 9
+phrase;フレーズ;;wakuwaku 9
+ranking;ランキング;;wakuwaku 9
+taking an exam;うける;テストを受ける;wakuwaku 9
+to help each other / to cooperate;たすけあう;助け合う;wakuwaku 9
+place (ex. 1st);い;位;wakuwaku 9
+to imagine (sth);そうぞうする;想像する;wakuwaku 9
+to give (sth);あげる;;wakuwaku 9
+to raise / to surface / to end / to continue (learning);あげる;上げる;wakuwaku 9
+to point at / to put hand up;あげる;挙げる;wakuwaku 9
+to deep-fry;あげる;揚げる;wakuwaku 9
+desert;さばく;砂漠;wakuwaku 9
+discrimination (against people);さべつ;差別;wakuwaku 9
+way of doing (sth);さほう;作法;wakuwaku 9
+various;さまざま;様々;wakuwaku 9
+furthermore / even more;さらに;;wakuwaku 9
+uproad / noise;さわぎ;騒ぎ;wakuwaku 9
+participation;さんか;参加;wakuwaku 9
+reference;さんこう;参考;wakuwaku 9
+apporval / agreement;さんせい;賛成;wakuwaku 9
+walk / stroll;さんぽ;散歩;wakuwaku 9
+poem / verse of poetry;し;詩;wakuwaku 9
+directly;じかに;直に;wakuwaku 9
+period;じき;時期;wakuwaku 9
+moreover / furthermore;しかも;;wakuwaku 9
+to scold;しかる;叱る;wakuwaku 9
+supply;しきゅう;支給;wakuwaku 9
+constantly;しきりに;;wakuwaku 9
+impuls / stimulus / motivation;しげき;刺激;wakuwaku 9
+resources;しげん;資源;wakuwaku 9
+incident / affair;じけん;事件;wakuwaku 9
+war;せんそう;戦争;wakuwaku 9
+battle / fight;たたかい;戦い;wakuwaku 9
+competition / contest / rivalry;きょうそう;競争;wakuwaku 9
+to score points;てんをとる;点を取る;wakuwaku 9
+(school) subject;かもく;科目;wakuwaku 9
+companion / partner;あいて;相手;wakuwaku 9
+kindergarten;ようちえん;幼稚園;wakuwaku 9
+cram school;じゅく;塾;wakuwaku 9
+success;せいこう;成功;wakuwaku 9
+failure / mistake / blunder;しっぱい;失敗;wakuwaku 9
+common / shared / mutual;きょうつう;共通;wakuwaku 9
+entrance examination;にゅうし;入試;wakuwaku 9
+to study / to learn;がくしゅうする;学習する;wakuwaku 9
+new student / freshman / first-year student;しんにゅうせい;新入生;wakuwaku 9
+transfer student;てんこうせい;転校生;wakuwaku 9
+semester;がっき;学期;wakuwaku 9
+supplementary exam;ついし;追試;wakuwaku 9
+preparation for a lesson;よしゅう;予習;wakuwaku 9
+taking an examination (esp. school and university entrance);じゅけんする;受験する;wakuwaku 9
+test-taker;じゅけんせい;受験生;wakuwaku 9
+second semester;こうき;後期;wakuwaku 9
+first semester;ぜんき;前期;wakuwaku 9
+mock exam / practice exam / practice test;もぎしけん;模擬試験;wakuwaku 9
+graduate;そつぎょうせい;卒業生;wakuwaku 9
+master / expert;たつじん;達人;wakuwaku 9
+ordinary people;ふつうの;普通の;wakuwaku 9
+to change completely facial expression;かおいろがかわる;顔色が変わる;wakuwaku 9
+high score;こうとくてん;高得点;wakuwaku 9
+content analysis;ないよう;内容;wakuwaku 9
+surprisingly;おどろいたことに;驚いたことに;wakuwaku 9
+to be helpful;さんこうになる;参考になる;wakuwaku 9
+effort;どりょく;努力;wakuwaku 9
+motivation / determination;やるきがだす;やる気が出す;wakuwaku 9
+to nod (in agreement);うなずく;;wakuwaku 9
+to escape / to run away;にげる;逃げる;wakuwaku 9
+to regain consciousness / to be conscious;いしきする;意識する;wakuwaku 9
+entering a higher-level school, esp. going on to university;しんがく;進学;wakuwaku 9
+in practice / actually;じっさいに;実際に;wakuwaku 9
+writer / author;ひっしゃ;筆者;wakuwaku 9
+time / (the) hour;じこく;時刻;wakuwaku 9
+suicide;じさつ;自殺;wakuwaku 9
+fact / truth / reality;じじつ;事実;wakuwaku 9
+poet;しじん;詩人;wakuwaku 9
+(one's) self / oneself;じしん;自身;wakuwaku 9
+to sink / to go under / to submerge;しずむ;沈む;wakuwaku 9
+idea / ideology;しそう;思想;wakuwaku 9
+tongue;した;舌;wakuwaku 9
+depending on;しだい;次第;wakuwaku 9
+situation / (present) state of affairs / circumstances;じたい;事態;wakuwaku 9
+to obey (an order / law);したがう;従う;wakuwaku 9
+therefore / consequently;したがって;;wakuwaku 9
+preparation / arrangements;したく;支度;wakuwaku 9
+unemployment;しつぎょう;失業;wakuwaku 9
+realization / implementation / materialization;じつげん;実現;wakuwaku 9
+execution (ex. of a plan);じっこう;実行;wakuwaku 9
+implementation / putting into practice;じっし;実施;wakuwaku 9
+motionlessly (e.g. stand, wait) / (be) still;じっと;;wakuwaku 9
+really / absolutely / truly;じつに;実に;wakuwaku 9
+swimming pool;すいえい;水泳;wakuwaku 10
+(sports) player / athlete / team member;せんしゅ;選手;wakuwaku 10
+one's strong point / one's forte / one's specialty;とくいな;得意な;wakuwaku 10
+by change / perhaps / maybe;もしかしたら;;wakuwaku 10
+hint;ヒント;;wakuwaku 10
+to use all one's strength (ability);ぜんりょく;全力;wakuwaku 10
+with all one's might;いっしょうけんめい;一生懸命;wakuwaku 10
+chance / opportunity;チャンス;;wakuwaku 10
+surroundings;まわり;周り;wakuwaku 10
+joy / pleasure;よろこび;喜び;wakuwaku 10
+(a) step;いっぽ;一歩;wakuwaku 10
+disappointment / despair;しつぼう;失望;wakuwaku 10
+branch store;してん;支店;wakuwaku 10
+instruction / direction;しどう;指導;wakuwaku 10
+automatic;じどう;自動;wakuwaku 10
+domination / rule / control;しはい;支配;wakuwaku 10
+play / drama;しばい;芝居;wakuwaku 10
+frequently / often ;しばしば;;wakuwaku 10
+lawn / grass;しばふ;芝生;wakuwaku 10
+to pay;しはらう;支払う;wakuwaku 10
+death;しぼう;死亡;wakuwaku 10
+funds / capital;しきん;資金;wakuwaku 10
+darn it! / darn! / oops! / oh dear! / oh no!;しまった;;wakuwaku 10
+pride / boast;じまん;自慢;wakuwaku 10
+office work;じむ;事務;wakuwaku 10
+to point out / to demonstrate;しめす;示す;wakuwaku 10
+to account for;しめる;占める;wakuwaku 10
+frost;しも;霜;wakuwaku 10
+debt / loan;しゃっきん;借金;wakuwaku 10
+to talk / to chat / to chatter;しゃべる;;wakuwaku 10
+nuisance / hindrance;じゃま;邪魔;wakuwaku 10
+female elevator operator / female lift attendant;エレベーターガール;;wakuwaku 10
+floor;フロア;;wakuwaku 10
+female diver;あま;海女;wakuwaku 10
+wakame (species of edible brown seaweed, Undaria pinnatifida);わかめ;;wakuwaku 10
+sea urchin;うに;;wakuwaku 10
+shellfish;かい;貝;wakuwaku 10
+Shinto priest;かんぬし;神主;wakuwaku 10
+hakama / man's formal divided skirt;はかま;袴;wakuwaku 10
+shrine maiden;みこ;巫女;wakuwaku 10
+gradually / more and more;だんだん;;wakuwaku 10
+just barely;ぎりぎり;;wakuwaku 10
+leisurely / slowly;だらだら;;wakuwaku 10
+scattered / loose;ばらばら;;wakuwaku 10
+one after he other;どんどん;;wakuwaku 10
+gun / rifle;じゅう;銃;wakuwaku 10
+surroundings;しゅうい;周囲;wakuwaku 10
+harvest / crop / ingathering;しゅうたく;収穫;wakuwaku 10
+regarding as important;じゅうし;重視;wakuwaku 10
+correction;しゅうせい;修正;wakuwaku 10
+traffic jam;じゅうたい;渋滞;wakuwaku 10
+serious / important;じゅうだい;重大;wakuwaku 10
+residential area;じゅうたく;住宅;wakuwaku 10
+group / mass;しゅうだん;集団;wakuwaku 10
+income;しゅうにゅう;収入;wakuwaku 10
+resident / citizen;じゅうみん;住民;wakuwaku 10
+important / essaential / major;じゅうよう;重要;wakuwaku 10
+repair;しゅうり;修理;wakuwaku 10
+definition / principle;しゅぎ;主義;wakuwaku 10
+accommodation / lodging;しゅくはく;宿泊;wakuwaku 10
+surgery / operation / procedure;しゅじゅつ;手術;wakuwaku 10
+means / way / measure;しゅだん;手段;wakuwaku 10
+claim / assertion;しゅちょう;主張;wakuwaku 10
+attendance;しゅっせき;出席;wakuwaku 10
+departure;しゅっぱつ;出発;wakuwaku 10
+tower;とう;塔;wakuwaku 11
+square measure / size (e.g. of land) / area / surface;めんせき;面積;wakuwaku 11
+snow cover / fallen snow;せきせつ;積雪;wakuwaku 11
+record / document;きろく;記録;wakuwaku 11
+independence (e.g. of a nation) / freedom;どくりつ;独立;wakuwaku 11
+economic slump / hard times / depression / recession;ふけいき;不景気;wakuwaku 11
+refugee / displaced person;なんみん;難民;wakuwaku 11
+retirement age;ていねん;定年;wakuwaku 11
+(being in) the red / deficit;あかじ;赤字;wakuwaku 11
+market (financial, stock, domestic, etc.) / marketplace / exchange;しじょう;市場;wakuwaku 11
+(town) market / (street) market / marketplace;いちば;市場;wakuwaku 11
+divorce;りこん;離婚;wakuwaku 11
+war;せんそう;戦争;wakuwaku 11
+election;せんきょ;選挙;wakuwaku 11
+declining birth rates;しょうしか;少子化;wakuwaku 11
+government / administration;せいふ;政府;wakuwaku 11
+tax / duty;ぜいきん;税金;wakuwaku 11
+household / home / family / housekeeping;せたい;世帯;wakuwaku 11
+stock / stock market;かぶ;株;wakuwaku 11
+public opinion;せろん;世論;wakuwaku 11
+old person / elderly;ろうじん;老人;wakuwaku 11
+competition / contest / rivalry / race;きょうそう;競争;wakuwaku 11
+home / family / household;かてい;家庭;wakuwaku 11
+(being in) the black / surplus;くろじ;黒字;wakuwaku 11
+publication;しゅっぱん;出版;wakuwaku 11
+capital city;しゅと;首都;wakuwaku 11
+main / major / principal;しゅよう;主要;wakuwaku 11
+supply and demand;じゅよう;需要;wakuwaku 11
+in order / in turn / one by one;じゅんに;順に;wakuwaku 11
+moment / instant;しゅんかん;瞬間;wakuwaku 11
+in a good condition;じゅんちょう;順調;wakuwaku 11
+turn (in line) / order of things / sequential order;じゅんばん;順番;wakuwaku 11
+preparation / getting ready / setup;じゅんび;準備;wakuwaku 11
+use / utilization;しよう;使用;wakuwaku 11
+prize / award;しょう;賞;wakuwaku 11
+obstacle;しょうがい;障害;wakuwaku 11
+passenger;じょうきゃく;乗客;wakuwaku 11
+situation / state of affairs;じょうきょう;状況;wakuwaku 11
+condition / term / requirement;じょうけん;条件;wakuwaku 11
+noon / midday;しょうご;正午;wakuwaku 11
+common sense;じょうしき;常識;wakuwaku 11
+symptoms / condition (of a patient);しょうじょう;症状;wakuwaku 11
+to cause;しょうじる;生じる;wakuwaku 11
+state / condition of (sth);じょうたい;状態;wakuwaku 11
+invention;はつめい;発明;wakuwaku 11
+as one would expect / just as you'd expect (from) / just like (someone);さすが;;wakuwaku 11
+routine / everyday;にちじょうてきな;日常的な;wakuwaku 11
+detailed / full / accurate;くわしい;詳しい;wakuwaku 11
+by the way;ちなみに;;wakuwaku 11
+reception (e.g. in a hotel) / front desk;フロント;;wakuwaku 11
+mechanical pencil / automatic pencil;シャーペン;;wakuwaku 11
+cutter / cutting tool;カッター;;wakuwaku 11
+part-time (work);パート;;wakuwaku 11
+(young) person subsisting on part-time work;フリーター;;wakuwaku 11
+(general) complaint / objection;クレーム;;wakuwaku 11
+electrical outlet;コンセント;;wakuwaku 11
+made-to-order / custom-made;オーダーメイド;;wakuwaku 11
+keychain / key chain;キーホルダー;;wakuwaku 11
+stapler / paper fastener;ホッチキス;;wakuwaku 11
+cheating (on an exam);カンニング;;wakuwaku 11
+talent / skill;タレント;;wakuwaku 11
+motorcycle;オートバイ;;wakuwaku 11
+buffet;バイキング;;wakuwaku 11
+patrol car;パトカー;;wakuwaku 11
+veteran;ベテラン;;wakuwaku 11
+pushchair (for children);ベビーカー;;wakuwaku 11
+mass communication / mass media;マスコミ;;wakuwaku 11
+man-to-man / one-to-one;マンツーマン;;wakuwaku 11
+(hair) rinse / (hair) conditioner;リンス;;wakuwaku 11
+microwave oven;レンジ;;wakuwaku 11
+shampoo;シャンプー;;wakuwaku 11
+hair dryer / blow dryer;ヘアドライヤー;;wakuwaku 11
+towel;タオル;;wakuwaku 11
+truck / lorry;トラック;;wakuwaku 11
+mansion / apartment;マンション;;wakuwaku 11
+kitchen;キッチン;;wakuwaku 11
+computer / laptop;パソコン;;wakuwaku 11
+improvement (e.g. in skill, ability) / advance / progress;じょうたつ;上達;wakuwaku 11
+awareness / acknowledgment (of an information);しょうち;承知;wakuwaku 11
+first-class / top quality;じょうとう;上等;wakuwaku 11
+collision / crash / running into;しょうとつ;衝突;wakuwaku 11
+approval / agreement;しょうにん;承認;wakuwaku 11
+merchant / trader;しょうにん;商人;wakuwaku 11
+(young) boy;しょうねん;少年;wakuwaku 11
+trade;しょうばい;商売;wakuwaku 11
+consumption;しょうひ;消費;wakuwaku 11
+product / goods / merchandise;しょうひん;商品;wakuwaku 11
+fire fighters;しょうぼう;消防;wakuwaku 11
+proof / verification / certification;しょうめい;証明;wakuwaku 11
+occupation / profession / job;しょくぎょう;職業;wakuwaku 11
+dining table;しょくたく;食卓;wakuwaku 11
+food products / food;しょくひん;食品;wakuwaku 11
+appetite (for food);しょくやく;食欲;wakuwaku 11
+food;しょくりょう;食料;wakuwaku 11
+library / home office;しょさい;書斎;wakuwaku 11
+assistant / helper;じょしゅ;助手;wakuwaku 11
+gradually / little by little / step by step;じょじょに;徐々に;wakuwaku 11
+subject;しゅご;主語;wakuwaku 12
+predicate;じゅつご;述語;wakuwaku 12
+expression / presentation;ひょうげん;表現;wakuwaku 12
+pronunciation;はつおん;発音;wakuwaku 12
+shiritori;しりとり;;wakuwaku 12
+dad joke;おやじぎゃぐ;;wakuwaku 12
+comic story / traditional Japanese comic storytelling;らくご;落語;wakuwaku 12
+various;さまざま;;wakuwaku 12
+numeral;すうじ;数字;wakuwaku 12
+to apologize / to apologise;あやまる;謝る;wakuwaku 12
+understanding / comprehension of (sth);りかい;理解;wakuwaku 12
+(hold on sth) tightly / firmly;しっかり;;wakuwaku 12
+escalation;エスカレート;;wakuwaku 12
+signature;しょめい;署名;wakuwaku 12
+processing (of information) / dealing with / treatment;しょり;処理;wakuwaku 12
+ass / arse / buttocks;しり;尻;wakuwaku 12
+mark / sign;しるし;印;wakuwaku 12
+castle;しろ;城;wakuwaku 12
+entering a higher-level school, esp. going on to university;しんがく;進学;wakuwaku 12
+nerve;しんけい;神経;wakuwaku 12
+serious / earnest;しんけん;真剣;wakuwaku 12
+(religious) faith / belief / creed;しんこう;信仰;wakuwaku 12
+traffic light / traffic signal;しんごう;信号;wakuwaku 12
+population;じんこう;人口;wakuwaku 12
+serious / severe (damage);しんこく;深刻;wakuwaku 12
+medical examination;しんさつ;診察;wakuwaku 12
+race (of people);じんしゅ;人種;wakuwaku 12
+heart;しんぞう;心臓;wakuwaku 12
+body;しんたい;身体;wakuwaku 12
+height (of body) / stature;しんちょう;身長;wakuwaku 12
+careful / cautious;しんちょう;慎重;wakuwaku 12
+referee / umpire;しんぱん;審判;wakuwaku 12
+progress / advance / improvement / development;しんぽ;進歩;wakuwaku 12
+to be nervous;どきどきする;;wakuwaku 12
+to visit / to call on / to pay a visit to;たずねる;訪ねる;wakuwaku 12
+by no means / certainly (not);まさか;;wakuwaku 12
+taking the trouble (to do sth);わざわざ;;wakuwaku 12
+thanks to your assistance;おかげさまで;;wakuwaku 12
+to prepare;よういする;用意する;wakuwaku 12
+don't bother;おかまいなく;;wakuwaku 12
+nostalgic;なつかしい;;wakuwaku 12
+come to think of it / now that you mention it;そういえば;;wakuwaku 12
+at leisure / in a carefree manner;のんびりする;;wakuwaku 12
+to fit ideally / precisely;ぴったり合う;;wakuwaku 12
+to eat plenty;たっぷり食べる;;wakuwaku 12
+soundly (sleeping) / fast (asleep);ぐっすりねる;;wakuwaku 12
+neat / tidy / clean;さっぱりする;;wakuwaku 12
+tightly (holding on) / firmly / securely;しっかりする;;wakuwaku 12
+confidence / trust / faith / reputation;しんよう;信用;wakuwaku 12
+psychology;しんり;心理;wakuwaku 12
+nest;す;巣;wakuwaku 12
+level / standard;すいじゅん;水準;wakuwaku 12
+reliance / trust / faith / confidence;しんらい;信頼;wakuwaku 12
+recommendation;すいせん;推薦;wakuwaku 12
+very / extremely;ずいぶん;随分;wakuwaku 12
+sleep;すいみん;睡眠;wakuwaku 12
+figure / form / shape;すがた;姿;wakuwaku 12
+headache;ずつう;頭痛;wakuwaku 12
+already / too late;すでに;既に;wakuwaku 12
+that is / namely / i.e.;すなわち;;wakuwaku 12
+to finish;すませる;済ませる;wakuwaku 12
+thereupon / hereupon;すると;;wakuwaku 12
+sharp (blade) / pointed;するどい;鋭い;wakuwaku 12
+accuracy;せいかく;正確;wakuwaku 12
+century;せいき;世紀;wakuwaku 12
+billing / charge / demand / job invoice;せいきゅう;請求;wakuwaku 12
+clean / hygienic / sanitary;せいけつ;清潔;wakuwaku 12
+scholarship / knowledge;がくりょく;学力;wakuwaku 13
+school;こう;校;wakuwaku 13
+reading comprehension;どっかい;読解;wakuwaku 13
+place (ex. 1st place);い;位;wakuwaku 13
+mathematics;すうがく;数学;wakuwaku 13
+science;かがく;科学;wakuwaku 13
+to require;もとめる;求める;wakuwaku 13
+humanities;ぶんけい;文系;wakuwaku 13
+science (opposing to humanities);りけい;理系;wakuwaku 13
+characteristic;とくちょう;特徴;wakuwaku 13
+science (inc. mathematics, medicine, etc.) / natural science;りか;理科;wakuwaku 13
+physical education / PE / gym (class);たいいく;体育;wakuwaku 13
+home economics;かていか;家庭科;wakuwaku 13
+technique / skill;ぎじゅつ;技術;wakuwaku 13
+to be helpful / to be useful;やくにたつ;役に立つ;wakuwaku 13
+competition;しゅもく;種目;wakuwaku 13
+assistance / aid / help;おうえん;応援;wakuwaku 13
+chorus;がっしょう;合唱;wakuwaku 13
+drama / play;げき;劇;wakuwaku 13
+haunted mansion / haunted house;ばけやしき;化け屋敷;wakuwaku 13
+gathering ideas;アイディアを出し合う;;wakuwaku 13
+music club;けいおんぶ;軽音部;wakuwaku 13
+break (school);きゅうか;休暇;wakuwaku 13
+school trip / training camp;がっしゅく;合宿;wakuwaku 13
+youth / springtime of life / adolescent;せいしゅん;青春;wakuwaku 13
+important / essential;じゅうよう;重要;wakuwaku 13
+uniform;せいふく;制服;wakuwaku 13
+providing a meal (in school / work);きゅうしょく;給食;wakuwaku 13
+independence;じしゅせい;自主性;wakuwaku 13
+cooperativeness;きょうちょうせい;協調性;wakuwaku 13
+sense of responsibility;せきにんかん;責任感;wakuwaku 13
+feeling of solidarity;れんたいかん;連帯感;wakuwaku 13
+to be raised (e.g. child) / to be brought up / to grow (up);そだつ;育つ;wakuwaku 13
+cooperation / collaboration;きょうりょく;協力;wakuwaku 13
+whole / entirety;ぜんたい;全体;wakuwaku 13
+average mark / mean point;へいきんてん;平均点;wakuwaku 13
+restriction;せいげん;制限;wakuwaku 13
+production / manufacture;せいさん;生産;wakuwaku 13
+due form / official / formality;せいしき;正式;wakuwaku 13
+soul / spirit / emotions;せいしん;精神;wakuwaku 13
+adult / coming of age;せいじん;成人;wakuwaku 13
+at most / at best;せいぜい;;wakuwaku 13
+manufacture / production;せいぞう;製造;wakuwaku 13
+luxury;ぜいたく;贅沢;wakuwaku 13
+growth / development;せいちょう;成長;wakuwaku 13
+system / institution / organization / organisation;せいど;制度;wakuwaku 13
+youth / young man;せいねん;青年;wakuwaku 13
+manufactured goods / finished goods / product;せいひん;製品;wakuwaku 13
+government;せいふ;政府;wakuwaku 13
+biology;せいぶつ;生物;wakuwaku 13
+life / existence;せいめい;生命;wakuwaku 13
+arrangement / organization ;せいり;整理;wakuwaku 13
+cough;せき;咳;wakuwaku 13
+coal;せきたん;石炭;wakuwaku 13
+duty / responsibility (incl. supervision of staff);せきにん;責任;wakuwaku 13
+oil / petroleum;せきゆ;石油;wakuwaku 13
+memories / recollections;おもいで;思い出;wakuwaku 13
+badminton;バドミントン;;wakuwaku 13
+athletics;りくじょう;陸上;wakuwaku 13
+wind instruments;すいそうがく;吹奏楽;wakuwaku 13
+national convention / national competition / national athletic meet;ぜんこくたいかい;全国大会;wakuwaku 13
+to aim at;めざす;目指す;wakuwaku 13
+doing well in both school and sports;ぶんぶりょうどう;文武両道;wakuwaku 13
+rather / better / instead;むしろ;;wakuwaku 13
+on the contrary;ぎゃくに;逆に;wakuwaku 13
+to overlook;おおめにみる;大目に見る;wakuwaku 13
+to be pretentious / to put on airs / to show off;みえをはる;見栄を張る;wakuwaku 13
+to butter up / to try to get on the good side of;ごまをする;;wakuwaku 13
+to be stubborn;いじをはる;意地を張る;wakuwaku 13
+to loaf;あぶらをうる;油を売る;wakuwaku 13
+to play the hypocrite;ねこをかぶる;;wakuwaku 13
+to forgive and forget;みずにながす;水に流す;wakuwaku 13
+round trip (airplane) ticket;おうふくこうくうけん;往復航空券;wakuwaku 13
+arrangement / preparations;てはい;手配;wakuwaku 13
+privilege;とくてん;特典;wakuwaku 13
+paying one's own expenses;じこふたん;自己負担;wakuwaku 13
+organier;しゅさい;主催;wakuwaku 13
+public's opinion;せけん;世間;wakuwaku 13
+theory;せつ;説;wakuwaku 13
+plan / blueprint;せっけい;設計;wakuwaku 13
+equipment;せつび;設備;wakuwaku 13
+extinction / extermination;ぜつめつ;絶滅;wakuwaku 13
+economising / saving;せつやく;節約;wakuwaku 13
+to criticize;せめる;責める;wakuwaku 13
+good / goodness / right / virtue;ぜん;善;wakuwaku 13
+the other day / a few days ago;せんじつ;先日;wakuwaku 13
+the former;ぜんしゃ;前者;wakuwaku 13
+player (sports) / athlete / team member;せんしゅ;選手;wakuwaku 13
+whole (body) / full-length (e.g. portrait);ぜんしん;全身;wakuwaku 13
+selection / choice / option;せんたく;選択;wakuwaku 13
+elephant (Elephantidae spp.);ぞう;象;wakuwaku 13
+figure / statue;ぞう;像;wakuwaku 13
+noise;そうおん;騒音;wakuwaku 13
+operation / management / handling;そうさ;操作;wakuwaku 13
+imagination / guess;そうぞう;想像;wakuwaku 13
+succession / inheritance;そうぞく;相続;wakuwaku 13
+equipment / device;そうち;装置;wakuwaku 13
+appropriate / suitable;そうとう;相当;wakuwaku 13
+misunderstanding;かんちがい;勘違い;wakuwaku 14
+to convey;つたえる;伝える;wakuwaku 14
+all / every;あらゆる;;wakuwaku 14
+expression;ひょうげん;表現する;wakuwaku 14
+I see / that's right / indeed;なるほど;;wakuwaku 14
+cultural exchange;こうりゅう;交流;wakuwaku 14
+ethnic group;みんぞく;民族;wakuwaku 14
+to be mixed together;まざりあう;混ざり合う;wakuwaku 14
+to form;けいせいする;形成する;wakuwaku 14
+telepathy / communicating without speaking;いしんでんしん;以心伝心;wakuwaku 14
+each other / one another;おたがい;お互い;wakuwaku 14
+tradition;でんとう;伝統;wakuwaku 14
+area / region;ちいき;地域;wakuwaku 14
+clearly / plainly / distinctly;はっきり;;wakuwaku 14
+state of affairs;じじょう;事情;wakuwaku 14
+velocity;そくど;速度;wakuwaku 14
+bottom / sole;そこ;底;wakuwaku 14
+organization;そしき;組織;wakuwaku 14
+exactly like;そっくり;;wakuwaku 14
+softly / gently;そっと;;wakuwaku 14
+sleeve;そで;袖;wakuwaku 14
+to be equiped with / to prepare for;そなえる;備える;wakuwaku 14
+sooner or later;そのうち;;wakuwaku 14
+without change / as is;そのまま;;wakuwaku 14
+side / close / beside;そば;側;wakuwaku 14
+to waste;そまつにする;粗末にする;wakuwaku 14
+each / respectively;それぞれ;;wakuwaku 14
+but (still) / and yet;それでも;;wakuwaku 14
+or / or else;それとも;;wakuwaku 14
+loss;そん;損;wakuwaku 14
+damage / injury / loss;そんがい;損害;wakuwaku 14
+respect;そんけい;尊敬;wakuwaku 14
+existence;そんざい;存在;wakuwaku 14
+village mayor;そんちょう;村長;wakuwaku 14
+opposite of;たい;対;wakuwaku 14
+to be fired;くびになる;首になる;wakuwaku 14
+to calm down;おちつく;落ち着く;wakuwaku 14
+darn it!;しまった;;wakuwaku 14
+Japanese-style;わ;和;wakuwaku 14
+soul / spirit / emotions;せいしん;精神;wakuwaku 14
+to injure;きずつける;傷つける;wakuwaku 14
+to be embarrassed;はじをかかせる;恥をかかせる;wakuwaku 14
+proposal;はつげんする;発言する;wakuwaku 14
+direct;ちょくせつ;直接;wakuwaku 14
+to feel disappointed;がっかりする;;wakuwaku 14
+shape / form / figure;すがた;姿;wakuwaku 14
+group;しゅうだん;集団;wakuwaku 14
+tendency;けいこう;傾向;wakuwaku 14
+body temperature;たいおん;体温;wakuwaku 14
+tournament / competition;たいかい;大会;wakuwaku 14
+waiting for an opportunity / on standby;たいき;待機;wakuwaku 14
+cost / charge / payment / bill / fee / price;だいきん;代金;wakuwaku 14
+boredom;たいくつ;退屈;wakuwaku 14
+stay;たいざい;滞在;wakuwaku 14
+ambassador;たいし;大使;wakuwaku 14
+trivial / not amounting to much;たいしたことない;大したことない;wakuwaku 14
+targetted at / object of;たいしょう;対象;wakuwaku 14
+minister (of government);だいじん;大臣;wakuwaku 14
+to constrast with / to compare with;たいする;対する;wakuwaku 14
+facing / competition;たいせん;対戦;wakuwaku 14
+mostly / generally;たいてい;大抵;wakuwaku 14
+attitude / manner / behaviour;たいど;態度;wakuwaku 14
+president (of a nation);だいとうりょう;大統領;wakuwaku 14
+majority / mostly;たいはん;大半;wakuwaku 14
+representative;だいひょう;代表;wakuwaku 14
+difficult / hard;たいへん;大変;wakuwaku 14
+arrest;たいほ;逮捕;wakuwaku 14
+holiday / day off;きゅうじつ;休日;wakuwaku 15
+weekday / ordinary days (i.e. non-holiday);へいじつ;平日;wakuwaku 15
+official stance;たてまえ;建て前;wakuwaku 15
+real intention / real motive;ほんね;本音;wakuwaku 15
+everyday life / daily life;にちじょうせいかつ;日常生活;wakuwaku 15
+Job hunting;しゅうしょくかつどう;就職活動;wakuwaku 15
+the exact opposite;まぎゃくのいみ;真逆の意味;wakuwaku 15
+correct;せいかい;正解;wakuwaku 15
+somehow / how / in what way / why / what kind of;どういうこと;;wakuwaku 15
+doing things at one's own pace (e.g. slower than others);マイペース;;wakuwaku 15
+egoistic / selfish / self-willed;ががつよい;我が強い;wakuwaku 15
+just in case;いちおう;一応;wakuwaku 15
+to chug down;ガンガン飲む;;wakuwaku 15
+annual income;ねんしゅう;年収;wakuwaku 15
+successful career;しゅっせする;出世する;wakuwaku 15
+to fuss over / to be particular about;こだわる;;wakuwaku 15
+original / individual / unique;こせいてきな;個性的な;wakuwaku 15
+sincere / honest / faithful;せいじつな;誠実な;wakuwaku 15
+serious / earnest;しんけんな;真剣な;wakuwaku 15
+calmness / coolness;れいせいな;冷静な;wakuwaku 15
+polite;れいぎただしい;礼儀正しい;wakuwaku 15
+egoistic / self-centered / selfish;じこちゅうしんてきな;自己中心的な;wakuwaku 15
+sun;たいよう;太陽;wakuwaku 15
+flat / plain;たいら;平ら;wakuwaku 15
+substitute / representative;だいり;代理;wakuwaku 15
+continent;たいりく;大陸;wakuwaku 15
+to knock down / to bring down;たおす;倒す;wakuwaku 15
+but /however / (and) yet / nevertheless / still / for all that;だが;;wakuwaku 15
+each other;たがい;互い;wakuwaku 15
+treasure;たから;宝;wakuwaku 15
+to ascertain / to check / to make sure;たしかめる;確かめる;wakuwaku 15
+more of less;たしょう;多少;wakuwaku 15
+to play drums;たたく;叩く;wakuwaku 15
+immediately;ただちに;直ちに;wakuwaku 15
+to stand up / to get up;たちあがる;立ち上がる;wakuwaku 15
+position / situation;たちば;立場;wakuwaku 15
+to reach;たっする;達する;wakuwaku 15
+after all / because;だって;;wakuwaku 15
+full / in plenty / ample;たっぷり;;wakuwaku 15
+the vertical / height;たて;縦;wakuwaku 15
+valley;たに;谷;wakuwaku 15
+another person / outsider / strange;たにん;他人;wakuwaku 15
+hierarchical relationship;じょうげかんけい;上下関係;wakuwaku 15
+manners / etiquette;マナー;;wakuwaku 15
+to celebrate;いわい;祝い;wakuwaku 15
+seat of honour;かみざ;上座;wakuwaku 15
+lower seat;しもざ;下座;wakuwaku 15
+passenger seat / assistant driver's seat;じょしゅせき;助手席;wakuwaku 15
+longed-for / anxiously awaited;まちどおしい;待ち遠しい;wakuwaku 15
+medical treatment;ちりょう;治療;wakuwaku 15
+preference / priority;ゆうせんする;優先する;wakuwaku 15
+seed (of a plant);たね;種;wakuwaku 15
+bundle of flowers;たば;束;wakuwaku 15
+often;たびたび;;wakuwaku 15
+ball;たま;玉;wakuwaku 15
+unexpectedly / accidentally / by chance;たまたま;;wakuwaku 15
+to be silent / to say nothing;だまる;黙る;wakuwaku 15
+no good / useless;だめ;駄目;wakuwaku 15
+trial / test;ためし;試し;wakuwaku 15
+reliance / dependence;たよりがある;頼りがある;wakuwaku 15
+to request / to beg / to ask;たのむ;頼む;wakuwaku 15
+grade / rank / level;だん;段;wakuwaku 15
+unit of sth;たんい;単位;wakuwaku 15
+simple / plain / uncomplicated / straightforward;たんじゅん;単純;wakuwaku 15
+organization / group;だんたい;団体;wakuwaku 15
+person in charge;たんとう;担当;wakuwaku 15
+mere / simple;たんなる;単なる;wakuwaku 15
+(social) position /status;ちい;地位;wakuwaku 15
+area /region;ちいき;地域;wakuwaku 15
+wisdom / intelligence;ちえ;知恵;wakuwaku 15
+traditional japanese art.;でんとうげいのう;伝統芸能;wakuwaku 16
+punchline;おち;落ち;wakuwaku 16
+dialogue / conversation;たいわ;対話;wakuwaku 16
+folding fan;せんす;扇子;wakuwaku 16
+hand towel;てむぐい;手ぬぐい ;wakuwaku 16
+(stage) properties;こどうぐ;小道具;wakuwaku 16
+making sounds (animal);なく;ねずみが鳴く;wakuwaku 16
+good fortune;ふく;福;wakuwaku 16
+hope;きぼう;希望;wakuwaku 16
+point of view;めせん;目線;wakuwaku 16
+to face at (something);にむかう;に向かう;wakuwaku 16
+to catch / to arrest;つかまえる;捕まえる;wakuwaku 16
+seiza / traditional japanese sitting on feet flat on the floor;せいざ;正座;wakuwaku 16
+to adjust;くふうする;工夫する;wakuwaku 16
+front;しょうめん;正面;wakuwaku 16
+dramatist;げきさっか;劇作家;wakuwaku 16
+to be active;かつようする;活躍する;wakuwaku 16
+completely;すっかり;;wakuwaku 16
+to be completely fascinated by / to steal heart;こころをうばう;心を奪う;wakuwaku 16
+to bow;あたまをさげる;頭を下げる;wakuwaku 16
+modest;こしがひくい;腰が低い;wakuwaku 16
+thanks for coming;おこしいただき、ありがとうございました;;wakuwaku 16
+apprenticeship;でしいり;弟子入り;wakuwaku 16
+to get a name;なまえをつける;名前をつける;wakuwaku 16
+sun rising;たいようがのぼる;太陽が昇る;wakuwaku 16
+to light up;あかりをともす;明かりをともす;wakuwaku 16
+challenge;ちょうせん;挑戦;wakuwaku 16
+to abandon;なげうつ;;wakuwaku 16
+master / teacher;ししょう;師匠;wakuwaku 16
+to admire greatly;あたまがさがる;頭が下がる;wakuwaku 16
+sixth generation;ろくだい;六代;wakuwaku 16
+without a doubt;ちがいない;違いない;wakuwaku 16
+recently;ちかごろ;近頃;wakuwaku 16
+the earth;ちきゅう;地球;wakuwaku 16
+district;ちく;地区;wakuwaku 16
+being late;ちこく;遅刻;wakuwaku 16
+prefectural governor;ちじ;知事;wakuwaku 16
+knowledge;ちしき;知識;wakuwaku 16
+intelligence;ちのう;知能;wakuwaku 16
+horizon;ちへいせん;地平線;wakuwaku 16
+region;ちほう;地方;wakuwaku 16
+properly;ちゃんと;;wakuwaku 16
+central;ちゅうおう;中央;wakuwaku 16
+second-hand;ちゅうこ;中古;wakuwaku 16
+suspension;ちゅうし;中止;wakuwaku 16
+parking;ちゅうしゃ;駐車;wakuwaku 16
+center;ちゅうしん;中心;wakuwaku 16
+attention / observation;ちゅうもく;注目;wakuwaku 16
+order;ちゅうもん;注文;wakuwaku 16
+long-term;ちょうき;長期;wakuwaku 16
+length;ながさ;長さ;wakuwaku 16
+at the end;まつ;~末;wakuwaku 16
+to complete;かんせいする;完成する;wakuwaku 16
+seasonal word;きご;季語;wakuwaku 16
+to float;うかぶ;浮かぶ;wakuwaku 16
+rice plant;いね;稲;wakuwaku 16
+leaves;はっぱ;葉っぱ;wakuwaku 16
+punctuation words in haiku;きれじ;切れ字;wakuwaku 16
+detailed;こまかい;細かい;wakuwaku 16
+familiar;みぢかな;身近な;wakuwaku 16
+slogan;キャッチコピー;;wakuwaku 16
+comic haiku;せんりゅう;川柳;wakuwaku 16
+wellbeing;ちょうし;調子;wakuwaku 16
+summit;ちょうじょう;頂上;wakuwaku 16
+to receive;ちょうだい;;wakuwaku 16
+savings;ちょきん;貯金;wakuwaku 16
+direct;ちょくせつ;直接;wakuwaku 16
+author;ちょしゃ;著者;wakuwaku 16
+finally;ついに;;wakuwaku 16
+passage through;つうか;通過;wakuwaku 16
+commuting to school;つうがく;通学;wakuwaku 16
+passage;つうこう;通行;wakuwaku 16
+to be understood;つうじる;通じる;wakuwaku 16
+correspondence / communication;つうしん;通信;wakuwaku 16
+to be caught;つかまる;捕まる;wakuwaku 16
+to catch / to grab;つかむ;掴む;wakuwaku 16
+fatigue / tiredness;つかれ;疲れ;wakuwaku 16
+socializing;つきあい;付き合い;wakuwaku 16
+one by one;つぎつぎ;次々;wakuwaku 16
+to get work;しごとにつく;仕事に就く;wakuwaku 16
+package;つつみ;包み;wakuwaku 16
+duty;つとめ;務め;wakuwaku 16
+dialect;ほうげん;方言;wakuwaku 17
+difference;さ;差;wakuwaku 17
+to observe;かんさつする;観察する;wakuwaku 17
+oneself / myself;じぶんじしん;自分自身;wakuwaku 17
+Well;さて;;wakuwaku 17
+to grow hair;けがのびる;毛が伸びる ;wakuwaku 17
+hair falling out;けがぬける;毛が抜ける ;wakuwaku 17
+to add;たす;足す ;wakuwaku 17
+to compare;ひかくする;比較する;wakuwaku 17
+killing time / waste of time;はまつぶし;暇つぶし ;wakuwaku 17
+to connect;つなぐ;繋ぐ ;wakuwaku 17
+always;つねに;常に ;wakuwaku 17
+wings;つばさ;翼;wakuwaku 17
+in other words;つまり;;wakuwaku 17
+crime;つみ;罪;wakuwaku 17
+to stuff into / to fill;つめる;詰める ;wakuwaku 17
+to accumulate;つもる;積もる;wakuwaku 17
+tough / difficult;つらい;辛い;wakuwaku 17
+fishing;つり;釣り ;wakuwaku 17
+companion;つれ;連れ;wakuwaku 17
+proposition / suggestion;ていあん;提案 ;wakuwaku 17
+regular;ていきてきな;定期的な;wakuwaku 17
+resistance;ていこう;抵抗;wakuwaku 17
+to hand in / to submit;ていしゅつする;提出する;wakuwaku 17
+around one hour;いちじかんていど;1時間程度;wakuwaku 17
+bus stop;ていりゅうじょ;停留所;wakuwaku 17
+opponent / rival;てき;敵;wakuwaku 17
+incident / affair;できごと;出来事;wakuwaku 17
+to fit / to suit;てきする;適する;wakuwaku 17
+appropriate;てきせつな;適切な;wakuwaku 17
+typical;てんけいてきな;典型的な;wakuwaku 17
+bowl;おじぎ;お辞儀;wakuwaku 17
+extremely;もっとも;最も;wakuwaku 17
+to welcome (someone);むかえる;迎える;wakuwaku 17
+to escort (someone);みおくる;見送る;wakuwaku 17
+to thank;かんしゃする;感謝する;wakuwaku 17
+polity;ていねいな;丁寧な ;wakuwaku 17
+to lead to;おこす;起こす;wakuwaku 17
+to support;ささえる;支える ;wakuwaku 17
+identity;アイデンティティ;;wakuwaku 17
+to commit a crime;つみをおかす;罪を犯す;wakuwaku 17
+to cool down;さめる;冷める;wakuwaku 17
+to criticise;ひはんする;批判する;wakuwaku 17
+shame;はじ;恥;wakuwaku 17
+to permit;ゆるす;許す;wakuwaku 17
+judgement;さいばん;裁判 ;wakuwaku 17
+to develop;はってんする;発展する;wakuwaku 17
+to settle on sth ;かいけつ;解決する;wakuwaku 17
+formally;せいしきに;正式に;wakuwaku 17
+to wash out;すすぐ;;wakuwaku 17
+physical;ぶつりてきな;物理的な;wakuwaku 17
+to clean off dirt;よごれをおとす;;wakuwaku 17
+to gather water;みずをすくう;水をすくう;wakuwaku 17
+to sprinkle water on (sth);みずをかける;水をかける;wakuwaku 17
+to transfer something from one hand to the other;もちかえす;持ち替える;wakuwaku 17
+bowl;おわん;おわん;wakuwaku 17
+pattern;え;柄;wakuwaku 17
+original position;もとのいち;元の位置;wakuwaku 17
+to return;もどす;戻す;wakuwaku 17
+to shake the bell;すずをふる;鈴を振る;wakuwaku 17
+to clap;はくしゅする;拍手する;wakuwaku 17
+to match hands;てをあわせる;手を合わせる;wakuwaku 17
+apology;しゃざい;謝罪 ;wakuwaku 17
+request;いらい;依頼;wakuwaku 17
+to call out to ;よびかけ;呼びかけ;wakuwaku 17
+regrettable;いかん;遺憾;wakuwaku 17
+pity;あわれみ;憐み;wakuwaku 17
+to listen again;ききかえし;聞き返し;wakuwaku 17
+moderate;てきどな;適度な;wakuwaku 17
+being applied;てきようされる;適用される;wakuwaku 17
+magic trick;てじな;手品;wakuwaku 17
+therefore;ですから;;wakuwaku 17
+iron;てつ;鉄;wakuwaku 17
+philosophy;てつがく;哲学;wakuwaku 17
+thoroughness;てってい;徹底;wakuwaku 17
+railway;てつだう;鉄道;wakuwaku 17
+sleepless night;てつやする;徹夜する;wakuwaku 17
+Well then ;では;;wakuwaku 17
+time of work;てま;手間;wakuwaku 17
+weather;てんこう;天候;wakuwaku 17
+electronic;でんし;電子;wakuwaku 17
+tradition;でんとう;伝統;wakuwaku 17
+natural;てんねん;天然 ;wakuwaku 17
+question;とい;問い;wakuwaku 17
+(political) party;とう;党;wakuwaku 17
+tower;とう;塔;wakuwaku 17
+examination paper;とうあん;答案 ;wakuwaku 17

@@ -1,0 +1,104 @@
+guitar;ギター;;dokidoki 7
+piano;ピアノ;;dokidoki 7
+medicine;くすり;;dokidoki 7
+rubbish / trash;ごみ;;dokidoki 7
+garbage can;ごみばこ;;dokidoki 7
+bento / Japanese box lunch;おべんとう;;dokidoki 7
+meeting / conference;かいぎ;;dokidoki 7
+cake;ケーキ;;dokidoki 7
+this morning;けさ;;dokidoki 7
+camp;キャンプ;;dokidoki 7
+television / TV;テレビニュース;;dokidoki 7
+tax / duty;ぜいきん;;dokidoki 7
+normal / ordinary;ふつう;;dokidoki 7
+late at night / at a late hour;よるおそく;;dokidoki 7
+early in the morning;あさはやく;;dokidoki 7
+no;ううん;;dokidoki 7
+yes / yeah / uh huh;うん;;dokidoki 7
+concerning / regarding;について;;dokidoki 7
+by the way / incidentally;ところで;;dokidoki 7
+all together / everyone;みんなで;;dokidoki 7
+slowly / leisurely;ゆっくり;;dokidoki 7
+early / soon;はやく;;dokidoki 7
+if you like;よかったら;;dokidoki 7
+excuse me / pardon me / I beg your pardon;しつれいします;;dokidoki 7
+thanks / gratitude;おれい;;dokidoki 7
+soon / slowly;そろそろ;;dokidoki 7
+place / location;ばしょ;;dokidoki 7
+convenience store;コンビニ;;dokidoki 7
+dining room;しょくどう;;dokidoki 7
+zoo / zoological gardens;どうぶつえん;;dokidoki 7
+company / corporation;かいしゃ;;dokidoki 7
+museum;はくぶつかん;;dokidoki 7
+hot spring;おんせん;;dokidoki 7
+beauty salon;びよういん;;dokidoki 7
+police box;こうばん;;dokidoki 7
+to say / to declare;いう;;dokidoki 7
+to think / to consider;おもう;;dokidoki 7
+to cut;きる;;dokidoki 7
+to make / to produce / to build;つくる;;dokidoki 7
+to take something with me;もっていく;;dokidoki 7
+to apologise;あやまる;;dokidoki 7
+to start / to begin;はじめる;;dokidoki 7
+to dance;おどる;;dokidoki 7
+to play (a stringed or keyboard instrument);ひく;;dokidoki 7
+to stop (moving);とまる;;dokidoki 7
+to become hungry;おなかがすく;;dokidoki 7
+to be thirsty;のどがかわく;;dokidoki 7
+to put / to place;おく;;dokidoki 7
+to do / to perform;やる;;dokidoki 7
+to be late / to be delayed;おくれる;;dokidoki 7
+getting in touch / contacting;れんらくする;;dokidoki 7
+washing / laundry;せんたくする;;dokidoki 7
+exercise / physical training;うんどうする;;dokidoki 7
+walk / stroll;さんぽする;;dokidoki 7
+to practice;れんしゅうする;;dokidoki 7
+reservation / booking / appointment;よやくする;;dokidoki 7
+shabby / cheap / skimpy;けち;;dokidoki 7
+convenient / handy / useful;べんり;;dokidoki 7
+inconvenience;ふべん;;dokidoki 7
+idiot / moron / fool;ばか;;dokidoki 7
+easy / simple / relief / comfort / without trouble;らく;;dokidoki 7
+mean / cruel / ill-tempered;いじわる;;dokidoki 7
+illness;びょうき;;dokidoki 7
+young / youthful;わかい;;dokidoki 7
+lonely / lonesome;さびしい;;dokidoki 7
+famous;ゆうめい;;dokidoki 7
+enjoyment / pleasure;たのしみ;;dokidoki 7
+paper / god;かみ;;dokidoki 7
+scissors;はさみ;;dokidoki 7
+file;ファイル;;dokidoki 7
+calendar;カレンダー;;dokidoki 7
+paste / glue;のり;;dokidoki 7
+notebook / memo pad / (pocket) diary;てちょう;;dokidoki 7
+tape;テープ;;dokidoki 7
+pencil case;ふでばこ;;dokidoki 7
+envelope;ふうとう;;dokidoki 7
+eraser;けしゴム;;dokidoki 7
+tablet / pill;タブレット;;dokidoki 7
+laptop;ノートパソコン;;dokidoki 7
+microwave oven;でんしレンジ;;dokidoki 7
+mobile telephone;けいたいでんわ;;dokidoki 7
+air conditioner;エアコン;;dokidoki 7
+refrigerator;れいぞうこ;;dokidoki 7
+washing machine (laundry);せんたくき;;dokidoki 7
+vacuum cleaner;そうじき;;dokidoki 7
+battery charger;じゅうでんき;;dokidoki 7
+drawing paper;がようし;;dokidoki 7
+crayon;クレヨン;;dokidoki 7
+cutter / cutting tool;カッター;;dokidoki 7
+mechanical pencil / automatic pencil;シャーペン;;dokidoki 7
+meaning / significance;いみ;;dokidoki 7
+colored pencil / coloured pencil;いろえんぴつ;;dokidoki 7
+pencil sharpener;えんぴつけずり;;dokidoki 7
+stapler / paper fastener;ホチキス;;dokidoki 7
+pencil lead;しん;;dokidoki 7
+marker;マーカー;;dokidoki 7
+(measuring) ruler;じょうぎ;;dokidoki 7
+(portable) electronic dictionary / pocket electronic dictionary / PED;でんしじしょ;;dokidoki 7
+how / in what way / by what means;どうして;;dokidoki 7
+hiking;ハイキング;;dokidoki 7
+fishing / angling;つり;;dokidoki 7
+culture;ぶんか;;dokidoki 7
+barber shop;とこや;;dokidoki 7
+old (person) / aged;としとった;;dokidoki 7

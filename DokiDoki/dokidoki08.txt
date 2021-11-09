@@ -1,0 +1,87 @@
+nature;しぜん;;dokidoki 8
+examination / exam / test;しけん;;dokidoki 8
+battery / cell;でんち;;dokidoki 8
+results / grade;せいせき;;dokidoki 8
+seat / cough / position;せき;;dokidoki 8
+lake;みずうみ;;dokidoki 8
+celebrity / famous person / public figure / big name;ゆうめいじん;;dokidoki 8
+dream;ゆめ;;dokidoki 8
+rich person;おかねもち;;dokidoki 8
+poor person / poor;びんぼう;;dokidoki 8
+living / life;せいかつ;;dokidoki 8
+school term / semester;がっき;;dokidoki 8
+heat;ねつ;;dokidoki 8
+concert;コンサート;;dokidoki 8
+apartment;アパート;;dokidoki 8
+group with a common interest (e.g. students) / club (e.g. company sports club) / circle;サークル;;dokidoki 8
+shower;シャワー;;dokidoki 8
+barbecue / BBQ;バーベキュー;;dokidoki 8
+homestay;ホームステイ;;dokidoki 8
+thank you (for your hard work) / good work;おつかれさま;;dokidoki 8
+as expected;やっぱり;;dokidoki 8
+after ;あと;;dokidoki 8
+cheers / bottoms-up;かんぱい;;dokidoki 8
+regrettable;ざんねん;;dokidoki 8
+in addition / besides;ほかに;;dokidoki 8
+notebook / memo pad / (pocket) diary;てちょう;;dokidoki 8
+to take a shower;シャワーをあびる;;dokidoki 8
+to begin / to start / to commence;はじまる;;dokidoki 8
+to take (a test);（を）うける;;dokidoki 8
+to pass (the test);（に）うかる;;dokidoki 8
+to be in need / to live / to exist (animate);いる;;dokidoki 8
+to suit / to match / to become / to be like;にあう;;dokidoki 8
+to make sound (of an animal);なく;;dokidoki 8
+late;おそくなる;;dokidoki 8
+to brush one's teeth;はをみがく;;dokidoki 8
+to lend / to loan;かす;;dokidoki 8
+to perserve / to keep at it;がんばる;;dokidoki 8
+battery / cell;でんちがきれる;;dokidoki 8
+to lose (something) / to mislay;なくす;;dokidoki 8
+hindrance / obstacle;じゃまする;;dokidoki 8
+to get in touch / to contact;れんらくする;;dokidoki 8
+to cure / to heal;なおす;;dokidoki 8
+to be broken / to break;こわれる;;dokidoki 8
+to be popular;にんきがある;;dokidoki 8
+to receive / to take / to accept;もらう;;dokidoki 8
+to cough;せきがでる;;dokidoki 8
+to decide / to choose;きめる;;dokidoki 8
+to pay (e.g. money, bill);はらう;;dokidoki 8
+battery / cell;でんちをじゅうでんする;;dokidoki 8
+being deeply moved emotionally;かんどうする;;dokidoki 8
+to keep a promise / to keep one's word;やくそくをまもる;;dokidoki 8
+sweet-tasting;あまい;;dokidoki 8
+spicy / hot;からい;;dokidoki 8
+bitter;にがい;;dokidoki 8
+sour / acid;すっぱい;;dokidoki 8
+heavy / serious / important;おもい;;dokidoki 8
+light / non-serious;かるい;;dokidoki 8
+painful / sore;いたい;;dokidoki 8
+warm / mild / (pleasantly) hot;あたたかい;;dokidoki 8
+happy / glad / pleased;うれしい;;dokidoki 8
+sad / miserable;かなしい;;dokidoki 8
+various;いろいろ;;dokidoki 8
+happiness;しあわせ;;dokidoki 8
+important / serious / crucial;だいじ;;dokidoki 8
+no good / useless;だめ;;dokidoki 8
+necessary ;ひつよう;;dokidoki 8
+sleepy / drowsy / somnolent;ねむい;;dokidoki 8
+orange (fruit, colour);オレンジ;;dokidoki 8
+strawberry;いちご;;dokidoki 8
+banana;バナナ;;dokidoki 8
+grape / grapevine;ぶどう;;dokidoki 8
+pear;ようなし;;dokidoki 8
+peach;もも;;dokidoki 8
+apple (fruit);りんご;;dokidoki 8
+apricot (Prunus armeniaca);あんず;;dokidoki 8
+lemon;レモン;;dokidoki 8
+watermelon;すいか;;dokidoki 8
+bell pepper;パプリカ;;dokidoki 8
+carrot;にんじん;;dokidoki 8
+eggplant;なす;;dokidoki 8
+lettuce;レタス;;dokidoki 8
+potato;じゃがいも;;dokidoki 8
+cabbage;キャベツ;;dokidoki 8
+onion;たまねぎ;;dokidoki 8
+tomato;トマト;;dokidoki 8
+cheating (on a test);カンニングする;;dokidoki 8
+paste / glue;のり;;dokidoki 8

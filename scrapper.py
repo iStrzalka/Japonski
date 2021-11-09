@@ -33,7 +33,7 @@ if __name__ == "__main__":
             for line in input_obj.readlines():
                 print("\n" * 50) # because clrscreen doesn't work for me 
                 line = line[:-1]
-                if count % 3 == 0:
+                if count % 2 == 0:
                     if len(line.split("(")) > 1:
                         kanji, hiragana = line.split("(")[0], line.split("(")[1]
                         kanji = kanji.rstrip()

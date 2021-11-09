@@ -1,0 +1,68 @@
+picture / drawing / painting / sketch;え;;dokidoki 13
+movie theatre / movie theater / cinema;えいがかん;;dokidoki 13
+foreigner;がいこくじん;;dokidoki 13
+furniture;かぐ;;dokidoki 13
+sword (esp. Japanese single-edged) / katana;かたな;;dokidoki 13
+sightseeing / tourism;かんこう;;dokidoki 13
+earthquake;じしん;;dokidoki 13
+(short) jacket / blouson / windbreaker / jumper;ジャンバー;;dokidoki 13
+(social) custom;しゅうかん;;dokidoki 13
+tax / duty;ぜいきん;;dokidoki 13
+deadline / closing / cut-off / end;しめきり;;dokidoki 13
+soba / Japanese buckwheat noodles;そば;;dokidoki 13
+recently / lately;さいきん;;dokidoki 13
+direct (nonstop) flight;ちょっこうびん;;dokidoki 13
+machine / mechanism;きかい;;dokidoki 13
+coat;コート;;dokidoki 13
+map;ちず;;dokidoki 13
+battery / cell;でんち;;dokidoki 13
+garden;にわ;;dokidoki 13
+announcement / statement;はっぴょう;;dokidoki 13
+program (e.g. TV) / programme;ばんぐみ;;dokidoki 13
+(swimming) pool;プール;;dokidoki 13
+pet;ペット;;dokidoki 13
+son;むすこ;;dokidoki 13
+daughter;むすめ;;dokidoki 13
+plans / schedule / programme;よてい;;dokidoki 13
+traditional inn;りょかん;;dokidoki 13
+discount coupon or ticket;わりびきけん;;dokidoki 13
+one day ticket;いちにちけん;;dokidoki 13
+going through / going via / going by way of;けいゆ;;dokidoki 13
+vending machine;はんばいき;;dokidoki 13
+validation;ゆうこうか;;dokidoki 13
+stinking / smelly;くさい;;dokidoki 13
+good scent / odor;いいにおい;;dokidoki 13
+enthusiastic;ねっしんな;;dokidoki 13
+not serious;ふまじめな;;dokidoki 13
+to collect / to assemble / to gather;あつめる;;dokidoki 13
+to move;うごく;;dokidoki 13
+to draw / to paint;かく;;dokidoki 13
+to choose / to select;えらぶ;;dokidoki 13
+to get in touch / to contact someone;れんらくする;;dokidoki 13
+to accumulate / to save up;ためる;;dokidoki 13
+to order;ちゅうもんする;;dokidoki 13
+to stop (moving) / to come to a stop;とまる;;dokidoki 13
+to get angry / to get mad;おこる;;dokidoki 13
+dog;いぬ;;dokidoki 13
+fish;さかな;;dokidoki 13
+bird;鳥;;dokidoki 13
+cat;ねこ;;dokidoki 13
+guinea pig;モルモット;;dokidoki 13
+koi (fish) / (romantic) love / deep (colour) / strong (flavour);こい;;dokidoki 13
+tableware;しょっき;;dokidoki 13
+fork;フォーク;;dokidoki 13
+knife;ナイフ;;dokidoki 13
+spoon;スプーン;;dokidoki 13
+chopsticks;おはし;;dokidoki 13
+bowl;おわん;;dokidoki 13
+plate;さら;;dokidoki 13
+chopstick rest;はしおき;;dokidoki 13
+toothpick;つまようじ;;dokidoki 13
+tumble dryer / tumbler / tumbler dryer;タンブラー;;dokidoki 13
+lunch box;べんとうばこ;;dokidoki 13
+paper cup;かみコップ;;dokidoki 13
+dispensable chopsticks / throwaway chopsticks;わりばし;;dokidoki 13
+rice bowl;おちゃわん;;dokidoki 13
+teapot;きゅうす;;dokidoki 13
+cup;コップ;;dokidoki 13
+glass;グラス;;dokidoki 13

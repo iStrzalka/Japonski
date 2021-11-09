@@ -1,0 +1,1031 @@
+I / me;watashi;;dokidoki 1
+you;anata;;dokidoki 1
+he / him;kare;;dokidoki 1
+she / her;kanojo;;dokidoki 1
+who;dare;;dokidoki 1
+person / someone / somebody;hito;;dokidoki 1
+people / everybody / each person;hitobito;;dokidoki 1
+school;gakkoo;;dokidoki 1
+primary school;shoogakkoo;;dokidoki 1
+primary school student;shoogakusei;;dokidoki 1
+middle school;chuugakkoo;;dokidoki 1
+junior high school student / middle school pupil;chuugakusei;;dokidoki 1
+high school;kookoo;;dokidoki 1
+high school student;kookoosei;;dokidoki 1
+university / college;daigaku;;dokidoki 1
+university student / college student;daigakusei;;dokidoki 1
+graduate school;daigakuin;;dokidoki 1
+graduate student;daigakuinsei;;dokidoki 1
+work;shigoto;;dokidoki 1
+(medical) doctor;isha;;dokidoki 1
+office worker;kaishain;;dokidoki 1
+student (esp. a university student);gakusei;;dokidoki 1
+police officer;keisatsukan;;dokidoki 1
+housewife;shufu;;dokidoki 1
+speciality;senkoo;;dokidoki 1
+English (language);eigo;;dokidoki 1
+education / teaching;kyouiku;;dokidoki 1
+economy / economics;keizai;;dokidoki 1
+computer;konpyuutaa;;dokidoki 1
+politics / government;seiji;;dokidoki 1
+art / fine arts;bijutsu;;dokidoki 1
+literature;bungaku;;dokidoki 1
+history;rekishi;;dokidoki 1
+(United States of) America / United States / US / USA;amerika;;dokidoki 1
+Great Britain / United Kingdom;igirisu;;dokidoki 1
+South Korea;kankoku;;dokidoki 1
+China;chuugoku;;dokidoki 1
+Germany;doitsu;;dokidoki 1
+Japan;nihon;;dokidoki 1
+France;furansu;;dokidoki 1
+Poland;poorando;;dokidoki 1
+Russia;roshia;;dokidoki 1
+living room;ima;;dokidoki 1
+time;jikan;;dokidoki 1
+afternoon / p.m.;gogo;;dokidoki 1
+morning / a.m.;gozen;;dokidoki 1
+half / semi-;han;;dokidoki 1
+thing / object;mono;;dokidoki 1
+book;hon;;dokidoki 1
+pen;pen;;dokidoki 1
+notebook;nooto;;dokidoki 1
+flower;hana;;dokidoki 1
+purse / handbag / wallet;saifu;;dokidoki 1
+telephone;denwa;;dokidoki 1
+clock;tokei;;dokidoki 1
+clothes (esp. Western clothes);fuku;;dokidoki 1
+hat / cap;booshi;;dokidoki 1
+sweatshirt;toreenaa;;dokidoki 1
+sweater / jumper;seetaa;;dokidoki 1
+boots / shoes;kutsu;;dokidoki 1
+number;bangoo;;dokidoki 1
+name;namae;;dokidoki 1
+what;nan/nani;;dokidoki 1
+~language;go;;dokidoki 1
+-years-old;sai;;dokidoki 1
+Mr. / Mrs. / Miss / Ms. / -san;san;;dokidoki 1
+hour / o'clock;ji;;dokidoki 1
+nationality;jin;;dokidoki 1
+student in ... year;nensei;;dokidoki 1
+hundred / 100;hyaku;;dokidoki 1
+1,000 / thousand;sen;;dokidoki 1
+10000 / ten thousand;ichi man;;dokidoki 1
+4 o'clock;yo ji;;dokidoki 1
+seven o'clock;shichi ji;;dokidoki 1
+9 o'clock;ku ji;;dokidoki 1
+20 years old;hatachi;;dokidoki 1
+21 years old;nijuuissai;;dokidoki 1
+18 years old;juuhassai;;dokidoki 1
+10 minutes;juppun;;dokidoki 1
+20 minutes;nijuppun;;dokidoki 1
+15 minutes;juugofun;;dokidoki 1
+25 minutes;nijuugofun;;dokidoki 1
+teacher / instructor / master;sensei;;dokidoki 2
+friends;tomodachi;;dokidoki 2
+yes / that is correct;hai;;dokidoki 2
+no / nay;iie;;dokidoki 2
+game;geemu;;dokidoki 2
+date;deeto;;dokidoki 2
+music;ongaku;;dokidoki 2
+sport;supootsu;;dokidoki 2
+cooked rice / meal;gohan;;dokidoki 2
+breakfast;asagohan;;dokidoki 2
+lunch / midday meal;hirugohan;;dokidoki 2
+dinner / evening meal;bangohan;;dokidoki 2
+meat;niku;;dokidoki 2
+vegetable;yasai;;dokidoki 2
+fish;sakana;;dokidoki 2
+bread / (sweet) pastry;pan;;dokidoki 2
+alcohol / sake;sake;;dokidoki 2
+water;mizu;;dokidoki 2
+tea (usu. green);ocha;;dokidoki 2
+coffee;koohii;;dokidoki 2
+tonkatsu / breaded pork cutlet;tonkatsu;;dokidoki 2
+sandwich;sandoicchi;;dokidoki 2
+pencil;enpitsu;;dokidoki 2
+umbrella / parasol;kasa;;dokidoki 2
+bag;kaban;;dokidoki 2
+television / TV;terebi;;dokidoki 2
+jeans;jiinzu;;dokidoki 2
+dictionary / lexicon;jisho;;dokidoki 2
+bicycle / bike;jitensha;;dokidoki 2
+newspaper;shinbun;;dokidoki 2
+journal / magazine / periodical;zasshi;;dokidoki 2
+place / location / spot / position;basho;;dokidoki 2
+house / home;ie;;dokidoki 2
+house / home;uchi;;dokidoki 2
+toilet;otearai;;dokidoki 2
+temple;otera;;dokidoki 2
+coffee shop / cafe;kissaten;;dokidoki 2
+bank;ginkoo;;dokidoki 2
+park;kooen;;dokidoki 2
+supermarket;suupaa;;dokidoki 2
+bus stop;basutei;;dokidoki 2
+hospital;byooin;;dokidoki 2
+hotel;hoteru;;dokidoki 2
+bookstore;honya;;dokidoki 2
+town;machi;;dokidoki 2
+post office;yuubinkyoku;;dokidoki 2
+restaurant (esp. Western-style);resutoran;;dokidoki 2
+department store;depaato;;dokidoki 2
+library;toshokan;;dokidoki 2
+art gallery / art museum;bijutsukan;;dokidoki 2
+to wake up / to be awake / to stay awake;okiru;;dokidoki 2
+to eat;taberu;;dokidoki 2
+to sleep (lying down);neru;;dokidoki 2
+to see / to look / to watch;miru;;dokidoki 2
+to walk;iku;;dokidoki 2
+to return / to come home / to go home / to go back;kaeru;;dokidoki 2
+to hear;kiku;;dokidoki 2
+to drink;nomu;;dokidoki 2
+to talk / to speak;hanasu;;dokidoki 2
+to read;yomu;;dokidoki 2
+to buy / to purchase;kau;;dokidoki 2
+to do ;suru;;dokidoki 2
+to come / to approach;kuru;;dokidoki 2
+to learn;benkyoo suru;;dokidoki 2
+today;kyoo;;dokidoki 2
+yesterday;kinoo;;dokidoki 2
+tomorrow;ashita;;dokidoki 2
+weekend;shuumatsu;;dokidoki 2
+tonight / this evening;konban;;dokidoki 2
+every day;mainichi;;dokidoki 2
+every morning;maiasa;;dokidoki 2
+every night;maiban;;dokidoki 2
+every week;maishuu;;dokidoki 2
+delicious / tasty / sweet;oishii;;dokidoki 2
+bad (taste) / awful / terrible / unpleasant;mazui;;dokidoki 2
+high / expensive ;takai;;dokidoki 2
+cheap / inexpensive;yasui;;dokidoki 2
+mother / mom;okaasan;;dokidoki 2
+dad;otoosan;;dokidoki 2
+older brother / elder brother;oniisan;;dokidoki 2
+older sister / elder sister;oneesan;;dokidoki 2
+younger sister;imooto;;dokidoki 2
+younger brother;otooto;;dokidoki 2
+grandfather;ojiisan;;dokidoki 2
+grandmother;obaasan;;dokidoki 2
+family;kazoku;;dokidoki 2
+letter (message) / mail / list;てがみ;;dokidoki 3
+examination / quiz / test;テスト;;dokidoki 3
+lesson;じゅぎょう;;dokidoki 3
+movie / film;えいが;;dokidoki 3
+one's origin (e.g. city, country, parentage, school);しゅっしん;;dokidoki 3
+video;ビデオ;;dokidoki 3
+menu;メニュー;;dokidoki 3
+movie theatre / movie theater / cinema;えいがかん;;dokidoki 3
+party (celebration, etc.);パーティ;;dokidoki 3
+very / immensly;すごく;;dokidoki 3
+then / well / so / well then;じゃあ;;dokidoki 3
+of course / certainly / naturally;もちろん;;dokidoki 3
+a little / a bit / slightly;ちょっと;;dokidoki 3
+but / however / though;でも;;dokidoki 3
+how / in what way / how about;どうですか;;dokidoki 3
+a long time (since the last time) / first in a long time;ひさしぶり;;dokidoki 3
+together (with);いっしょに;;dokidoki 3
+welcome;いらっしゃいませ;;dokidoki 3
+please;おねがいします;;dokidoki 3
+go ahead / feel free to / please (help yourself to) / of course;どうぞ;;dokidoki 3
+thank you / thanks;どうも;;dokidoki 3
+that's so, isn't it;そうですね;;dokidoki 3
+desk;つくえ;;dokidoki 3
+chair / stool;いす;;dokidoki 3
+shelf / ledge / rack;たな;;dokidoki 3
+photograph / photo;しゃしん;;dokidoki 3
+bed;ベッド;;dokidoki 3
+sofa / couch;ソファ;;dokidoki 3
+table;テーブル;;dokidoki 3
+door (Western-style, car, etc.);ドア;;dokidoki 3
+window;まど;;dokidoki 3
+lamp / light;ランプ;;dokidoki 3
+pasta;パスタ;;dokidoki 3
+hamburger (on a bun);ハンバーガー;;dokidoki 3
+salad;サラダ;;dokidoki 3
+pizza;ピザ;;dokidoki 3
+ice cream / icecream;アイスクリーム;;dokidoki 3
+chocolate;チョコレート;;dokidoki 3
+juice;ジュース;;dokidoki 3
+cola;コーラ;;dokidoki 3
+(cow's) milk;ぎゅうにゅう;;dokidoki 3
+morning;あさ;;dokidoki 3
+noon / midday;ひる;;dokidoki 3
+evening / night;よる;;dokidoki 3
+when / at what time / how soon;いつ;;dokidoki 3
+always / all the time / at all times;いつも;;dokidoki 3
+last week / the week before;せんしゅう;;dokidoki 3
+this week;こんしゅう;;dokidoki 3
+next week;らいしゅう;;dokidoki 3
+every week;まいしゅう;;dokidoki 3
+mostly / generally / usually;たいてい;;dokidoki 3
+right / right-hand side;みぎ;;dokidoki 3
+left / left hand side;ひだり;;dokidoki 3
+in front (of);まえ;;dokidoki 3
+back / behind / rear;うしろ;;dokidoki 3
+above;うえ;;dokidoki 3
+below;した;;dokidoki 3
+inside / interior;なか;;dokidoki 3
+soba / Japanese buckwheat noodles;そば;;dokidoki 3
+next (to);となり;;dokidoki 3
+between (two parties or things);あいだ;;dokidoki 3
+Monday;げつようび;;dokidoki 3
+Tuesday;かようび;;dokidoki 3
+Wednesday;すいようび;;dokidoki 3
+Thursday;もくようび;;dokidoki 3
+Friday;きんようび;;dokidoki 3
+Saturday;どようび;;dokidoki 3
+Sunday;にちようび;;dokidoki 3
+what day? / what day of the week?;なんようび;;dokidoki 3
+good / excellent / fine / nice / pleasant / agreeable;いい;;dokidoki 3
+bad / poor / undesirable;わるい;;dokidoki 3
+slow / time-consuming / sluggish;おそい;;dokidoki 3
+fast / quick / rapid;はやい;;dokidoki 3
+to be / to exists / to live (non-living);ある;;dokidoki 3
+to be / to exist / to live (living);いる;;dokidoki 3
+to be absent / to rest;やすむ;;dokidoki 3
+to meet / to encounter / to see;あう;;dokidoki 3
+to understand / to comprehend;わかる;;dokidoki 3
+to write;かく;;dokidoki 3
+to send (a thing eg. letter);おくる;;dokidoki 3
+to work;はたらく;;dokidoki 3
+one (thing);ひとつ;;dokidoki 3
+two (things);ふたつ;;dokidoki 3
+three (things);みっつ;;dokidoki 3
+four (things);よっつ;;dokidoki 3
+five (things);いつつ;;dokidoki 3
+six (things);むっつ;;dokidoki 3
+seven (things);ななつ;;dokidoki 3
+eight (things);やっつ;;dokidoki 3
+nine (things);ここのつ;;dokidoki 3
+ten (things);とお;;dokidoki 3
+how many;いくつ;;dokidoki 3
+dog;いぬ;;dokidoki 4
+cat;ねこ;;dokidoki 4
+child;こども;;dokidoki 4
+bath;おふろ;;dokidoki 4
+shopping / purchased goods;かいもの;;dokidoki 4
+birthday;たんじょうび;;dokidoki 4
+class;クラス;;dokidoki 4
+travel / trip;りょこう;;dokidoki 4
+electricity;でんき;;dokidoki 4
+siblings / brothers and sisters;きょうだい;;dokidoki 4
+email;メール;;dokidoki 4
+smartphone / smart phone;スマホ;;dokidoki 4
+approximately / about / around / or so;ぐらい;;dokidoki 4
+one hour;いちじかん;;dokidoki 4
+alone / by oneself / on one's own;ひとりで;;dokidoki 4
+a short while ago ;さっき;;dokidoki 4
+a lot / plenty / many;たくさん;;dokidoki 4
+how / in what way / by what means;どうやって;;dokidoki 4
+hello (e.g. on phone);もしもし;;dokidoki 4
+to teach / to instruct;おしえる;;dokidoki 4
+to forget;わすれる;;dokidoki 4
+to open (door / window);あける;;dokidoki 4
+to close (door, window);しめる;;dokidoki 4
+to borrow / to have a loan;かりる;;dokidoki 4
+to attach / to turn on / to switch on;つける;;dokidoki 4
+to return (something) / to restore / to put back;かえす;;dokidoki 4
+to use (a thing);つかう;;dokidoki 4
+to help / to assist / to aid;てつだう;;dokidoki 4
+to erase / to delete / to cross out;けす;;dokidoki 4
+to walk;あるく;;dokidoki 4
+to go out / to depart;でかける;;dokidoki 4
+to take;かかる;;dokidoki 4
+to swim;およぐ;;dokidoki 4
+to get on (a train);のる;;dokidoki 4
+to descend (e.g. a mountain) / to go down / to come down;おりる;;dokidoki 4
+to play (games, sports) / to enjoy oneself / to have a good time;あそぶ;;dokidoki 4
+to die / to pass away;しぬ;;dokidoki 4
+to take a picture;しゃしんをとる;;dokidoki 4
+to wait;まつ;;dokidoki 4
+to hurry / to rush;いそぐ;;dokidoki 4
+to enter / to go into;はいる;;dokidoki 4
+to hold (in one's hand) / to take / to carry;もつ;;dokidoki 4
+to smoke a cigarette;たばこをすう;;dokidoki 4
+to bring someone along;つれてくる;;dokidoki 4
+to bring / to take (something) along / to fetch / to get;もってくる;;dokidoki 4
+textbook / coursebook / schoolbook;きょうかしょ;;dokidoki 4
+souvenir;おみやげ;;dokidoki 4
+camera;カメラ;;dokidoki 4
+luggage / baggage / package;にもつ;;dokidoki 4
+laptop / PC / personal computer;パソコン;;dokidoki 4
+ticket;きっぷ;;dokidoki 4
+bridge / chopsticks;はし;;dokidoki 4
+one person;ひとり;;dokidoki 4
+two people;ふたり;;dokidoki 4
+three people;さんにん;;dokidoki 4
+four people;よにん;;dokidoki 4
+five people;ごにん;;dokidoki 4
+how many people / a number of people;なんにん;;dokidoki 4
+vehicle / conveyance / transport;のりもの;;dokidoki 4
+bus;バス;;dokidoki 4
+train / electric train;でんしゃ;;dokidoki 4
+tram;ろめんでんしゃ;;dokidoki 4
+boat / ship;ふね;;dokidoki 4
+bicycle / bike;じてんしゃ;;dokidoki 4
+underground train / subway;ちかてつ;;dokidoki 4
+Shinkansen / bullet train;しんかんせん;;dokidoki 4
+car / automobile / vehicle;くるま;;dokidoki 4
+by foot;あるいて;;dokidoki 4
+homework / assignment;しゅくだい;;dokidoki 5
+weather;てんき;;dokidoki 5
+postcard;はがき;;dokidoki 5
+I / me (male ver.);ぼく;;dokidoki 5
+rest / vacation / holiday / absence / suspention;やすみ;;dokidoki 5
+certainly / without fail;ぜひ;;dokidoki 5
+this time / now;こんど;;dokidoki 5
+OK / all right / without a problem / safe;だいじょうぶ;;dokidoki 5
+perhaps / probably;たぶん;;dokidoki 5
+as much as possible;できるだけ;;dokidoki 5
+very / awfully / exceedingly;とても;;dokidoki 5
+what kind of / what sort of / what;どんな;;dokidoki 5
+for the first time;はじめて;;dokidoki 5
+tennis;テニス;;dokidoki 5
+basketball;バスケットボール;;dokidoki 5
+volleyball;バレーボール;;dokidoki 5
+surfing;サーフィン;;dokidoki 5
+skiing;スキー;;dokidoki 5
+swimming;すいえい;;dokidoki 5
+jogging;ジョギング;;dokidoki 5
+soccer;サッカー;;dokidoki 5
+hiking;ハイキング;;dokidoki 5
+baseball;やきゅう;;dokidoki 5
+to leave / to go out;でる;;dokidoki 5
+to sit / to squat;すわる;;dokidoki 5
+to stand / to rise / to stand up;たつ;;dokidoki 5
+to sing;うたう;;dokidoki 5
+to wash / to cleanse / to rinse;あらう;;dokidoki 5
+to run;はしる;;dokidoki 5
+to get tired;つかれる;;dokidoki 5
+cooking;りょうりする;;dokidoki 5
+driving;うんてんする;;dokidoki 5
+cleaning;そうじする;;dokidoki 5
+new / modern / novel;あたらしい;;dokidoki 5
+old / aged ;ふるい;;dokidoki 5
+hot (touch / temperature);あつい;;dokidoki 5
+cold (temperature);さむい;;dokidoki 5
+cold (touch);つめたい;;dokidoki 5
+busy / occupied;いそがしい;;dokidoki 5
+spare time / free time / leisure;ひま;;dokidoki 5
+big / large / great;おおきい;;dokidoki 5
+small / little / tiny;ちいさい;;dokidoki 5
+interesting / fascinating;おもしろい;;dokidoki 5
+enjoyable / fun;たのしい;;dokidoki 5
+dull / uninteresting / boring / tedious;つまらない;;dokidoki 5
+cute / adorable;かわいい;;dokidoki 5
+dirty / filthy / unclean;きたない;;dokidoki 5
+pretty / lovely;きれい;;dokidoki 5
+like;すき;;dokidoki 5
+like very much / love / adore;だいすき;;dokidoki 5
+fast / quick / rapid;はやい;;dokidoki 5
+lively / busy / crowded;にぎやか;;dokidoki 5
+quiet / silent;しずか;;dokidoki 5
+lively / energetic;げんき;;dokidoki 5
+difficult / hard / troublesome / complicated / serious (disease, problem, etc.);むずかしい;;dokidoki 5
+simple / easy / uncomplicated;かんたん;;dokidoki 5
+far / distant;とおい;;dokidoki 5
+near / close / short (distance);ちかい;;dokidoki 5
+difficult / hard / very / greatly;たいへん;;dokidoki 5
+kind / gentle / considerate / generous / friendly / nice;しんせつ;;dokidoki 5
+easy / plain / simple;やさしい;;dokidoki 5
+scary / frightening;こわい;;dokidoki 5
+skilled (at) / proficient / good (at);じょうず;;dokidoki 5
+unskillful / poor / awkward;へた;;dokidoki 5
+disliked / hated / disagreeable;きらい;;dokidoki 5
+hating / strongly disliking;だいきらい;;dokidoki 5
+attractive / cool / good-looking;かっこいい;;dokidoki 5
+animal;どうぶつ;;dokidoki 5
+crow / raven;からす;;dokidoki 5
+mouse / rat;ねずみ;;dokidoki 5
+horse;うま;;dokidoki 5
+cow / bull;うし;;dokidoki 5
+snake;へび;;dokidoki 5
+rabbit;うさぎ;;dokidoki 5
+squirrel;りす;;dokidoki 5
+tortoise / turtle;かめ;;dokidoki 5
+insect / bug;むし;;dokidoki 5
+monkey;さる;;dokidoki 5
+season / time of year;きせつ;;dokidoki 5
+summer;なつ;;dokidoki 5
+spring;はる;;dokidoki 5
+autumn / fall;あき;;dokidoki 5
+winter;ふゆ;;dokidoki 5
+railway station / train station;えき;;dokidoki 6
+candy / cake / sweets;おかし;;dokidoki 6
+New Year (esp. first three days);おしょうがつ;;dokidoki 6
+boy / son / baby boy;おとこのこ;;dokidoki 6
+girl / daughter / baby girl;おんなのこ;;dokidoki 6
+toy;おもちゃ;;dokidoki 6
+page;ページ;;dokidoki 6
+thing / object;もの;;dokidoki 6
+boyfriend;かれし;;dokidoki 6
+girlfriend;かのじょ;;dokidoki 6
+snow / snowfall;ゆき;;dokidoki 6
+overseas student / exchange student;りゅうがくせい;;dokidoki 6
+afterwards;あとで;;dokidoki 6
+late;おそく;;dokidoki 6
+take care of yourself;おだいじに;;dokidoki 6
+splendid / nice / wonderful;けっこうです;;dokidoki 6
+immediately / right away;すぐ;;dokidoki 6
+free of charge;ただ;;dokidoki 6
+next / following;つぎ;;dokidoki 6
+what to do;どうしよう;;dokidoki 6
+to work (for) / to be employed (at);つとめる;;dokidoki 6
+marriage;けっこんする;;dokidoki 6
+to rain;あめがふる;;dokidoki 6
+to put on weight;ふとる;;dokidoki 6
+to lose weight;やせる;;dokidoki 6
+to know / to be aware / to learn;しる;;dokidoki 6
+to live / to reside;すむ;;dokidoki 6
+to wear (in modern Japanese, from the shoulders down) / to put on;きる;;dokidoki 6
+to put on (lower-body clothing, e.g. pants, skirt, footwear) / to wear;はく;;dokidoki 6
+to put on (one's head) / to wear;かぶる;;dokidoki 6
+to do / to carry out / to perform;する;;dokidoki 6
+to differ (from) / to vary;ちがう;;dokidoki 6
+tall (of a person);せがたかい;;dokidoki 6
+short (of a person);せがひくい;;dokidoki 6
+bright / intelligent;あたまがいい;;dokidoki 6
+dumb;あたまがわるい;;dokidoki 6
+(my) father;ちち;;dokidoki 6
+(my) mother;はは;;dokidoki 6
+(my) older brother;あに;;dokidoki 6
+(my) older sister;あね;;dokidoki 6
+(my) grandmother;そぼ;;dokidoki 6
+(my) grandfather;そふ;;dokidoki 6
+(my) husband;しゅじん;;dokidoki 6
+(someone's) husband;だんなさん;;dokidoki 6
+(someone's) wife;おくさん;;dokidoki 6
+(my) wife;つま;;dokidoki 6
+long (distance, length);ながい;;dokidoki 6
+short;みじかい;;dokidoki 6
+necklace;ネックレス;;dokidoki 6
+tie / necktie;ネクタイ;;dokidoki 6
+muffler / scarf / comforter;マフラー;;dokidoki 6
+glasses;めがね;;dokidoki 6
+(finger) ring;ゆびわ;;dokidoki 6
+skirt;スカート;;dokidoki 6
+cap (headwear);キャップ;;dokidoki 6
+high heels / high-heeled shoes;ハイヒール;;dokidoki 6
+suit (clothing);スーツ;;dokidoki 6
+sneaker / sneakers;スニーカー;;dokidoki 6
+uniform;せいふく;;dokidoki 6
+trousers / pants;ズボン;;dokidoki 6
+coat;コート;;dokidoki 6
+jumper;ジャンパー;;dokidoki 6
+jersey (fabric);ジャージ;;dokidoki 6
+sweater / jumper;セーター;;dokidoki 6
+shirt (undergarment) / undershirt / singlet;シャツ;;dokidoki 6
+sweatshirt;トレーナー;;dokidoki 6
+one-piece;ワンピース;;dokidoki 6
+T-shirt;Tシャツ;;dokidoki 6
+color;いろ;;dokidoki 6
+white;しろい;;dokidoki 6
+black;くろい;;dokidoki 6
+red;あかい;;dokidoki 6
+orange (colour, color);オレンジいろの;;dokidoki 6
+yellow;きいろい;;dokidoki 6
+green;みどりいろの;;dokidoki 6
+blue / azure;あおい;;dokidoki 6
+purple / violet;むらさきいろの;;dokidoki 6
+pink;ピンクいろの;;dokidoki 6
+light brown;ちゃいろい;;dokidoki 6
+gold (colour, color);きんいろの;;dokidoki 6
+silver (color, colour);ぎんいろの;;dokidoki 6
+guitar;ギター;;dokidoki 7
+piano;ピアノ;;dokidoki 7
+medicine;くすり;;dokidoki 7
+rubbish / trash;ごみ;;dokidoki 7
+garbage can;ごみばこ;;dokidoki 7
+bento / Japanese box lunch;おべんとう;;dokidoki 7
+meeting / conference;かいぎ;;dokidoki 7
+cake;ケーキ;;dokidoki 7
+this morning;けさ;;dokidoki 7
+camp;キャンプ;;dokidoki 7
+television / TV;テレビニュース;;dokidoki 7
+tax / duty;ぜいきん;;dokidoki 7
+normal / ordinary;ふつう;;dokidoki 7
+late at night / at a late hour;よるおそく;;dokidoki 7
+early in the morning;あさはやく;;dokidoki 7
+no;ううん;;dokidoki 7
+yes / yeah / uh huh;うん;;dokidoki 7
+concerning / regarding;について;;dokidoki 7
+by the way / incidentally;ところで;;dokidoki 7
+all together / everyone;みんなで;;dokidoki 7
+slowly / leisurely;ゆっくり;;dokidoki 7
+early / soon;はやく;;dokidoki 7
+if you like;よかったら;;dokidoki 7
+excuse me / pardon me / I beg your pardon;しつれいします;;dokidoki 7
+thanks / gratitude;おれい;;dokidoki 7
+soon / slowly;そろそろ;;dokidoki 7
+place / location;ばしょ;;dokidoki 7
+convenience store;コンビニ;;dokidoki 7
+dining room;しょくどう;;dokidoki 7
+zoo / zoological gardens;どうぶつえん;;dokidoki 7
+company / corporation;かいしゃ;;dokidoki 7
+museum;はくぶつかん;;dokidoki 7
+hot spring;おんせん;;dokidoki 7
+beauty salon;びよういん;;dokidoki 7
+police box;こうばん;;dokidoki 7
+to say / to declare;いう;;dokidoki 7
+to think / to consider;おもう;;dokidoki 7
+to cut;きる;;dokidoki 7
+to make / to produce / to build;つくる;;dokidoki 7
+to take something with me;もっていく;;dokidoki 7
+to apologise;あやまる;;dokidoki 7
+to start / to begin;はじめる;;dokidoki 7
+to dance;おどる;;dokidoki 7
+to play (a stringed or keyboard instrument);ひく;;dokidoki 7
+to stop (moving);とまる;;dokidoki 7
+to become hungry;おなかがすく;;dokidoki 7
+to be thirsty;のどがかわく;;dokidoki 7
+to put / to place;おく;;dokidoki 7
+to do / to perform;やる;;dokidoki 7
+to be late / to be delayed;おくれる;;dokidoki 7
+getting in touch / contacting;れんらくする;;dokidoki 7
+washing / laundry;せんたくする;;dokidoki 7
+exercise / physical training;うんどうする;;dokidoki 7
+walk / stroll;さんぽする;;dokidoki 7
+to practice;れんしゅうする;;dokidoki 7
+reservation / booking / appointment;よやくする;;dokidoki 7
+shabby / cheap / skimpy;けち;;dokidoki 7
+convenient / handy / useful;べんり;;dokidoki 7
+inconvenience;ふべん;;dokidoki 7
+idiot / moron / fool;ばか;;dokidoki 7
+easy / simple / relief / comfort / without trouble;らく;;dokidoki 7
+mean / cruel / ill-tempered;いじわる;;dokidoki 7
+illness;びょうき;;dokidoki 7
+young / youthful;わかい;;dokidoki 7
+lonely / lonesome;さびしい;;dokidoki 7
+famous;ゆうめい;;dokidoki 7
+enjoyment / pleasure;たのしみ;;dokidoki 7
+paper / god;かみ;;dokidoki 7
+scissors;はさみ;;dokidoki 7
+file;ファイル;;dokidoki 7
+calendar;カレンダー;;dokidoki 7
+paste / glue;のり;;dokidoki 7
+notebook / memo pad / (pocket) diary;てちょう;;dokidoki 7
+tape;テープ;;dokidoki 7
+pencil case;ふでばこ;;dokidoki 7
+envelope;ふうとう;;dokidoki 7
+eraser;けしゴム;;dokidoki 7
+tablet / pill;タブレット;;dokidoki 7
+laptop;ノートパソコン;;dokidoki 7
+microwave oven;でんしレンジ;;dokidoki 7
+mobile telephone;けいたいでんわ;;dokidoki 7
+air conditioner;エアコン;;dokidoki 7
+refrigerator;れいぞうこ;;dokidoki 7
+washing machine (laundry);せんたくき;;dokidoki 7
+vacuum cleaner;そうじき;;dokidoki 7
+battery charger;じゅうでんき;;dokidoki 7
+drawing paper;がようし;;dokidoki 7
+crayon;クレヨン;;dokidoki 7
+cutter / cutting tool;カッター;;dokidoki 7
+mechanical pencil / automatic pencil;シャーペン;;dokidoki 7
+meaning / significance;いみ;;dokidoki 7
+colored pencil / coloured pencil;いろえんぴつ;;dokidoki 7
+pencil sharpener;えんぴつけずり;;dokidoki 7
+stapler / paper fastener;ホチキス;;dokidoki 7
+pencil lead;しん;;dokidoki 7
+marker;マーカー;;dokidoki 7
+(measuring) ruler;じょうぎ;;dokidoki 7
+(portable) electronic dictionary / pocket electronic dictionary / PED;でんしじしょ;;dokidoki 7
+how / in what way / by what means;どうして;;dokidoki 7
+hiking;ハイキング;;dokidoki 7
+fishing / angling;つり;;dokidoki 7
+culture;ぶんか;;dokidoki 7
+barber shop;とこや;;dokidoki 7
+old (person) / aged;としとった;;dokidoki 7
+nature;しぜん;;dokidoki 8
+examination / exam / test;しけん;;dokidoki 8
+battery / cell;でんち;;dokidoki 8
+results / grade;せいせき;;dokidoki 8
+seat / cough / position;せき;;dokidoki 8
+lake;みずうみ;;dokidoki 8
+celebrity / famous person / public figure / big name;ゆうめいじん;;dokidoki 8
+dream;ゆめ;;dokidoki 8
+rich person;おかねもち;;dokidoki 8
+poor person / poor;びんぼう;;dokidoki 8
+living / life;せいかつ;;dokidoki 8
+school term / semester;がっき;;dokidoki 8
+heat;ねつ;;dokidoki 8
+concert;コンサート;;dokidoki 8
+apartment;アパート;;dokidoki 8
+group with a common interest (e.g. students) / club (e.g. company sports club) / circle;サークル;;dokidoki 8
+shower;シャワー;;dokidoki 8
+barbecue / BBQ;バーベキュー;;dokidoki 8
+homestay;ホームステイ;;dokidoki 8
+thank you (for your hard work) / good work;おつかれさま;;dokidoki 8
+as expected;やっぱり;;dokidoki 8
+after ;あと;;dokidoki 8
+cheers / bottoms-up;かんぱい;;dokidoki 8
+regrettable;ざんねん;;dokidoki 8
+in addition / besides;ほかに;;dokidoki 8
+notebook / memo pad / (pocket) diary;てちょう;;dokidoki 8
+to take a shower;シャワーをあびる;;dokidoki 8
+to begin / to start / to commence;はじまる;;dokidoki 8
+to take (a test);（を）うける;;dokidoki 8
+to pass (the test);（に）うかる;;dokidoki 8
+to be in need / to live / to exist (animate);いる;;dokidoki 8
+to suit / to match / to become / to be like;にあう;;dokidoki 8
+to make sound (of an animal);なく;;dokidoki 8
+late;おそくなる;;dokidoki 8
+to brush one's teeth;はをみがく;;dokidoki 8
+to lend / to loan;かす;;dokidoki 8
+to perserve / to keep at it;がんばる;;dokidoki 8
+battery / cell;でんちがきれる;;dokidoki 8
+to lose (something) / to mislay;なくす;;dokidoki 8
+hindrance / obstacle;じゃまする;;dokidoki 8
+to get in touch / to contact;れんらくする;;dokidoki 8
+to cure / to heal;なおす;;dokidoki 8
+to be broken / to break;こわれる;;dokidoki 8
+to be popular;にんきがある;;dokidoki 8
+to receive / to take / to accept;もらう;;dokidoki 8
+to cough;せきがでる;;dokidoki 8
+to decide / to choose;きめる;;dokidoki 8
+to pay (e.g. money, bill);はらう;;dokidoki 8
+battery / cell;でんちをじゅうでんする;;dokidoki 8
+being deeply moved emotionally;かんどうする;;dokidoki 8
+to keep a promise / to keep one's word;やくそくをまもる;;dokidoki 8
+sweet-tasting;あまい;;dokidoki 8
+spicy / hot;からい;;dokidoki 8
+bitter;にがい;;dokidoki 8
+sour / acid;すっぱい;;dokidoki 8
+heavy / serious / important;おもい;;dokidoki 8
+light / non-serious;かるい;;dokidoki 8
+painful / sore;いたい;;dokidoki 8
+warm / mild / (pleasantly) hot;あたたかい;;dokidoki 8
+happy / glad / pleased;うれしい;;dokidoki 8
+sad / miserable;かなしい;;dokidoki 8
+various;いろいろ;;dokidoki 8
+happiness;しあわせ;;dokidoki 8
+important / serious / crucial;だいじ;;dokidoki 8
+no good / useless;だめ;;dokidoki 8
+necessary ;ひつよう;;dokidoki 8
+sleepy / drowsy / somnolent;ねむい;;dokidoki 8
+orange (fruit, colour);オレンジ;;dokidoki 8
+strawberry;いちご;;dokidoki 8
+banana;バナナ;;dokidoki 8
+grape / grapevine;ぶどう;;dokidoki 8
+pear;ようなし;;dokidoki 8
+peach;もも;;dokidoki 8
+apple (fruit);りんご;;dokidoki 8
+apricot (Prunus armeniaca);あんず;;dokidoki 8
+lemon;レモン;;dokidoki 8
+watermelon;すいか;;dokidoki 8
+bell pepper;パプリカ;;dokidoki 8
+carrot;にんじん;;dokidoki 8
+eggplant;なす;;dokidoki 8
+lettuce;レタス;;dokidoki 8
+potato;じゃがいも;;dokidoki 8
+cabbage;キャベツ;;dokidoki 8
+onion;たまねぎ;;dokidoki 8
+tomato;トマト;;dokidoki 8
+cheating (on a test);カンニングする;;dokidoki 8
+paste / glue;のり;;dokidoki 8
+this semester;こんがっき;;dokidoki 9
+next semester;らいがっき;;dokidoki 9
+last semester;せんがっき;;dokidoki 9
+club;クラブ;;dokidoki 9
+word / vocabulary;たんご;;dokidoki 9
+company president / manager / director;しゃちょう;;dokidoki 9
+singer;かしゅ;;dokidoki 9
+future (usually near);しょうらい;;dokidoki 9
+eggs;たまご;;dokidoki 9
+kabuki / Japanese classical drama;かぶき;;dokidoki 9
+the old town;きゅうしがい;;dokidoki 9
+things to do / business (to take care of);ようじ;;dokidoki 9
+green tea / Japanese tea;りょくちゃ;;dokidoki 9
+cheese;チーズ;;dokidoki 9
+(flower) vase;かびん;;dokidoki 9
+OK / roger;りょうかい;;dokidoki 9
+this way / this direction;こちら;;dokidoki 9
+perhaps / probably;たぶん;;dokidoki 9
+(some) more / even more / longer / further;もっと;;dokidoki 9
+only / just / no more than;だけ;;dokidoki 9
+to memorize;おぼえる;;dokidoki 9
+to tell a lie;うそをつく;;dokidoki 9
+to buy / to purchase;かう;;dokidoki 9
+to slack off / to skip school;サボる;;dokidoki 9
+to ascend / to climb;のぼる;;dokidoki 9
+to resign / to retire;やめる;;dokidoki 9
+to get angry / to get mad;おこる;;dokidoki 9
+to take / to pick up / to take (a picture);とる;;dokidoki 9
+to learn (from a teacher) / to be taught;ならう;;dokidoki 9
+to go out with;つきあう;;dokidoki 9
+to diet;ダイエットする;;dokidoki 9
+studying abroad;りゅうがくする;;dokidoki 9
+introduction;しょうかいする;;dokidoki 9
+fight / quarrel;けんかする;;dokidoki 9
+many / numerous / a lot;おおい;;dokidoki 9
+few / a little;すくない;;dokidoki 9
+spacious / vast;ひろい;;dokidoki 9
+narrow / small;せまい;;dokidoki 9
+lovely / wonderful;すてき;;dokidoki 9
+inconvenient;つごうがわるい;;dokidoki 9
+severe / strict;きびしい;;dokidoki 9
+price / cost;ねだん;;dokidoki 9
+sale;セール;;dokidoki 9
+(cash) register;レジ;;dokidoki 9
+to line to the cash register;レジにならぶ;;dokidoki 9
+(disposable) shopping bag / carrier bag;レジぶくろ;;dokidoki 9
+vending machine;じどうはんばいき;;dokidoki 9
+shopping district;しょうてんがい;;dokidoki 9
+receipt;レシート;;dokidoki 9
+line / queue;ぎょうれつ;;dokidoki 9
+ATM / cash machine;エイティーエム;;dokidoki 9
+to withdraw money / to take money out;おかねをおろす;;dokidoki 9
+coin;こうか;;dokidoki 9
+bill / note (currency);おさつ;;dokidoki 9
+change / money exchange;りょうがえ;;dokidoki 9
+suitcase;スーツケース;;dokidoki 9
+backpack;リュックサック;;dokidoki 9
+passport;パスポート;;dokidoki 9
+sightseeing / tourism;かんこう;;dokidoki 9
+ticket;チケット;;dokidoki 9
+airport;くうこう;;dokidoki 9
+leading (the way) / showing around / guidance;あんない;;dokidoki 9
+to pack one's things;にもつをまとめる;;dokidoki 9
+drive / trip by car;ドライブ;;dokidoki 9
+excursion / outing / trip;えんそく;;dokidoki 9
+if you like;よかったら;;dokidoki 9
+bell pepper;ピーマン;;dokidoki 9
+that way / that direction;そちら;;dokidoki 9
+that way / that direction;あちら;;dokidoki 9
+enjoyment / pleasure;たのしみ;;dokidoki 9
+as much as possible;できるだけ;;dokidoki 9
+small change;こぜに;;dokidoki 9
+meaning / significance / sense;いみ;;dokidoki 10
+the world / society;せかい;;dokidoki 10
+glove;てぶくろ;;dokidoki 10
+face;かお;;dokidoki 10
+adult / grown-up;おとな;;dokidoki 10
+stairs;かいだん;;dokidoki 10
+body;からだ;;dokidoki 10
+language / dialect;ことば;;dokidoki 10
+absolutely / definitely ;ぜったいに;;dokidoki 10
+match / game;しあい;;dokidoki 10
+reservation / appointment / booking;よやく;;dokidoki 10
+map;ちず;;dokidoki 10
+question (e.g. on a test) / problem;もんだい;;dokidoki 10
+some time ago / recently / lately;このまえ;;dokidoki 10
+how long / how far / how much;どのぐらい;;dokidoki 10
+congratulations;おめでとうございます;;dokidoki 10
+I'm afraid to say;ざんねんながら;;dokidoki 10
+to examine / to look up / to inverstigate;しらべる;;dokidoki 10
+to answer / to reply;こたえる;;dokidoki 10
+to be troubled / to have difficulty;こまる;;dokidoki 10
+to request / to beg / to ask;たのむ;;dokidoki 10
+to pray / to wish;いのる;;dokidoki 10
+to take off (clothes);ぬぐ;;dokidoki 10
+to show / to display;みせる;;dokidoki 10
+to be seen / to look;みえる;;dokidoki 10
+to be heard;きこえる;;dokidoki 10
+to be interested (in something) / curiosity (about something);きょうみがある;;dokidoki 10
+to be nervous;きんちょうする;;dokidoki 10
+to ask a question;しつもんする;;dokidoki 10
+to talk / to chat / to chatter;しゃべる;;dokidoki 10
+special someone / precious one;たいせつな;;dokidoki 10
+fat / thick;ふとい;;dokidoki 10
+thin / slender / fine;ほそい;;dokidoki 10
+weird;へんな;;dokidoki 10
+round / circular / spherical;まるい;;dokidoki 10
+square / rectangular;しかくい;;dokidoki 10
+strong / potent;つよい;;dokidoki 10
+weak;よわい;;dokidoki 10
+sunny / clear weather;はれ;;dokidoki 10
+to clear up;はれる;;dokidoki 10
+cloudy with light flashes;はれときどきくもり;;dokidoki 10
+cloudy;くもり;;dokidoki 10
+to get cloudy;くもる;;dokidoki 10
+rain;あめ;;dokidoki 10
+snow / snowfall;ゆき;;dokidoki 10
+(common) cold;かぜ;;dokidoki 10
+storm / tempest;あらし;;dokidoki 10
+weather forecast / weather report;てんきよほう;;dokidoki 10
+nature;しぜん;;dokidoki 10
+desert;さばく;;dokidoki 10
+island;しま;;dokidoki 10
+beach;ビーチ;;dokidoki 10
+waterfall;たき;;dokidoki 10
+forest;もり;;dokidoki 10
+pond;いけ;;dokidoki 10
+plant;しょくぶつ;;dokidoki 10
+animal;どうぶつ;;dokidoki 10
+lake;みずうみ;;dokidoki 10
+woods / forest;はやし;;dokidoki 10
+hill / height;おか;;dokidoki 10
+mountain range / mountain belt;さんみゃく;;dokidoki 10
+occupation / profession / job;しょくぎょう;;dokidoki 10
+painter / artist;がか;;dokidoki 10
+employee (of a store);てんいん;;dokidoki 10
+police officer / policeman / policewoman;けいさつかん;;dokidoki 10
+professor;きょうじゅ;;dokidoki 10
+cook / chef;コック;;dokidoki 10
+language interpreter;つうやく;;dokidoki 10
+government worker;こうむいん;;dokidoki 10
+buddhist priest / monk;おぼうさん;;dokidoki 10
+coming-of-age ceremony;せいじんしき;;dokidoki 10
+actor / actress / player / performer;はいゆう;;dokidoki 10
+actress / female actor;じょゆう;;dokidoki 10
+waiter;ウェイター;;dokidoki 11
+grandfather;おじいさん;;dokidoki 11
+grandmother;おばあさん;;dokidoki 11
+adult / grown-up;おとな;;dokidoki 11
+foreign language;がいこくご;;dokidoki 11
+karate;からて;;dokidoki 11
+curry (esp. Japanese curry);カレー;;dokidoki 11
+kimono / Japanese traditional clothing (esp. full-length);きもの;;dokidoki 11
+cake;ケーキ;;dokidoki 11
+black tea;こうちゃ;;dokidoki 11
+advertisement / advertising;こうこく;;dokidoki 11
+language / word / dialect;ことば;;dokidoki 11
+golf;ゴルフ;;dokidoki 11
+elephant;ぞう;;dokidoki 11
+violin;バイオリン;;dokidoki 11
+motorcycle / motorbike;バイク;;dokidoki 11
+school term / semester;がっき;;dokidoki 11
+ladybug;てんとうむし;;dokidoki 11
+please do / please take care of;よろしくおねがいします;;dokidoki 11
+pronunciation;はつおん;;dokidoki 11
+prices (in general);ぶっか;;dokidoki 11
+grammar;ぶんぽう;;dokidoki 11
+lawyer / attorney;べんごし;;dokidoki 11
+insurance / guarantee;ほけん;;dokidoki 11
+recruitment / invitation / selection;ぼしゅう;;dokidoki 11
+appointment;まちあわせ;;dokidoki 11
+store / shop / establishment / restaurant;みせ;;dokidoki 11
+yakuza;やくざ;;dokidoki 11
+promise;やくそく;;dokidoki 11
+report / paper;レポート;;dokidoki 11
+I / me (official);わたくし;;dokidoki 11
+to be honest / to tell you the truth;じつは;;dokidoki 11
+all / entire / whole / altogether;ぜんぶ;;dokidoki 11
+scenery / scene / landscape;けしき;;dokidoki 11
+ladybug;てんとうむし;;dokidoki 11
+to give up / to abandon (hope, plans);あきらめる;;dokidoki 11
+to sell;うる;;dokidoki 11
+to touch / to feel;さわる;;dokidoki 11
+to be late / to be delayed;おくれる;;dokidoki 11
+to delay / to postpone;おくらせる;;dokidoki 11
+to be careful / to pay attention / to take care;きをつける;;dokidoki 11
+to do / to cost;する;;dokidoki 11
+to arrive at / to reach;つく;;dokidoki 11
+hindrance / obstacle / nuisance;じゃまする;;dokidoki 11
+to suit / to match / to become / to be like;にあう;;dokidoki 11
+to apologize / to apologise;あやまる;;dokidoki 11
+consultation / discussion;そうだんする;;dokidoki 11
+to knit / to plait / to braid;あむ;;dokidoki 11
+insurance / guarantee;ほけんにはいる;;dokidoki 11
+engagement / betrothal;こんやくする;;dokidoki 11
+graduation / completion (of a course);そつぎょうする;;dokidoki 11
+(marriage) proposal;プロポーズする;;dokidoki 11
+table tennis / ping-pong;たっきゅうする;;dokidoki 11
+light / well-lit / well-lighted;あかるい;;dokidoki 11
+dark / gloomy / murky;くらい;;dokidoki 11
+feel sick / feel unwell;きぶんがわるい;;dokidoki 11
+feel good (pleasant);きぶんがいい;;dokidoki 11
+fresh;しんせん;;dokidoki 11
+embarassed / shy;はずかしい;;dokidoki 11
+good feeling / feeling good;きもちがいい;;dokidoki 11
+bad feeling / disgusting;きもちがわるい;;dokidoki 11
+same / identical / equal;おなじ;;dokidoki 12
+uncle;おじさん;;dokidoki 12
+landlord / landlady;おおやさん;;dokidoki 12
+parent-in-law / parents-in-law;ぎりはは;;dokidoki 12
+father-in-law / foster father / stepfather;ぎりちち;;dokidoki 12
+(my) older brother;あに;;dokidoki 12
+(my) husband;おっと;;dokidoki 12
+(my) wife;つま;;dokidoki 12
+(someone's) wife;おくさん;;dokidoki 12
+aunt;おばさん;;dokidoki 12
+rose;ばら;;dokidoki 12
+government / administration;せいふ;;dokidoki 12
+club;クラブ;;dokidoki 12
+(someone's) husband;ごしゅじん;;dokidoki 12
+cup;コップ;;dokidoki 12
+plate;さら;;dokidoki 12
+time;じかん;;dokidoki 12
+precisely / exactly;ちょうど;;dokidoki 12
+chocolate;チョコレート;;dokidoki 12
+email;メール;;dokidoki 12
+stuffed toy / plush toy;ぬいぐるみ;;dokidoki 12
+tissue;ティッシュ;;dokidoki 12
+cousin;いとこ;;dokidoki 12
+tie / necktie;ネクタイ;;dokidoki 12
+obligation chocolate / chocolate given by women to male colleagues, etc. out of obligation on Valentine's day;ぎりチョコ;;dokidoki 12
+chocolate given to a man on Valentine's day out of genuine sentiment;ほんめいチョコ;;dokidoki 12
+White Day (March 14) / day for giving white chocolate and other presents to female coworkers and friends in return for gifts received on Valentine's day;ホワイトデー;;dokidoki 12
+video camera;ビデオカメラ;;dokidoki 12
+married couple / husband and wife / man and wife;ふうふ;;dokidoki 12
+muffler / scarf / comforter;マフラー;;dokidoki 12
+rose;ばら;;dokidoki 12
+manga;まんが;;dokidoki 12
+mansion;マンション;;dokidoki 12
+mandarin orange;みかん;;dokidoki 12
+(finger) ring;ゆびわ;;dokidoki 12
+parents / both parents;りょうしん;;dokidoki 12
+personal history;りれきしょ;;dokidoki 12
+we / us;わたしたち;;dokidoki 12
+you (plural);あなたたち;;dokidoki 12
+they / them;かれら;;dokidoki 12
+how many;いくつ;;dokidoki 12
+salary / wages / pay;きゅうりょう;;dokidoki 12
+wish / want / in need of;ほしい;;dokidoki 12
+shabby / cheap / stingy;けち;;dokidoki 12
+generous;ふとっぱら;;dokidoki 12
+to give;あげる;;dokidoki 12
+to become hungry / to get an empty stomach;おなかがすく;;dokidoki 12
+to complain / to make a complaint;もんくをいう;;dokidoki 12
+to fly / to soar;とぶ;;dokidoki 12
+to give;くれる;;dokidoki 12
+to consult;そうだんする;;dokidoki 12
+to suit / to match;にあう;;dokidoki 12
+getting in touch / to contact someone;れんらくする;;dokidoki 12
+event;イベント;;dokidoki 12
+birthday;たんじょうび;;dokidoki 12
+moving (dwelling, office, etc.) / changing residence;ひっこし;;dokidoki 12
+school entrance ceremony;にゅうがくしき;;dokidoki 12
+graduation ceremony / commencement;そつぎょうしき;;dokidoki 12
+athletic meet (esp. at school) / sports day;うんどうかい;;dokidoki 12
+year-end party / "forget-the-year" party / bōnenkai;ぼうねんかい;;dokidoki 12
+Valentine's Day;バレンタインデー;;dokidoki 12
+cherry blossom viewing / flower viewing;はなみ;;dokidoki 12
+festival;まつり;;dokidoki 12
+display of fireworks / firework(s) display;はなびたいかい;;dokidoki 12
+marriage ceremony;けっこんしき;;dokidoki 12
+funeral;おそうしき;;dokidoki 12
+moon viewing;おつきみ;;dokidoki 12
+O-Bon / Obon / Bon Festival / Lantern Festival / Festival of the Dead;おぼん;;dokidoki 12
+festival (shrine visit) by children aged 7, 5 and 3;しちごさん;;dokidoki 12
+coming-of-age ceremony;せいじんしき;;dokidoki 12
+Children's Day (national holiday / May 5);こどものひ;;dokidoki 12
+Hinamatsuri (March 3) / Girls' Festival / Dolls' Festival;ひなまつり;;dokidoki 12
+first shrine visit of New Year;はつもうで;;dokidoki 12
+visiting a grave;おはかまいり;;dokidoki 12
+picture / drawing / painting / sketch;え;;dokidoki 13
+movie theatre / movie theater / cinema;えいがかん;;dokidoki 13
+foreigner;がいこくじん;;dokidoki 13
+furniture;かぐ;;dokidoki 13
+sword (esp. Japanese single-edged) / katana;かたな;;dokidoki 13
+sightseeing / tourism;かんこう;;dokidoki 13
+earthquake;じしん;;dokidoki 13
+(short) jacket / blouson / windbreaker / jumper;ジャンバー;;dokidoki 13
+(social) custom;しゅうかん;;dokidoki 13
+tax / duty;ぜいきん;;dokidoki 13
+deadline / closing / cut-off / end;しめきり;;dokidoki 13
+soba / Japanese buckwheat noodles;そば;;dokidoki 13
+recently / lately;さいきん;;dokidoki 13
+direct (nonstop) flight;ちょっこうびん;;dokidoki 13
+machine / mechanism;きかい;;dokidoki 13
+coat;コート;;dokidoki 13
+map;ちず;;dokidoki 13
+battery / cell;でんち;;dokidoki 13
+garden;にわ;;dokidoki 13
+announcement / statement;はっぴょう;;dokidoki 13
+program (e.g. TV) / programme;ばんぐみ;;dokidoki 13
+(swimming) pool;プール;;dokidoki 13
+pet;ペット;;dokidoki 13
+son;むすこ;;dokidoki 13
+daughter;むすめ;;dokidoki 13
+plans / schedule / programme;よてい;;dokidoki 13
+traditional inn;りょかん;;dokidoki 13
+discount coupon or ticket;わりびきけん;;dokidoki 13
+one day ticket;いちにちけん;;dokidoki 13
+going through / going via / going by way of;けいゆ;;dokidoki 13
+vending machine;はんばいき;;dokidoki 13
+validation;ゆうこうか;;dokidoki 13
+stinking / smelly;くさい;;dokidoki 13
+good scent / odor;いいにおい;;dokidoki 13
+enthusiastic;ねっしんな;;dokidoki 13
+not serious;ふまじめな;;dokidoki 13
+to collect / to assemble / to gather;あつめる;;dokidoki 13
+to move;うごく;;dokidoki 13
+to draw / to paint;かく;;dokidoki 13
+to choose / to select;えらぶ;;dokidoki 13
+to get in touch / to contact someone;れんらくする;;dokidoki 13
+to accumulate / to save up;ためる;;dokidoki 13
+to order;ちゅうもんする;;dokidoki 13
+to stop (moving) / to come to a stop;とまる;;dokidoki 13
+to get angry / to get mad;おこる;;dokidoki 13
+dog;いぬ;;dokidoki 13
+fish;さかな;;dokidoki 13
+bird;鳥;;dokidoki 13
+cat;ねこ;;dokidoki 13
+guinea pig;モルモット;;dokidoki 13
+koi (fish) / (romantic) love / deep (colour) / strong (flavour);こい;;dokidoki 13
+tableware;しょっき;;dokidoki 13
+fork;フォーク;;dokidoki 13
+knife;ナイフ;;dokidoki 13
+spoon;スプーン;;dokidoki 13
+chopsticks;おはし;;dokidoki 13
+bowl;おわん;;dokidoki 13
+plate;さら;;dokidoki 13
+chopstick rest;はしおき;;dokidoki 13
+toothpick;つまようじ;;dokidoki 13
+tumble dryer / tumbler / tumbler dryer;タンブラー;;dokidoki 13
+lunch box;べんとうばこ;;dokidoki 13
+paper cup;かみコップ;;dokidoki 13
+dispensable chopsticks / throwaway chopsticks;わりばし;;dokidoki 13
+rice bowl;おちゃわん;;dokidoki 13
+teapot;きゅうす;;dokidoki 13
+cup;コップ;;dokidoki 13
+glass;グラス;;dokidoki 13

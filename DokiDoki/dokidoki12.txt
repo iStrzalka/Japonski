@@ -1,0 +1,74 @@
+same / identical / equal;おなじ;;dokidoki 12
+uncle;おじさん;;dokidoki 12
+landlord / landlady;おおやさん;;dokidoki 12
+parent-in-law / parents-in-law;ぎりはは;;dokidoki 12
+father-in-law / foster father / stepfather;ぎりちち;;dokidoki 12
+(my) older brother;あに;;dokidoki 12
+(my) husband;おっと;;dokidoki 12
+(my) wife;つま;;dokidoki 12
+(someone's) wife;おくさん;;dokidoki 12
+aunt;おばさん;;dokidoki 12
+rose;ばら;;dokidoki 12
+government / administration;せいふ;;dokidoki 12
+club;クラブ;;dokidoki 12
+(someone's) husband;ごしゅじん;;dokidoki 12
+cup;コップ;;dokidoki 12
+plate;さら;;dokidoki 12
+time;じかん;;dokidoki 12
+precisely / exactly;ちょうど;;dokidoki 12
+chocolate;チョコレート;;dokidoki 12
+email;メール;;dokidoki 12
+stuffed toy / plush toy;ぬいぐるみ;;dokidoki 12
+tissue;ティッシュ;;dokidoki 12
+cousin;いとこ;;dokidoki 12
+tie / necktie;ネクタイ;;dokidoki 12
+obligation chocolate / chocolate given by women to male colleagues, etc. out of obligation on Valentine's day;ぎりチョコ;;dokidoki 12
+chocolate given to a man on Valentine's day out of genuine sentiment;ほんめいチョコ;;dokidoki 12
+White Day (March 14) / day for giving white chocolate and other presents to female coworkers and friends in return for gifts received on Valentine's day;ホワイトデー;;dokidoki 12
+video camera;ビデオカメラ;;dokidoki 12
+married couple / husband and wife / man and wife;ふうふ;;dokidoki 12
+muffler / scarf / comforter;マフラー;;dokidoki 12
+rose;ばら;;dokidoki 12
+manga;まんが;;dokidoki 12
+mansion;マンション;;dokidoki 12
+mandarin orange;みかん;;dokidoki 12
+(finger) ring;ゆびわ;;dokidoki 12
+parents / both parents;りょうしん;;dokidoki 12
+personal history;りれきしょ;;dokidoki 12
+we / us;わたしたち;;dokidoki 12
+you (plural);あなたたち;;dokidoki 12
+they / them;かれら;;dokidoki 12
+how many;いくつ;;dokidoki 12
+salary / wages / pay;きゅうりょう;;dokidoki 12
+wish / want / in need of;ほしい;;dokidoki 12
+shabby / cheap / stingy;けち;;dokidoki 12
+generous;ふとっぱら;;dokidoki 12
+to give;あげる;;dokidoki 12
+to become hungry / to get an empty stomach;おなかがすく;;dokidoki 12
+to complain / to make a complaint;もんくをいう;;dokidoki 12
+to fly / to soar;とぶ;;dokidoki 12
+to give;くれる;;dokidoki 12
+to consult;そうだんする;;dokidoki 12
+to suit / to match;にあう;;dokidoki 12
+getting in touch / to contact someone;れんらくする;;dokidoki 12
+event;イベント;;dokidoki 12
+birthday;たんじょうび;;dokidoki 12
+moving (dwelling, office, etc.) / changing residence;ひっこし;;dokidoki 12
+school entrance ceremony;にゅうがくしき;;dokidoki 12
+graduation ceremony / commencement;そつぎょうしき;;dokidoki 12
+athletic meet (esp. at school) / sports day;うんどうかい;;dokidoki 12
+year-end party / "forget-the-year" party / bōnenkai;ぼうねんかい;;dokidoki 12
+Valentine's Day;バレンタインデー;;dokidoki 12
+cherry blossom viewing / flower viewing;はなみ;;dokidoki 12
+festival;まつり;;dokidoki 12
+display of fireworks / firework(s) display;はなびたいかい;;dokidoki 12
+marriage ceremony;けっこんしき;;dokidoki 12
+funeral;おそうしき;;dokidoki 12
+moon viewing;おつきみ;;dokidoki 12
+O-Bon / Obon / Bon Festival / Lantern Festival / Festival of the Dead;おぼん;;dokidoki 12
+festival (shrine visit) by children aged 7, 5 and 3;しちごさん;;dokidoki 12
+coming-of-age ceremony;せいじんしき;;dokidoki 12
+Children's Day (national holiday / May 5);こどものひ;;dokidoki 12
+Hinamatsuri (March 3) / Girls' Festival / Dolls' Festival;ひなまつり;;dokidoki 12
+first shrine visit of New Year;はつもうで;;dokidoki 12
+visiting a grave;おはかまいり;;dokidoki 12

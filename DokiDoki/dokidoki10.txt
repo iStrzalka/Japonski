@@ -1,0 +1,73 @@
+meaning / significance / sense;いみ;;dokidoki 10
+the world / society;せかい;;dokidoki 10
+glove;てぶくろ;;dokidoki 10
+face;かお;;dokidoki 10
+adult / grown-up;おとな;;dokidoki 10
+stairs;かいだん;;dokidoki 10
+body;からだ;;dokidoki 10
+language / dialect;ことば;;dokidoki 10
+absolutely / definitely ;ぜったいに;;dokidoki 10
+match / game;しあい;;dokidoki 10
+reservation / appointment / booking;よやく;;dokidoki 10
+map;ちず;;dokidoki 10
+question (e.g. on a test) / problem;もんだい;;dokidoki 10
+some time ago / recently / lately;このまえ;;dokidoki 10
+how long / how far / how much;どのぐらい;;dokidoki 10
+congratulations;おめでとうございます;;dokidoki 10
+I'm afraid to say;ざんねんながら;;dokidoki 10
+to examine / to look up / to inverstigate;しらべる;;dokidoki 10
+to answer / to reply;こたえる;;dokidoki 10
+to be troubled / to have difficulty;こまる;;dokidoki 10
+to request / to beg / to ask;たのむ;;dokidoki 10
+to pray / to wish;いのる;;dokidoki 10
+to take off (clothes);ぬぐ;;dokidoki 10
+to show / to display;みせる;;dokidoki 10
+to be seen / to look;みえる;;dokidoki 10
+to be heard;きこえる;;dokidoki 10
+to be interested (in something) / curiosity (about something);きょうみがある;;dokidoki 10
+to be nervous;きんちょうする;;dokidoki 10
+to ask a question;しつもんする;;dokidoki 10
+to talk / to chat / to chatter;しゃべる;;dokidoki 10
+special someone / precious one;たいせつな;;dokidoki 10
+fat / thick;ふとい;;dokidoki 10
+thin / slender / fine;ほそい;;dokidoki 10
+weird;へんな;;dokidoki 10
+round / circular / spherical;まるい;;dokidoki 10
+square / rectangular;しかくい;;dokidoki 10
+strong / potent;つよい;;dokidoki 10
+weak;よわい;;dokidoki 10
+sunny / clear weather;はれ;;dokidoki 10
+to clear up;はれる;;dokidoki 10
+cloudy with light flashes;はれときどきくもり;;dokidoki 10
+cloudy;くもり;;dokidoki 10
+to get cloudy;くもる;;dokidoki 10
+rain;あめ;;dokidoki 10
+snow / snowfall;ゆき;;dokidoki 10
+(common) cold;かぜ;;dokidoki 10
+storm / tempest;あらし;;dokidoki 10
+weather forecast / weather report;てんきよほう;;dokidoki 10
+nature;しぜん;;dokidoki 10
+desert;さばく;;dokidoki 10
+island;しま;;dokidoki 10
+beach;ビーチ;;dokidoki 10
+waterfall;たき;;dokidoki 10
+forest;もり;;dokidoki 10
+pond;いけ;;dokidoki 10
+plant;しょくぶつ;;dokidoki 10
+animal;どうぶつ;;dokidoki 10
+lake;みずうみ;;dokidoki 10
+woods / forest;はやし;;dokidoki 10
+hill / height;おか;;dokidoki 10
+mountain range / mountain belt;さんみゃく;;dokidoki 10
+occupation / profession / job;しょくぎょう;;dokidoki 10
+painter / artist;がか;;dokidoki 10
+employee (of a store);てんいん;;dokidoki 10
+police officer / policeman / policewoman;けいさつかん;;dokidoki 10
+professor;きょうじゅ;;dokidoki 10
+cook / chef;コック;;dokidoki 10
+language interpreter;つうやく;;dokidoki 10
+government worker;こうむいん;;dokidoki 10
+buddhist priest / monk;おぼうさん;;dokidoki 10
+coming-of-age ceremony;せいじんしき;;dokidoki 10
+actor / actress / player / performer;はいゆう;;dokidoki 10
+actress / female actor;じょゆう;;dokidoki 10

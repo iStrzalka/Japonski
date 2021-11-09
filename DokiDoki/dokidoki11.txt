@@ -1,0 +1,61 @@
+waiter;ウェイター;;dokidoki 11
+grandfather;おじいさん;;dokidoki 11
+grandmother;おばあさん;;dokidoki 11
+adult / grown-up;おとな;;dokidoki 11
+foreign language;がいこくご;;dokidoki 11
+karate;からて;;dokidoki 11
+curry (esp. Japanese curry);カレー;;dokidoki 11
+kimono / Japanese traditional clothing (esp. full-length);きもの;;dokidoki 11
+cake;ケーキ;;dokidoki 11
+black tea;こうちゃ;;dokidoki 11
+advertisement / advertising;こうこく;;dokidoki 11
+language / word / dialect;ことば;;dokidoki 11
+golf;ゴルフ;;dokidoki 11
+elephant;ぞう;;dokidoki 11
+violin;バイオリン;;dokidoki 11
+motorcycle / motorbike;バイク;;dokidoki 11
+school term / semester;がっき;;dokidoki 11
+ladybug;てんとうむし;;dokidoki 11
+please do / please take care of;よろしくおねがいします;;dokidoki 11
+pronunciation;はつおん;;dokidoki 11
+prices (in general);ぶっか;;dokidoki 11
+grammar;ぶんぽう;;dokidoki 11
+lawyer / attorney;べんごし;;dokidoki 11
+insurance / guarantee;ほけん;;dokidoki 11
+recruitment / invitation / selection;ぼしゅう;;dokidoki 11
+appointment;まちあわせ;;dokidoki 11
+store / shop / establishment / restaurant;みせ;;dokidoki 11
+yakuza;やくざ;;dokidoki 11
+promise;やくそく;;dokidoki 11
+report / paper;レポート;;dokidoki 11
+I / me (official);わたくし;;dokidoki 11
+to be honest / to tell you the truth;じつは;;dokidoki 11
+all / entire / whole / altogether;ぜんぶ;;dokidoki 11
+scenery / scene / landscape;けしき;;dokidoki 11
+ladybug;てんとうむし;;dokidoki 11
+to give up / to abandon (hope, plans);あきらめる;;dokidoki 11
+to sell;うる;;dokidoki 11
+to touch / to feel;さわる;;dokidoki 11
+to be late / to be delayed;おくれる;;dokidoki 11
+to delay / to postpone;おくらせる;;dokidoki 11
+to be careful / to pay attention / to take care;きをつける;;dokidoki 11
+to do / to cost;する;;dokidoki 11
+to arrive at / to reach;つく;;dokidoki 11
+hindrance / obstacle / nuisance;じゃまする;;dokidoki 11
+to suit / to match / to become / to be like;にあう;;dokidoki 11
+to apologize / to apologise;あやまる;;dokidoki 11
+consultation / discussion;そうだんする;;dokidoki 11
+to knit / to plait / to braid;あむ;;dokidoki 11
+insurance / guarantee;ほけんにはいる;;dokidoki 11
+engagement / betrothal;こんやくする;;dokidoki 11
+graduation / completion (of a course);そつぎょうする;;dokidoki 11
+(marriage) proposal;プロポーズする;;dokidoki 11
+table tennis / ping-pong;たっきゅうする;;dokidoki 11
+light / well-lit / well-lighted;あかるい;;dokidoki 11
+dark / gloomy / murky;くらい;;dokidoki 11
+feel sick / feel unwell;きぶんがわるい;;dokidoki 11
+feel good (pleasant);きぶんがいい;;dokidoki 11
+fresh;しんせん;;dokidoki 11
+embarassed / shy;はずかしい;;dokidoki 11
+good feeling / feeling good;きもちがいい;;dokidoki 11
+bad feeling / disgusting;きもちがわるい;;dokidoki 11
