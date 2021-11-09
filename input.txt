@@ -1,0 +1,242 @@
+えき
+dworzec
+now
+おかし
+słodycze
+now
+おしょうがつ
+nowy rok
+now
+おとこのこ
+chłopiec
+now
+おんなのこ
+dziewczynka
+now
+おもちゃ
+zabawka
+now
+ページ
+strona
+now
+もの
+rzecz
+now
+かれし
+chłopak
+now
+かのじょ
+dziewczyna
+now
+ゆき
+śnieg
+now
+りゅうがくせい
+student z wymiany
+now
+あとで
+później
+now
+おそく
+późno
+now
+おだいじに
+dbaj o siebie
+now
+けっこうです
+tyle wystarczy, dziękuję
+now
+すぐ
+natychmiast
+now
+ただ
+darmowy
+now
+つぎ
+następny
+now
+どうしよう
+co powinienem z tym (problemem) zrobić?
+now
+つとめる
+być zatrudnionym
+now
+けっこんする
+mieć ślub
+now
+あめがふる
+pada deszcz
+now
+ふとる
+być grubym
+now
+やせる
+być chudym
+now
+しる
+znać
+now
+すむ
+mieszkać
+now
+きる
+mieć na sobie (od pasa w górę)
+now
+はく
+mieć na sobie (od pasa w dół)
+now
+かぶる
+nosić na głowie
+now
+する
+tu: nosić dodatki
+now
+ちがう
+różnić się
+now
+せがたかい
+wysoki
+now
+せがひくい
+niski
+now
+あたまがいい
+mądry
+now
+あたまがわるい
+głupi
+now
+ちち
+(mój) tata
+now
+はは
+(moja) mama
+now
+あに
+(mój) starszy brat
+now
+あね
+(moja) starsza siostra
+now
+そぼ
+(moja) babcia
+now
+そふ
+(mój)dziadek
+now
+しゅじん
+(mój) mąż
+now
+だんなさん
+(cudzy) mąż
+now
+おくさん
+(cudza) żona
+now
+つま
+(moja) żona
+now
+ながい
+długi
+now
+みじかい
+krótki
+now
+ネックレス
+naszyjnik
+now
+ネクタイ
+krawat
+now
+マフラー
+szalik
+now
+めがね
+okulary
+now
+ゆびわ
+pierścionek
+now
+スカート
+spódnica
+now
+キャップ
+czapka z daszkiem
+now
+ハイヒール
+buty na obcasie
+now
+スーツ
+garnitur
+now
+スニーカー
+trampki
+now
+せいふく
+mundurek
+now
+ズボン
+spodnie
+now
+コート
+płaszcz
+now
+ジャンパー
+kurtka
+now
+ジャージ
+dres
+now
+セーター
+sweter
+now
+シャツ
+koszula
+now
+トレーナー
+bluza
+now
+ワンピース
+sukienka
+now
+Tシャツ
+T-shirt
+now
+いろ
+kolor
+now
+しろい
+biały
+now
+くろい
+czarny
+now
+あかい
+czerwony
+now
+オレンジいろの
+pomarańczowy
+now
+きいろい
+żółty
+now
+みどりいろの
+zielony
+now
+あおい
+niebieski
+now
+むらさきいろの
+fioletowy
+now
+ピンクいろの
+różowy
+now
+ちゃいろい
+brązowy
+now
+きんいろの
+złoty
+now
+ぎんいろの
+srebrny

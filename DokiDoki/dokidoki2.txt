@@ -1,0 +1,86 @@
+teacher / instructor / master;sensei;;dokidoki 2
+friends;tomodachi;;dokidoki 2
+yes / that is correct;hai;;dokidoki 2
+no / nay;iie;;dokidoki 2
+game;geemu;;dokidoki 2
+date;deeto;;dokidoki 2
+music;ongaku;;dokidoki 2
+sport;supootsu;;dokidoki 2
+cooked rice / meal;gohan;;dokidoki 2
+breakfast;asagohan;;dokidoki 2
+lunch / midday meal;hirugohan;;dokidoki 2
+dinner / evening meal;bangohan;;dokidoki 2
+meat;niku;;dokidoki 2
+vegetable;yasai;;dokidoki 2
+fish;sakana;;dokidoki 2
+bread / (sweet) pastry;pan;;dokidoki 2
+alcohol / sake;sake;;dokidoki 2
+water;mizu;;dokidoki 2
+tea (usu. green);ocha;;dokidoki 2
+coffee;koohii;;dokidoki 2
+tonkatsu / breaded pork cutlet;tonkatsu;;dokidoki 2
+sandwich;sandoicchi;;dokidoki 2
+pencil;enpitsu;;dokidoki 2
+umbrella / parasol;kasa;;dokidoki 2
+bag;kaban;;dokidoki 2
+television / TV;terebi;;dokidoki 2
+jeans;jiinzu;;dokidoki 2
+dictionary / lexicon;jisho;;dokidoki 2
+bicycle / bike;jitensha;;dokidoki 2
+newspaper;shinbun;;dokidoki 2
+journal / magazine / periodical;zasshi;;dokidoki 2
+place / location / spot / position;basho;;dokidoki 2
+house / home;ie;;dokidoki 2
+house / home;uchi;;dokidoki 2
+toilet;otearai;;dokidoki 2
+temple;otera;;dokidoki 2
+coffee shop / cafe;kissaten;;dokidoki 2
+bank;ginkoo;;dokidoki 2
+park;kooen;;dokidoki 2
+supermarket;suupaa;;dokidoki 2
+bus stop;basutei;;dokidoki 2
+hospital;byooin;;dokidoki 2
+hotel;hoteru;;dokidoki 2
+bookstore;honya;;dokidoki 2
+town;machi;;dokidoki 2
+post office;yuubinkyoku;;dokidoki 2
+restaurant (esp. Western-style);resutoran;;dokidoki 2
+department store;depaato;;dokidoki 2
+library;toshokan;;dokidoki 2
+art gallery / art museum;bijutsukan;;dokidoki 2
+to wake up / to be awake / to stay awake;okiru;;dokidoki 2
+to eat;taberu;;dokidoki 2
+to sleep (lying down);neru;;dokidoki 2
+to see / to look / to watch;miru;;dokidoki 2
+to walk;iku;;dokidoki 2
+to return / to come home / to go home / to go back;kaeru;;dokidoki 2
+to hear;kiku;;dokidoki 2
+to drink;nomu;;dokidoki 2
+to talk / to speak;hanasu;;dokidoki 2
+to read;yomu;;dokidoki 2
+to buy / to purchase;kau;;dokidoki 2
+to do ;suru;;dokidoki 2
+to come / to approach;kuru;;dokidoki 2
+to learn;benkyoo suru;;dokidoki 2
+today;kyoo;;dokidoki 2
+yesterday;kinoo;;dokidoki 2
+tomorrow;ashita;;dokidoki 2
+weekend;shuumatsu;;dokidoki 2
+tonight / this evening;konban;;dokidoki 2
+every day;mainichi;;dokidoki 2
+every morning;maiasa;;dokidoki 2
+every night;maiban;;dokidoki 2
+every week;maishuu;;dokidoki 2
+delicious / tasty / sweet;oishii;;dokidoki 2
+bad (taste) / awful / terrible / unpleasant;mazui;;dokidoki 2
+high / expensive ;takai;;dokidoki 2
+cheap / inexpensive;yasui;;dokidoki 2
+mother / mom;okaasan;;dokidoki 2
+dad;otoosan;;dokidoki 2
+older brother / elder brother;oniisan;;dokidoki 2
+older sister / elder sister;oneesan;;dokidoki 2
+younger sister;imooto;;dokidoki 2
+younger brother;otooto;;dokidoki 2
+grandfather;ojiisan;;dokidoki 2
+grandmother;obaasan;;dokidoki 2
+family;kazoku;;dokidoki 2

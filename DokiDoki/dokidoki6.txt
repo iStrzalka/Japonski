@@ -1,0 +1,81 @@
+railway station / train station;えき;;dokidoki 6
+candy / cake / sweets;おかし;;dokidoki 6
+New Year (esp. first three days);おしょうがつ;;dokidoki 6
+boy / son / baby boy;おとこのこ;;dokidoki 6
+girl / daughter / baby girl;おんなのこ;;dokidoki 6
+toy;おもちゃ;;dokidoki 6
+page;ページ;;dokidoki 6
+thing / object;もの;;dokidoki 6
+boyfriend;かれし;;dokidoki 6
+girlfriend;かのじょ;;dokidoki 6
+snow / snowfall;ゆき;;dokidoki 6
+overseas student / exchange student;りゅうがくせい;;dokidoki 6
+afterwards;あとで;;dokidoki 6
+late;おそく;;dokidoki 6
+take care of yourself;おだいじに;;dokidoki 6
+splendid / nice / wonderful;けっこうです;;dokidoki 6
+immediately / right away;すぐ;;dokidoki 6
+free of charge;ただ;;dokidoki 6
+next / following;つぎ;;dokidoki 6
+what to do;どうしよう;;dokidoki 6
+to work (for) / to be employed (at);つとめる;;dokidoki 6
+marriage;けっこんする;;dokidoki 6
+to rain;あめがふる;;dokidoki 6
+to put on weight;ふとる;;dokidoki 6
+to lose weight;やせる;;dokidoki 6
+to know / to be aware / to learn;しる;;dokidoki 6
+to live / to reside;すむ;;dokidoki 6
+to wear (in modern Japanese, from the shoulders down) / to put on;きる;;dokidoki 6
+to put on (lower-body clothing, e.g. pants, skirt, footwear) / to wear;はく;;dokidoki 6
+to put on (one's head) / to wear;かぶる;;dokidoki 6
+to do / to carry out / to perform;する;;dokidoki 6
+to differ (from) / to vary;ちがう;;dokidoki 6
+tall (of a person);せがたかい;;dokidoki 6
+short (of a person);せがひくい;;dokidoki 6
+bright / intelligent;あたまがいい;;dokidoki 6
+dumb;あたまがわるい;;dokidoki 6
+(my) father;ちち;;dokidoki 6
+(my) mother;はは;;dokidoki 6
+(my) older brother;あに;;dokidoki 6
+(my) older sister;あね;;dokidoki 6
+(my) grandmother;そぼ;;dokidoki 6
+(my) grandfather;そふ;;dokidoki 6
+(my) husband;しゅじん;;dokidoki 6
+(someone's) husband;だんなさん;;dokidoki 6
+(someone's) wife;おくさん;;dokidoki 6
+(my) wife;つま;;dokidoki 6
+long (distance, length);ながい;;dokidoki 6
+short;みじかい;;dokidoki 6
+necklace;ネックレス;;dokidoki 6
+tie / necktie;ネクタイ;;dokidoki 6
+muffler / scarf / comforter;マフラー;;dokidoki 6
+glasses;めがね;;dokidoki 6
+(finger) ring;ゆびわ;;dokidoki 6
+skirt;スカート;;dokidoki 6
+cap (headwear);キャップ;;dokidoki 6
+high heels / high-heeled shoes;ハイヒール;;dokidoki 6
+suit (clothing);スーツ;;dokidoki 6
+sneaker / sneakers;スニーカー;;dokidoki 6
+uniform;せいふく;;dokidoki 6
+trousers / pants;ズボン;;dokidoki 6
+coat;コート;;dokidoki 6
+jumper;ジャンパー;;dokidoki 6
+jersey (fabric);ジャージ;;dokidoki 6
+sweater / jumper;セーター;;dokidoki 6
+shirt (undergarment) / undershirt / singlet;シャツ;;dokidoki 6
+sweatshirt;トレーナー;;dokidoki 6
+one-piece;ワンピース;;dokidoki 6
+T-shirt;Tシャツ;;dokidoki 6
+color;いろ;;dokidoki 6
+white;しろい;;dokidoki 6
+black;くろい;;dokidoki 6
+red;あかい;;dokidoki 6
+orange (colour, color);オレンジいろの;;dokidoki 6
+yellow;きいろい;;dokidoki 6
+green;みどりいろの;;dokidoki 6
+blue / azure;あおい;;dokidoki 6
+purple / violet;むらさきいろの;;dokidoki 6
+pink;ピンクいろの;;dokidoki 6
+light brown;ちゃいろい;;dokidoki 6
+gold (colour, color);きんいろの;;dokidoki 6
+silver (color, colour);ぎんいろの;;dokidoki 6

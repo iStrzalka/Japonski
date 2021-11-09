@@ -1,0 +1,83 @@
+homework / assignment;しゅくだい;;dokidoki 5
+weather;てんき;;dokidoki 5
+postcard;はがき;;dokidoki 5
+I / me (male ver.);ぼく;;dokidoki 5
+rest / vacation / holiday / absence / suspention;やすみ;;dokidoki 5
+certainly / without fail;ぜひ;;dokidoki 5
+this time / now;こんど;;dokidoki 5
+OK / all right / without a problem / safe;だいじょうぶ;;dokidoki 5
+perhaps / probably;たぶん;;dokidoki 5
+as much as possible;できるだけ;;dokidoki 5
+very / awfully / exceedingly;とても;;dokidoki 5
+what kind of / what sort of / what;どんな;;dokidoki 5
+for the first time;はじめて;;dokidoki 5
+tennis;テニス;;dokidoki 5
+basketball;バスケットボール;;dokidoki 5
+volleyball;バレーボール;;dokidoki 5
+surfing;サーフィン;;dokidoki 5
+skiing;スキー;;dokidoki 5
+swimming;すいえい;;dokidoki 5
+jogging;ジョギング;;dokidoki 5
+soccer;サッカー;;dokidoki 5
+hiking;ハイキング;;dokidoki 5
+baseball;やきゅう;;dokidoki 5
+to leave / to go out;でる;;dokidoki 5
+to sit / to squat;すわる;;dokidoki 5
+to stand / to rise / to stand up;たつ;;dokidoki 5
+to sing;うたう;;dokidoki 5
+to wash / to cleanse / to rinse;あらう;;dokidoki 5
+to run;はしる;;dokidoki 5
+to get tired;つかれる;;dokidoki 5
+cooking;りょうりする;;dokidoki 5
+driving;うんてんする;;dokidoki 5
+cleaning;そうじする;;dokidoki 5
+new / modern / novel;あたらしい;;dokidoki 5
+old / aged ;ふるい;;dokidoki 5
+hot (touch / temperature);あつい;;dokidoki 5
+cold (temperature);さむい;;dokidoki 5
+cold (touch);つめたい;;dokidoki 5
+busy / occupied;いそがしい;;dokidoki 5
+spare time / free time / leisure;ひま;;dokidoki 5
+big / large / great;おおきい;;dokidoki 5
+small / little / tiny;ちいさい;;dokidoki 5
+interesting / fascinating;おもしろい;;dokidoki 5
+enjoyable / fun;たのしい;;dokidoki 5
+dull / uninteresting / boring / tedious;つまらない;;dokidoki 5
+cute / adorable;かわいい;;dokidoki 5
+dirty / filthy / unclean;きたない;;dokidoki 5
+pretty / lovely;きれい;;dokidoki 5
+like;すき;;dokidoki 5
+like very much / love / adore;だいすき;;dokidoki 5
+fast / quick / rapid;はやい;;dokidoki 5
+lively / busy / crowded;にぎやか;;dokidoki 5
+quiet / silent;しずか;;dokidoki 5
+lively / energetic;げんき;;dokidoki 5
+difficult / hard / troublesome / complicated / serious (disease, problem, etc.);むずかしい;;dokidoki 5
+simple / easy / uncomplicated;かんたん;;dokidoki 5
+far / distant;とおい;;dokidoki 5
+near / close / short (distance);ちかい;;dokidoki 5
+difficult / hard / very / greatly;たいへん;;dokidoki 5
+kind / gentle / considerate / generous / friendly / nice;しんせつ;;dokidoki 5
+easy / plain / simple;やさしい;;dokidoki 5
+scary / frightening;こわい;;dokidoki 5
+skilled (at) / proficient / good (at);じょうず;;dokidoki 5
+unskillful / poor / awkward;へた;;dokidoki 5
+disliked / hated / disagreeable;きらい;;dokidoki 5
+hating / strongly disliking;だいきらい;;dokidoki 5
+attractive / cool / good-looking;かっこいい;;dokidoki 5
+animal;どうぶつ;;dokidoki 5
+crow / raven;からす;;dokidoki 5
+mouse / rat;ねずみ;;dokidoki 5
+horse;うま;;dokidoki 5
+cow / bull;うし;;dokidoki 5
+snake;へび;;dokidoki 5
+rabbit;うさぎ;;dokidoki 5
+squirrel;りす;;dokidoki 5
+tortoise / turtle;かめ;;dokidoki 5
+insect / bug;むし;;dokidoki 5
+monkey;さる;;dokidoki 5
+season / time of year;きせつ;;dokidoki 5
+summer;なつ;;dokidoki 5
+spring;はる;;dokidoki 5
+autumn / fall;あき;;dokidoki 5
+winter;ふゆ;;dokidoki 5

@@ -1,0 +1,68 @@
+dog;いぬ;;dokidoki 4
+cat;ねこ;;dokidoki 4
+child;こども;;dokidoki 4
+bath;おふろ;;dokidoki 4
+shopping / purchased goods;かいもの;;dokidoki 4
+birthday;たんじょうび;;dokidoki 4
+class;クラス;;dokidoki 4
+travel / trip;りょこう;;dokidoki 4
+electricity;でんき;;dokidoki 4
+siblings / brothers and sisters;きょうだい;;dokidoki 4
+email;メール;;dokidoki 4
+smartphone / smart phone;スマホ;;dokidoki 4
+approximately / about / around / or so;ぐらい;;dokidoki 4
+one hour;いちじかん;;dokidoki 4
+alone / by oneself / on one's own;ひとりで;;dokidoki 4
+a short while ago ;さっき;;dokidoki 4
+a lot / plenty / many;たくさん;;dokidoki 4
+how / in what way / by what means;どうやって;;dokidoki 4
+hello (e.g. on phone);もしもし;;dokidoki 4
+to teach / to instruct;おしえる;;dokidoki 4
+to forget;わすれる;;dokidoki 4
+to open (door / window);あける;;dokidoki 4
+to close (door, window);しめる;;dokidoki 4
+to borrow / to have a loan;かりる;;dokidoki 4
+to attach / to turn on / to switch on;つける;;dokidoki 4
+to return (something) / to restore / to put back;かえす;;dokidoki 4
+to use (a thing);つかう;;dokidoki 4
+to help / to assist / to aid;てつだう;;dokidoki 4
+to erase / to delete / to cross out;けす;;dokidoki 4
+to walk;あるく;;dokidoki 4
+to go out / to depart;でかける;;dokidoki 4
+to take;かかる;;dokidoki 4
+to swim;およぐ;;dokidoki 4
+to get on (a train);のる;;dokidoki 4
+to descend (e.g. a mountain) / to go down / to come down;おりる;;dokidoki 4
+to play (games, sports) / to enjoy oneself / to have a good time;あそぶ;;dokidoki 4
+to die / to pass away;しぬ;;dokidoki 4
+to take a picture;しゃしんをとる;;dokidoki 4
+to wait;まつ;;dokidoki 4
+to hurry / to rush;いそぐ;;dokidoki 4
+to enter / to go into;はいる;;dokidoki 4
+to hold (in one's hand) / to take / to carry;もつ;;dokidoki 4
+to smoke a cigarette;たばこをすう;;dokidoki 4
+to bring someone along;つれてくる;;dokidoki 4
+to bring / to take (something) along / to fetch / to get;もってくる;;dokidoki 4
+textbook / coursebook / schoolbook;きょうかしょ;;dokidoki 4
+souvenir;おみやげ;;dokidoki 4
+camera;カメラ;;dokidoki 4
+luggage / baggage / package;にもつ;;dokidoki 4
+laptop / PC / personal computer;パソコン;;dokidoki 4
+ticket;きっぷ;;dokidoki 4
+bridge / chopsticks;はし;;dokidoki 4
+one person;ひとり;;dokidoki 4
+two people;ふたり;;dokidoki 4
+three people;さんにん;;dokidoki 4
+four people;よにん;;dokidoki 4
+five people;ごにん;;dokidoki 4
+how many people / a number of people;なんにん;;dokidoki 4
+vehicle / conveyance / transport;のりもの;;dokidoki 4
+bus;バス;;dokidoki 4
+train / electric train;でんしゃ;;dokidoki 4
+tram;ろめんでんしゃ;;dokidoki 4
+boat / ship;ふね;;dokidoki 4
+bicycle / bike;じてんしゃ;;dokidoki 4
+underground train / subway;ちかてつ;;dokidoki 4
+Shinkansen / bullet train;しんかんせん;;dokidoki 4
+car / automobile / vehicle;くるま;;dokidoki 4
+by foot;あるいて;;dokidoki 4

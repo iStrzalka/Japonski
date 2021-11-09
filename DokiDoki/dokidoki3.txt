@@ -1,0 +1,92 @@
+letter (message) / mail / list;てがみ;;dokidoki 3
+examination / quiz / test;テスト;;dokidoki 3
+lesson;じゅぎょう;;dokidoki 3
+movie / film;えいが;;dokidoki 3
+one's origin (e.g. city, country, parentage, school);しゅっしん;;dokidoki 3
+video;ビデオ;;dokidoki 3
+menu;メニュー;;dokidoki 3
+movie theatre / movie theater / cinema;えいがかん;;dokidoki 3
+party (celebration, etc.);パーティ;;dokidoki 3
+very / immensly;すごく;;dokidoki 3
+then / well / so / well then;じゃあ;;dokidoki 3
+of course / certainly / naturally;もちろん;;dokidoki 3
+a little / a bit / slightly;ちょっと;;dokidoki 3
+but / however / though;でも;;dokidoki 3
+how / in what way / how about;どうですか;;dokidoki 3
+a long time (since the last time) / first in a long time;ひさしぶり;;dokidoki 3
+together (with);いっしょに;;dokidoki 3
+welcome;いらっしゃいませ;;dokidoki 3
+please;おねがいします;;dokidoki 3
+go ahead / feel free to / please (help yourself to) / of course;どうぞ;;dokidoki 3
+thank you / thanks;どうも;;dokidoki 3
+that's so, isn't it;そうですね;;dokidoki 3
+desk;つくえ;;dokidoki 3
+chair / stool;いす;;dokidoki 3
+shelf / ledge / rack;たな;;dokidoki 3
+photograph / photo;しゃしん;;dokidoki 3
+bed;ベッド;;dokidoki 3
+sofa / couch;ソファ;;dokidoki 3
+table;テーブル;;dokidoki 3
+door (Western-style, car, etc.);ドア;;dokidoki 3
+window;まど;;dokidoki 3
+lamp / light;ランプ;;dokidoki 3
+pasta;パスタ;;dokidoki 3
+hamburger (on a bun);ハンバーガー;;dokidoki 3
+salad;サラダ;;dokidoki 3
+pizza;ピザ;;dokidoki 3
+ice cream / icecream;アイスクリーム;;dokidoki 3
+chocolate;チョコレート;;dokidoki 3
+juice;ジュース;;dokidoki 3
+cola;コーラ;;dokidoki 3
+(cow's) milk;ぎゅうにゅう;;dokidoki 3
+morning;あさ;;dokidoki 3
+noon / midday;ひる;;dokidoki 3
+evening / night;よる;;dokidoki 3
+when / at what time / how soon;いつ;;dokidoki 3
+always / all the time / at all times;いつも;;dokidoki 3
+last week / the week before;せんしゅう;;dokidoki 3
+this week;こんしゅう;;dokidoki 3
+next week;らいしゅう;;dokidoki 3
+every week;まいしゅう;;dokidoki 3
+mostly / generally / usually;たいてい;;dokidoki 3
+right / right-hand side;みぎ;;dokidoki 3
+left / left hand side;ひだり;;dokidoki 3
+in front (of);まえ;;dokidoki 3
+back / behind / rear;うしろ;;dokidoki 3
+above;うえ;;dokidoki 3
+below;した;;dokidoki 3
+inside / interior;なか;;dokidoki 3
+soba / Japanese buckwheat noodles;そば;;dokidoki 3
+next (to);となり;;dokidoki 3
+between (two parties or things);あいだ;;dokidoki 3
+Monday;げつようび;;dokidoki 3
+Tuesday;かようび;;dokidoki 3
+Wednesday;すいようび;;dokidoki 3
+Thursday;もくようび;;dokidoki 3
+Friday;きんようび;;dokidoki 3
+Saturday;どようび;;dokidoki 3
+Sunday;にちようび;;dokidoki 3
+what day? / what day of the week?;なんようび;;dokidoki 3
+good / excellent / fine / nice / pleasant / agreeable;いい;;dokidoki 3
+bad / poor / undesirable;わるい;;dokidoki 3
+slow / time-consuming / sluggish;おそい;;dokidoki 3
+fast / quick / rapid;はやい;;dokidoki 3
+to be / to exists / to live (non-living);ある;;dokidoki 3
+to be / to exist / to live (living);いる;;dokidoki 3
+to be absent / to rest;やすむ;;dokidoki 3
+to meet / to encounter / to see;あう;;dokidoki 3
+to understand / to comprehend;わかる;;dokidoki 3
+to write;かく;;dokidoki 3
+to send (a thing eg. letter);おくる;;dokidoki 3
+to work;はたらく;;dokidoki 3
+one (thing);ひとつ;;dokidoki 3
+two (things);ふたつ;;dokidoki 3
+three (things);みっつ;;dokidoki 3
+four (things);よっつ;;dokidoki 3
+five (things);いつつ;;dokidoki 3
+six (things);むっつ;;dokidoki 3
+seven (things);ななつ;;dokidoki 3
+eight (things);やっつ;;dokidoki 3
+nine (things);ここのつ;;dokidoki 3
+ten (things);とお;;dokidoki 3
+how many;いくつ;;dokidoki 3

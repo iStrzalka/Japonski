@@ -1,0 +1,82 @@
+I / me;watashi;;dokidoki 1
+you;anata;;dokidoki 1
+he / him;kare;;dokidoki 1
+she / her;kanojo;;dokidoki 1
+who;dare;;dokidoki 1
+person / someone / somebody;hito;;dokidoki 1
+people / everybody / each person;hitobito;;dokidoki 1
+school;gakkoo;;dokidoki 1
+primary school;shoogakkoo;;dokidoki 1
+primary school student;shoogakusei;;dokidoki 1
+middle school;chuugakkoo;;dokidoki 1
+junior high school student / middle school pupil;chuugakusei;;dokidoki 1
+high school;kookoo;;dokidoki 1
+high school student;kookoosei;;dokidoki 1
+university / college;daigaku;;dokidoki 1
+university student / college student;daigakusei;;dokidoki 1
+graduate school;daigakuin;;dokidoki 1
+graduate student;daigakuinsei;;dokidoki 1
+work;shigoto;;dokidoki 1
+(medical) doctor;isha;;dokidoki 1
+office worker;kaishain;;dokidoki 1
+student (esp. a university student);gakusei;;dokidoki 1
+police officer;keisatsukan;;dokidoki 1
+housewife;shufu;;dokidoki 1
+speciality;senkoo;;dokidoki 1
+English (language);eigo;;dokidoki 1
+education / teaching;kyouiku;;dokidoki 1
+economy / economics;keizai;;dokidoki 1
+computer;konpyuutaa;;dokidoki 1
+politics / government;seiji;;dokidoki 1
+art / fine arts;bijutsu;;dokidoki 1
+literature;bungaku;;dokidoki 1
+history;rekishi;;dokidoki 1
+(United States of) America / United States / US / USA;amerika;;dokidoki 1
+Great Britain / United Kingdom;igirisu;;dokidoki 1
+South Korea;kankoku;;dokidoki 1
+China;chuugoku;;dokidoki 1
+Germany;doitsu;;dokidoki 1
+Japan;nihon;;dokidoki 1
+France;furansu;;dokidoki 1
+Poland;poorando;;dokidoki 1
+Russia;roshia;;dokidoki 1
+living room;ima;;dokidoki 1
+time;jikan;;dokidoki 1
+afternoon / p.m.;gogo;;dokidoki 1
+morning / a.m.;gozen;;dokidoki 1
+half / semi-;han;;dokidoki 1
+thing / object;mono;;dokidoki 1
+book;hon;;dokidoki 1
+pen;pen;;dokidoki 1
+notebook;nooto;;dokidoki 1
+flower;hana;;dokidoki 1
+purse / handbag / wallet;saifu;;dokidoki 1
+telephone;denwa;;dokidoki 1
+clock;tokei;;dokidoki 1
+clothes (esp. Western clothes);fuku;;dokidoki 1
+hat / cap;booshi;;dokidoki 1
+sweatshirt;toreenaa;;dokidoki 1
+sweater / jumper;seetaa;;dokidoki 1
+boots / shoes;kutsu;;dokidoki 1
+number;bangoo;;dokidoki 1
+name;namae;;dokidoki 1
+what;nan/nani;;dokidoki 1
+~language;go;;dokidoki 1
+-years-old;sai;;dokidoki 1
+Mr. / Mrs. / Miss / Ms. / -san;san;;dokidoki 1
+hour / o'clock;ji;;dokidoki 1
+nationality;jin;;dokidoki 1
+student in ... year;nensei;;dokidoki 1
+hundred / 100;hyaku;;dokidoki 1
+1,000 / thousand;sen;;dokidoki 1
+10000 / ten thousand;ichi man;;dokidoki 1
+4 o'clock;yo ji;;dokidoki 1
+seven o'clock;shichi ji;;dokidoki 1
+9 o'clock;ku ji;;dokidoki 1
+20 years old;hatachi;;dokidoki 1
+21 years old;nijuuissai;;dokidoki 1
+18 years old;juuhassai;;dokidoki 1
+10 minutes;juppun;;dokidoki 1
+20 minutes;nijuppun;;dokidoki 1
+15 minutes;juugofun;;dokidoki 1
+25 minutes;nijuugofun;;dokidoki 1
